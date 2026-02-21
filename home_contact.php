@@ -3,8 +3,8 @@
 <div class="row">
 <div class="col-lg-12">
 <div class="contact-title section-space--mb_50">
-<h3 class="mb-20">Need a hand?</h3>
-<p class="sub-title">Reach out to the world’s most reliable IT services.</p>
+<h3 class="mb-20">Başlamaya Hazır mısınız?</h3>
+<p class="sub-title">Proje gereksinimlerinizi tartışmak ve ücretsiz danışmanlık almak için bugün bizimle iletişime geçin.</p>
 </div>
 </div>
 </div>
@@ -12,16 +12,21 @@
 <div class="col-lg-6">
 <div class="contact-form-wrap">
 
-<!-- <form class="contact-form" id="contact-form-2" action="https://whizthemes.com/mail-php/jowel/mitech/php/services-mail.php" method="post"> -->
-<form class="contact-form" id="contact-form-2" action="assets/php/services-mail.php" method="post">
+<form class="contact-form" id="contact-form-2" method="post">
 <div class="contact-form__two">
+
 <div class="contact-input">
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Name *">
+<input name="con_name" type="text" placeholder="Ad Soyad *">
 </div>
 <div class="contact-inner">
 <input name="con_email" type="email" placeholder="Email *">
 </div>
+</div>
+
+<div class="contact-input">
+<div class="contact-inner">
+<input name="con_name" type="text" placeholder="Telefon *">
 </div>
 <div class="contact-select">
 <div class="form-item contact-inner">
@@ -38,6 +43,9 @@
 </span>
 </div>
 </div>
+</div>
+
+
 <div class="contact-inner contact-message">
 <textarea name="con_message" placeholder="Please describe what you need."></textarea>
 </div>
