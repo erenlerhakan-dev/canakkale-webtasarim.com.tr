@@ -49,7 +49,6 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<div class="footer-widget__title section-space--mb_50"></div>
 <img src="/images/cozumcloudqrcode.png" alt="Çözüm Cloud QR Code" class="img-fluid">
 </div>
 
