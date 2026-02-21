@@ -8,51 +8,44 @@
 <img src="assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
 </div>
 <ul class="footer-widget__list">
-<li>58 Howard Street #2 San Francisco, CA 941</li>
-<li><a href="mailto:contact@aeroland.com" class="hover-style-link">contact@aeroland.com</a></li>
-<li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
-<li><a href="https://hasthemes.com/" class="hover-style-link text-color-primary">www.mitech.xperts.com</a></li>
+<li>Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17 Çanakkale 17000</li>
+<li><a href="mailto:info@cozumcloud.com.tr" class="hover-style-link">info@cozumcloud.com.tr</a></li>
+<li><a href="tel:+905347922531" class="hover-style-link text-black font-weight--bold">+90 534 792 25 31</a></li>
 </ul>
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">IT Services</h6>
 <ul class="footer-widget__list">
-<li><a href="#" class="hover-style-link">Managed IT</a></li>
-<li><a href="#" class="hover-style-link">IT Support</a></li>
-<li><a href="#" class="hover-style-link">IT Consultancy</a></li>
-<li><a href="#" class="hover-style-link">Cloud Computing</a></li>
-<li><a href="#" class="hover-style-link">Cyber Security</a></li>
+<li><a href="#" class="hover-style-link">Ana Sayfa</a></li>
+<li><a href="#" class="hover-style-link">Hakkımızda</a></li>
+<li><a href="#" class="hover-style-link">Hizmetler</a></li>
+<li><a href="#" class="hover-style-link">Blog</a></li>
+<li><a href="#" class="hover-style-link">İletişim</a></li>
 </ul>
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">Quick links</h6>
 <ul class="footer-widget__list">
-<li><a href="#" class="hover-style-link">Pick up locations</a></li>
-<li><a href="#" class="hover-style-link">Terms of Payment</a></li>
-<li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-<li><a href="#" class="hover-style-link">Where to Find Us</a></li>
-</ul>
-</div>
-
-<div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">Support</h6>
-<ul class="footer-widget__list">
-<li><a href="#" class="hover-style-link">Forum Support</a></li>
-<li><a href="#" class="hover-style-link">Help & FAQ</a></li>
-<li><a href="#" class="hover-style-link">Contact Us</a></li>
-<li><a href="#" class="hover-style-link">Pricing and plans</a></li>
-<li><a href="#" class="hover-style-link">Cookies Policy</a></li>
+<li><a href="#" class="hover-style-link">Özel Web Geliştirme</a></li>
+<li><a href="#" class="hover-style-link">CRM Sistemleri</a></li>
+<li><a href="#" class="hover-style-link">ERP Çözümleri</a></li>
+<li><a href="#" class="hover-style-link">E-Ticaret Platformları</a></li>
+<li><a href="#" class="hover-style-link">Mobil Uygulamalar</a></li>
+<li><a href="#" class="hover-style-link">Rezervasyon Sistemleri</a></li>
+<li><a href="#" class="hover-style-link">B2B & B2C Platformları</a></li>
+<li><a href="#" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
+<li><a href="#" class="hover-style-link">API Geliştirme</a></li>
+<li><a href="#" class="hover-style-link">Güvenlik ve Bakım</a></li>
+<li><a href="#" class="hover-style-link">Performans Optimizasyonu</a></li>
+<li><a href="#" class="hover-style-link">Teknik Danışmanlık</a></li>
 </ul>
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <div class="footer-widget__title section-space--mb_50"></div>
-<ul class="footer-widget__list">
-<li><a href="#" class="image_btn" aria-label="Google play Button"><img class="img-fluid" src="assets/images/icons/aeroland-button-google-play.webp" alt=""></a></li>
-<li><a href="#" class="image_btn" aria-label="App Store Button"><img class="img-fluid" src="assets/images/icons/aeroland-button-app-store.webp" alt=""></a></li>
-</ul>
+<img src="/images/cozumcloudqrcode.png" alt="Çözüm Cloud QR Code" class="img-fluid">
 </div>
 
 </div>
@@ -62,34 +55,36 @@
 <div class="footer-copyright-area section-space--pb_30">
 <div class="container">
 <div class="row align-items-center">
+
 <div class="col-md-6 text-center text-md-start">
 <span class="copyright-text">&copy; <?php echo date("Y"); ?> <a href="https://www.cozumcloud.com.tr">[Çözüm Cloud]</a> Çanakkale Web Yazılım. Tüm hakları saklıdır.</span>
 </div>
+
 <div class="col-md-6 text-center text-md-end">
 <ul class="list ht-social-networks solid-rounded-icon">
-
 <li class="item">
-<a href="https://twitter.com" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
+<a href="https://x.com/cozumcloud" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-twitter link-icon"></i>
 </a>
 </li>
 <li class="item">
-<a href="https://facebook.com" target="_blank" aria-label="Facebook" class="social-link hint--bounce hint--top hint--primary">
+<a href="https://www.facebook.com/cozum.cloud/" target="_blank" aria-label="Facebook" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-facebook-f link-icon"></i>
 </a>
 </li>
 <li class="item">
-<a href="https://instagram.com" target="_blank" aria-label="Instagram" class="social-link hint--bounce hint--top hint--primary">
+<a href="https://www.instagram.com/cozum.cloud/" target="_blank" aria-label="Instagram" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-instagram link-icon"></i>
 </a>
 </li>
 <li class="item">
-<a href="https://linkedin.com" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
+<a href="https://www.linkedin.com/company/cozum-cloud" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
 <i class="fab fa-linkedin link-icon"></i>
 </a>
 </li>
 </ul>
 </div>
+
 </div>
 </div>
 </div>
