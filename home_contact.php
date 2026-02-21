@@ -8,7 +8,9 @@
 </div>
 </div>
 </div>
+
 <div class="row">
+
 <div class="col-lg-6">
 <div class="contact-form-wrap">
 
@@ -16,18 +18,23 @@
 <div class="contact-form__two">
 
 <div class="contact-input">
+
 <div class="contact-inner">
 <input name="con_name" type="text" placeholder="Ad Soyad *">
 </div>
+
 <div class="contact-inner">
 <input name="con_email" type="email" placeholder="Email *">
 </div>
+
 </div>
 
 <div class="contact-input">
+
 <div class="contact-inner">
 <input name="con_name" type="text" placeholder="Telefon *">
 </div>
+
 <div class="contact-select">
 <div class="form-item contact-inner">
 <span class="inquiry">
@@ -39,34 +46,37 @@
 <option value="Careers">Careers</option>
 <option value="Software Licencing">Software Licencing</option>
 </select>
-
 </span>
 </div>
 </div>
-</div>
 
+</div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Please describe what you need."></textarea>
+<textarea name="con_message" placeholder="Talebiniz, mesajınız."></textarea>
 </div>
+
 <div class="comment-submit-btn">
-<button class="ht-btn ht-btn-md" type="submit">Get a free consultation</button>
-<p class="form-messege-2"></p>
+<button class="ht-btn ht-btn-md" type="submit">Gönder</button>
 </div>
+
 </div>
 </form>
+
 </div>
 </div>
+
 <div class="col-lg-5 ms-auto">
 <div class="contact-info-three text-left">
-<h6 class="heading font-weight--reguler">Reach out now!</h6>
-<h3 class="call-us"><a href="#">(+00) 123 567990</a></h3>
-<div class="text">Start the collaboration with us while figuring out the best solution based on your needs.</div>
+<h6 class="heading font-weight--reguler">Bize Ulaşın !</h6>
+<h3 class="call-us"><a href="tel:+905347922531">(+90) 534 792 25 31</a></h3>
+<div class="text">İhtiyaçlarınıza en uygun çözümü bulmak için bizimle iş birliğine başlayın.</div>
 <div class="location-button mt-20">
 <a href="#" class="location-text-button"><span class="button-icon"></span> <span class="button-text">View on Google map</span></a>
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </div>
