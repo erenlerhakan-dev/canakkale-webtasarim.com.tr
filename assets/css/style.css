@@ -14302,3 +14302,15 @@ border-color: #818181 !important;
 .contact-inner-home {
 margin: 0 0 6px;
 }
+.homewelcome1{
+color: #4a6c91 !important;
+font-weight: 700;
+line-height: 1;
+margin-bottom: 1.5rem;
+}
+.homewelcome2{
+font-size: 1.5rem;
+line-height: 2rem;
+color: #424c56 !important;
+font-weight: 400;
+}
