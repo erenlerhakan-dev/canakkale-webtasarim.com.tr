@@ -61,7 +61,7 @@
 </div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Talebiniz, mesajınız."></textarea>
+<textarea name="con_message" placeholder="Talebiniz, mesajınız"></textarea>
 </div>
 
 <div class="comment-submit-btn">
