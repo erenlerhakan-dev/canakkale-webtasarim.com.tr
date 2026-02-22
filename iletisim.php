@@ -72,9 +72,9 @@
 
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30">
-<h5 class="heading mb-20">Ofis Adresi</h5>
+<h5 class="heading mb-20">Adres</h5>
 <ul class="conact-info__list">
-<li>Esenler Mh. Ahmet Piriştina Cd. No:19/17 Çanakkale Türkiye</li>
+<li>Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale</li>
 </ul>
 </div>
 </div>
