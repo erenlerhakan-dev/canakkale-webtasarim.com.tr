@@ -6,7 +6,7 @@
 <div class="appointment-hero-wrap wow move-up">
 <div class="appointment-hero-text">
 <h1 class="font-weight--reguler text-white mb-20 homewelcome1">İşinizi Profesyonel Yazılım Çözümleriyle Dönüştürün</h1>
-<h6 class="text-white homewelcome2 mb-10">Çanakkale, Türkiye'de lider web geliştirme şirketi <span class="text-line">Modern Teknolojilerle Oluşturulmuş Özel CRM, ERP, E-Ticaret ve Web Uygulamaları</span></h6>
+<h6 class="text-white homewelcome2 mb-10">Çanakkale'de lider web geliştirme şirketi <span class="text-line">Modern Teknolojilerle Oluşturulmuş Özel CRM, ERP, E-Ticaret ve Web Uygulamaları</span></h6>
 </div>
 </div>
 
