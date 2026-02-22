@@ -14293,8 +14293,8 @@ blockquote {
   color: #fff !important;
 }
 .hometags {
-margin-bottom: 10px;
-border-radius: 200px;
-color: #818181;
-border-color: #818181;
+margin-bottom: 10px !important;
+border-radius: 200px !important;
+color: #818181 !important;
+border-color: #818181 !important;
 }
