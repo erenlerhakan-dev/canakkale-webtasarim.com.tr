@@ -838,7 +838,7 @@
     }); 
         
     var carouselSlider = new Swiper('.testimonial-slider__container', {
-        slidesPerView : 2,
+        slidesPerView : 3,
         slidesPerGroup: 1,
         loop: true,
         speed: 1000,
@@ -854,11 +854,11 @@
         },
         breakpoints: {
             1499:{
-                slidesPerView : 2
+                slidesPerView : 3
             },
 
             991:{
-                slidesPerView : 1
+                slidesPerView : 2
             },
 
             767:{
