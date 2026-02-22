@@ -80,7 +80,7 @@
 <h3 class="call-us"><a href="tel:+905347922531">(+90) 534 792 25 31</a></h3>
 <div class="text">İhtiyaçlarınıza en uygun çözümü bulmak için bizimle iş birliğine başlayın.</div>
 <div class="location-button mt-20">
-<a href="#" class="location-text-button"><span class="button-icon"></span> <span class="button-text">View on Google map</span></a>
+<a href="https://share.google/5qKjOnp1q0aPwJL0K" class="location-text-button" target="_blank"><span class="button-icon"></span> <span class="button-text">Google İşletme Kaydımız</span></a>
 </div>
 </div>
 </div>
