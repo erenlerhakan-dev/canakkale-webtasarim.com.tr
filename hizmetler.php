@@ -32,8 +32,7 @@
 <h3 class="heading mb-20">Teknoloji ve Yaratıcılığın Buluşma Noktası</h3>
 </div>
 <h6 class="mb-20">Çanakkale Web Yazılım olarak, sadece kod yazmıyor; işletmenizin dijital kimliğini inşa ediyoruz. Modern teknolojileri, kullanıcı dostu tasarımlarla birleştirerek, markanızı internet dünyasında bir adım öne çıkarıyoruz.</h6>
-<h6 class="mb-20">Yerel bir ajans olmanın samimiyetini, global bir teknoloji şirketinin vizyonuyla birleştiriyoruz. 
-                        Esenler Mahallesi'ndeki ofisimizde, hayallerinizdeki dijital projeyi hayata geçirmek için sabırsızlanıyoruz.</h6>
+<h6 class="mb-20">Yerel bir ajans olmanın samimiyetini, global bir teknoloji şirketinin vizyonuyla birleştiriyoruz. Çanakkale'deki ofisimizde, hayallerinizdeki dijital projeyi hayata geçirmek için sabırsızlanıyoruz.</h6>
 </div>
 </div>
 
