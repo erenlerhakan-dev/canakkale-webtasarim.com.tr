@@ -31,6 +31,11 @@
 <div class="conact-us-wrap-one mb-30">
 <h3 class="heading"><span class="text-color-primary">İletişim</span></h3>
 <div class="sub-heading">Proje gereksinimlerinizi görüşmek için bizimle iletişime geçin</div>
+<p>Çözüm Cloud olarak, sadece bir yazılım firması değil, dijital çözüm ortağınız olmayı hedefliyoruz. 
+                Çanakkale'nin yerel gücüyle küresel teknoloji standartlarını birleştirerek; 
+                <strong>Laravel'den React'e, bulut sistemlerden mobil uygulamalara</strong> kadar geniş bir yelpazede 
+                işinizi büyütüyoruz. İster bir başlangıç (startup) olun, ister köklü bir kuruluş; 
+                ihtiyaçlarınıza özel, ölçeklenebilir ve sürdürülebilir çözümler için bir kahve içmeye her zaman bekleriz.</p>
 </div>
 </div>
 
