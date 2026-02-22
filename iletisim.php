@@ -13,11 +13,7 @@
 
 <?php include_once('preloader.php'); ?>
 
-<div class="header-area header-area--default">
-
 <?php include_once('header.php'); ?>
-
-</div>
 
 <div id="main-wrapper">
 
