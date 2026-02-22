@@ -154,6 +154,39 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 </div>
 </div>
 
+<div class="feature-icon-wrapper section-space--pb_80 section-space--pt_80 border-bottom" style="background: #e8e8e8;">
+<div class="container">
+<div class="row">
+<div class="col-12">
+
+<div class="section-title-wrap text-center section-space--mb_60">
+<h3 class="heading mb-20">Neden Bizi Seçmelisiniz?</h3>
+</div>
+
+<div class="row justify-content-center">
+<div class="col-lg-8 align-self-center">
+<div class="list-group-wrap section-space--mb_60">
+<div class="separator-list-wrap">
+<ol class="automatic-numbered-list">
+<li class="list-item">Yerel Uzmanlık
+</li>
+<li class="list-item">Teknik Mükemmellik
+</li>
+<li class="list-item">Kapsamlı Destek
+</li>
+<li class="list-item">Şeffaf İletişim
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div> 
+
+</div>
+</div>
+</div>
+</div>
+
 </div>
 
 <?php include_once('footer.php'); ?>
