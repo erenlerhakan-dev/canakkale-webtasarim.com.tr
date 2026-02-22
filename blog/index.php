@@ -53,9 +53,9 @@
 </h4>
 
 <div class="post-meta mt-20">
-<div class="post-author"><a href="https://www.hakanerenler.net"><span class="far fa-calendar meta-icon"></span> Hakan Erenler</a></div>
+<div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
 <div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Ocak 2024</div>
-<div class="post-view"><span class="meta-icon fa fa-list"></span>Web Geliştirme</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
