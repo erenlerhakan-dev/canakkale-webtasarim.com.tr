@@ -1,4 +1,4 @@
-<div class="appointment-hero-wrapper appointment-hero-bg section-space--ptb_120">
+<div class="appointment-hero-wrapper appointment-hero-bg section-space--ptb_60">
 <div class="container">
 <div class="row align-items-center">
 
