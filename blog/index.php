@@ -37,9 +37,6 @@
 
 <div class="site-wrapper-reveal">
 
-
-
-<!--==================== Blog Area Start ====================-->
 <div class="blog-pages-wrapper section-space--ptb_100">
 <div class="container">
 <div class="row">
@@ -49,21 +46,21 @@
 <h3 class="heading">Interesting articles<span class="text-color-primary"> updated daily</span></h3>
 </div>
 <div class="main-blog-wrap">
-<!--======= Single Blog Item Start ========-->
+
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
 <div class="row ">
 <div class="col-lg-6">
-<!-- Post Feature Start -->
+
 <div class="post-feature blog-thumbnail">
 <a href="blog-post-layout-one.html">
 <img class="img-fluid" src="assets/images/blog/blog-01-540x330.webp" alt="Blog Images">
 </a>
 </div>
-<!-- Post Feature End -->
+
 </div>
 
 <div class="col-lg-6">
-<!-- Post info Start -->
+
 <div class="post-info lg-blog-post-info">
 <h4 class="post-title">
 <a href="blog-post-layout-one.html">Ideas for High Returns on Investment</a>
