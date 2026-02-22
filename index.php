@@ -546,25 +546,7 @@ How we work
 </div>
 </div>
 
-
-<!--========== Call to Action Area Start ============-->
-<div class="cta-image-area_one section-space--ptb_80 cta-bg-image_two">
-<div class="container">
-<div class="row align-items-center">
-<div class="col-xl-8 col-lg-7">
-<div class="cta-content md-text-center">
-<h3 class="heading">We run all kinds of IT services that vow your <span class="text-color-primary"> success</span></h3>
-</div>
-</div>
-<div class="col-xl-4 col-lg-5">
-<div class="cta-button-group--two text-center">
-<a href="#" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-comment-alt"></i></span> Let's talk</a>
-<a href="#" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Get info</a>
-</div>
-</div>
-</div>
-</div>
-</div>
+<?php include_once('home_divider.php'); ?>
 
 <?php include_once('home_tags.php'); ?>
 
