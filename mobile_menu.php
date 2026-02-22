@@ -27,14 +27,13 @@
 <nav class="offcanvas-navigation">
 
 <ul>
-<li><a href="index-infotechno.html"><span>Ana Sayfa</span></a></li>
-<li><a href="index-infotechno.html"><span>Hakkımızda</span></a></li>
-<li><a href="index-infotechno.html"><span>Hizmetler</span></a></li>
-<li><a href="index-infotechno.html"><span>Blog</span></a></li>
-<li><a href="index-infotechno.html"><span>İletişim</span></a></li>
-
+<li><a href="https://canakkale-webtasarim.com.tr/">Ana Sayfa</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/hakkimizda.php">Hakkımızda</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/hizmetler.php">Hizmetler</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/blog/index.php">Blog</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/iletisim.php">İletişim</a></li>
 <li class="has-children">
-<a href="index.html"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe h-4 w-4"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg></a>
+<a href="index.html"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe h-4 w-4"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg> EN</a>
 <ul class="sub-menu">
 <li><a href="index-infotechno.html"><span>Türkçe</span></a></li>
 <li><a href="index-processing.html"><span>English</span></a></li>
