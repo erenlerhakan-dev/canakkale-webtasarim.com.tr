@@ -20,101 +20,88 @@
 </div>
 
 <div id="main-wrapper">
+
 <div class="site-wrapper-reveal">
-
-<div class="feature-large-images-wrapper section-space--ptb_100">
+<!--==================== Conact us Section Start ====================-->
+<div class="contact-us-section-wrappaer section-space--pt_100 section-space--pb_70">
 <div class="container">
+<div class="row align-items-center">
+<div class="col-lg-6 col-lg-6">
+<div class="conact-us-wrap-one mb-30">
+<h3 class="heading">To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> via our social channels. </h3>
+<div class="sub-heading">We just need a couple of hours! <br> No more than 2 working days since receiving your issue ticket.</div>
+</div>
+</div>
 
-<section class="py-5">
-    <div class="container px-4">
-        <div class="row g-5">
-            
-            <div class="col-lg-6">
-                <h2 class="fs-2 fw-bold mb-4">Bize Mesaj Gönderin</h2>
-                <div class="card border shadow-sm p-4 p-md-5">
-                    <form>
-                        <div class="mb-3">
-                            <label for="name" class="form-label small fw-medium">Ad Soyad *</label>
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Adınızı girin" required>
-                        </div>
+<div class="col-lg-6 col-lg-6">
+<div class="contact-form-wrap">
 
-                        <div class="mb-3">
-                            <label for="email" class="form-label small fw-medium">E-posta Adresi *</label>
-                            <input type="email" class="form-control" id="email" name="email" placeholder="eposta@ornek.com" required>
-                        </div>
+<!-- <form id="contact-form" action="http://whizthemes.com/mail-php/jowel/mitech/php/mail.php" method="post"> -->
+<form id="contact-form" action="assets/php/mail.php" method="post">
+<div class="contact-form">
+<div class="contact-input">
+<div class="contact-inner">
+<input name="con_name" type="text" placeholder="Name *" required>
+</div>
+<div class="contact-inner">
+<input name="con_email" type="email" placeholder="Email *" required>
+</div>
+</div>
+<div class="contact-inner">
+<input name="con_subject" type="text" placeholder="Subject *" required>
+</div>
+<div class="contact-inner contact-message">
+<textarea name="con_message" placeholder="Please describe what you need." required></textarea>
+</div>
+<div class="submit-btn mt-20">
+<button class="ht-btn ht-btn-md" type="submit">Send message</button>
+<p class="form-messege"></p>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--==================== Conact us Section End ====================-->
 
-                        <div class="mb-3">
-                            <label for="phone" class="form-label small fw-medium">Telefon Numarası *</label>
-                            <input type="tel" class="form-control" id="phone" name="phone" placeholder="+90 5XX XXX XX XX" required>
-                        </div>
+<!--==================== Conact us info Start ====================-->
+<div class="contact-us-info-wrappaer section-space--pb_100">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-4 col-md-6">
+<div class="conact-info-wrap mt-30">
+<h5 class="heading mb-20">San Francisco</h5>
+<ul class="conact-info__list">
+<li>58 Howard Street #2 San Francisco, CA 941</li>
+<li><a href="#" class="hover-style-link text-color-primary">contact.sanfrancisco@mitech.com</a></li>
+<li><a href="#" class="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="conact-info-wrap mt-30">
+<h5 class="heading mb-20">New York</h5>
+<ul class="conact-info__list">
+<li>58 Howard Street #14 New York</li>
+<li><a href="#" class="hover-style-link text-color-primary">contact.newyork@mitech.com</a></li>
+<li><a href="#" class="hover-style-link text-black font-weight--bold">(+47)1221 09878</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="conact-info-wrap mt-30">
+<h5 class="heading mb-20">Russia</h5>
+<ul class="conact-info__list">
+<li>The Courtyard Building 11 Curtain Road, Russia</li>
+<li><a href="#" class="hover-style-link text-color-primary">contact.russia@mitech.com</a></li>
+<li><a href="#" class="hover-style-link text-black font-weight--bold">(+53)1221 09877</a></li>
+</ul>
+</div>
+</div>
 
-                        <div class="mb-4">
-                            <label for="message" class="form-label small fw-medium">Mesaj *</label>
-                            <textarea class="form-control" id="message" name="message" rows="5" placeholder="Projeniz hakkında bize bilgi verin..." required></textarea>
-                        </div>
-
-                        <button type="submit" class="btn btn-primary w-100 py-2 fw-bold text-white shadow-sm" style="background: linear-gradient(45deg, #0d6efd, #0dcaf0); border: none;">
-                            Mesaj Gönder
-                        </button>
-                    </form>
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <h2 class="fs-2 fw-bold mb-4">İletişim Bilgileri</h2>
-                <div class="d-flex flex-column gap-3">
-                    
-                    <div class="card border shadow-sm p-4">
-                        <div class="d-flex align-items-start gap-3">
-                            <div class="text-primary">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
-                            </div>
-                            <div>
-                                <h3 class="h6 fw-bold mb-2">Ofis Adresi</h3>
-                                <p class="text-muted mb-0 small">Esenler Mh. Ahmet Piriştina Cd.<br>No:19 Daire:17<br>Çanakkale 17000, Türkiye</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card border shadow-sm p-4">
-                        <div class="d-flex align-items-start gap-3">
-                            <div class="text-primary">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-                            </div>
-                            <div>
-                                <h3 class="h6 fw-bold mb-2">Telefon</h3>
-                                <a href="tel:+905347922531" class="text-muted text-decoration-none small">+90 534 792 25 31</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card border shadow-sm p-4">
-                        <div class="d-flex align-items-start gap-3">
-                            <div class="text-primary">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
-                            </div>
-                            <div>
-                                <h3 class="h6 fw-bold mb-2">E-posta</h3>
-                                <a href="mailto:info@cozumcloud.com.tr" class="text-muted text-decoration-none small">info@cozumcloud.com.tr</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card border-0 shadow-sm p-4" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
-                        <h3 class="h6 fw-bold mb-3">Çalışma Saatleri</h3>
-                        <div class="small text-muted">
-                            <p class="mb-1">Pazartesi - Cuma: 09:00 - 18:00</p>
-                            <p class="mb-1">Cumartesi: 10:00 - 14:00</p>
-                            <p class="mb-0">Pazar: Kapalı</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
+</div>
 </div>
 </div>
 
