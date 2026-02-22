@@ -4,7 +4,7 @@
 
 <div class="col-lg-8 align-self-center">
 
-<div class="toggles-wrapper section-space--pt_90">
+<div class="toggles-wrapper section-space--pt_70 section-space--pb_70">
 
 <div class="faq-wrapper">
 
