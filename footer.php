@@ -5,7 +5,7 @@
 
 <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
 <div class="footer-widget__logo mb-30">
-<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;">Çanakkale Web Yazılım</h1>
+<h1 style="font-size: 18px;font-weight: 800;color: #555555;">Çanakkale Web Yazılım</h1>
 </div>
 <ul class="footer-widget__list">
 <li>Esenler Mh. Ahmet Piriştina Cd. No:19<br>İç Kapı No:17 Çanakkale 17000</li>
@@ -15,7 +15,7 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">Hızlı Bağlantılar</h6>
+<h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="https://canakkale-webtasarim.com.tr/" class="hover-style-link">Ana Sayfa</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/hakkimizda.php" class="hover-style-link">Hakkımızda</a></li>
@@ -26,7 +26,7 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">Hizmetler</h6>
+<h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="#" class="hover-style-link">Özel Web Geliştirme</a></li>
 <li><a href="#" class="hover-style-link">CRM Sistemleri</a></li>
@@ -37,7 +37,7 @@
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-<h6 class="footer-widget__title mb-20">Hizmetler</h6>
+<h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
 <li><a href="#" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
 <li><a href="#" class="hover-style-link">B2B & B2C Çözümleri</a></li>
