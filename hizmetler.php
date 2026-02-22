@@ -22,7 +22,7 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="feature-large-images-wrapper section-space--pt_100">
+<div class="feature-large-images-wrapper section-space--pt_100 section-space--pb_40">
 <div class="container">
 
 <div class="row">
