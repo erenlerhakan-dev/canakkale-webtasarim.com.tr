@@ -23,8 +23,8 @@
 <span class="fa fa-phone"></span>
 </div>
 <div class="info-content">
-<h6 class="info-title">0122 8899900</h6>
-<div class="info-sub-title">Info@example.com</div>
+<h6 class="info-title">+90 534 792 25 31</h6>
+<div class="info-sub-title">info@cozumcloud.com.tr</div>
 </div>
 </div>
 </div>
@@ -34,8 +34,8 @@
 <span class="fa fa-map-marker-alt"></span>
 </div>
 <div class="info-content">
-<h6 class="info-title">219 Amara Fort Apt. 394</h6>
-<div class="info-sub-title">New York, NY 941</div>
+<h6 class="info-title">Esenler Mh. Ahmet Piriştina Cd. No:19/17</h6>
+<div class="info-sub-title">Çanakkale 17000</div>
 </div>
 </div>
 </div>
@@ -45,8 +45,8 @@
 <span class="fa fa-clock"></span>
 </div>
 <div class="info-content">
-<h6 class="info-title">8:00AM - 6:00PM</h6>
-<div class="info-sub-title">Monday to Saturday</div>
+<h6 class="info-title">09:00 - 19:00</h6>
+<div class="info-sub-title">Pazartesi - Cumartesi</div>
 </div>
 </div>
 </div>
@@ -56,8 +56,8 @@
 <span class="fas fa-comment-alt"></span>
 </div>
 <div class="info-content">
-<h6 class="info-title">Online 24/7</h6>
-<div class="info-sub-title">+122 123 4567</div>
+<h6 class="info-title">09:00 - 19:00</h6>
+<div class="info-sub-title">+90 534 7922531</div>
 </div>
 </div>
 </div>

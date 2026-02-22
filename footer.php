@@ -8,7 +8,7 @@
 <img src="assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
 </div>
 <ul class="footer-widget__list">
-<li>Esenler Mh. Ahmet Piriştina Cd. No:19<br>Daire:17 Çanakkale 17000</li>
+<li>Esenler Mh. Ahmet Piriştina Cd. No:19<br>İç Kapı No:17 Çanakkale 17000</li>
 <li><a href="mailto:info@cozumcloud.com.tr" class="hover-style-link">info@cozumcloud.com.tr</a></li>
 <li><a href="tel:+905347922531" class="hover-style-link text-black font-weight--bold">+90 534 792 25 31</a></li>
 </ul>
