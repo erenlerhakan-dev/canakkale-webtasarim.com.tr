@@ -32,12 +32,12 @@
 <div class="main-blog-wrap">
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/2024te-modern-web-gelistirme-trendleri.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
 </a>
 </div>
@@ -49,7 +49,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">2024'te Modern Web Geliştirme Trendleri</a>
+<a href="/blog/2024te-modern-web-gelistirme-trendleri.php">2024'te Modern Web Geliştirme Trendleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -64,7 +64,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/2024te-modern-web-gelistirme-trendleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -76,12 +76,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 </a>
 </div>
@@ -93,7 +93,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları</a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -108,7 +108,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -120,12 +120,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 </a>
 </div>
@@ -137,7 +137,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Küçük İşletmeler için E-Ticaret Başarı Stratejileri</a>
+<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.php">Küçük İşletmeler için E-Ticaret Başarı Stratejileri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -152,7 +152,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -164,12 +164,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 </a>
 </div>
@@ -181,7 +181,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir</a>
+<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.php">Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -196,7 +196,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -208,12 +208,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 </a>
 </div>
@@ -225,7 +225,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">React vs Angular: Doğru Frontend Framework'ü Seçmek</a>
+<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek.php">React vs Angular: Doğru Frontend Framework'ü Seçmek</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -240,7 +240,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -252,12 +252,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri">
 </a>
 </div>
@@ -269,7 +269,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri</a>
+<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.php">Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -284,7 +284,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -296,12 +296,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 </a>
 </div>
@@ -313,7 +313,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri</a>
+<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.php">Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -328,7 +328,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -340,12 +340,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
 </a>
 </div>
@@ -357,7 +357,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları</a>
+<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.php">Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -372,7 +372,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -384,12 +384,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Bulut Hosting Çözümlerine Eksiksiz Rehber">
 </a>
 </div>
@@ -401,7 +401,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Bulut Hosting Çözümlerine Eksiksiz Rehber</a>
+<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.php">Bulut Hosting Çözümlerine Eksiksiz Rehber</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -416,7 +416,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -428,12 +428,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 </a>
 </div>
@@ -445,7 +445,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">ERP Sistemi Uygulaması: Kapsamlı Rehber</a>
+<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber.php">ERP Sistemi Uygulaması: Kapsamlı Rehber</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -460,7 +460,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -472,12 +472,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 </a>
 </div>
@@ -489,7 +489,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">İlerici Web Uygulamaları: Web Geliştirmenin Geleceği</a>
+<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.php">İlerici Web Uygulamaları: Web Geliştirmenin Geleceği</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -504,7 +504,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -516,12 +516,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 </a>
 </div>
@@ -533,7 +533,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma</a>
+<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.php">Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -548,7 +548,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -560,12 +560,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 </a>
 </div>
@@ -577,7 +577,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri</a>
+<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.php">Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -592,7 +592,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -604,12 +604,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 </a>
 </div>
@@ -621,7 +621,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme</a>
+<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.php">Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -636,7 +636,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -648,12 +648,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Mikroservis Mimarisi: Faydalar ve Zorluklar">
 </a>
 </div>
@@ -665,7 +665,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Mikroservis Mimarisi: Faydalar ve Zorluklar</a>
+<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.php">Mikroservis Mimarisi: Faydalar ve Zorluklar</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -680,7 +680,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -692,12 +692,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 </a>
 </div>
@@ -709,7 +709,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">2024 İçin Gelişmiş SEO Optimizasyon Stratejileri</a>
+<a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php">2024 İçin Gelişmiş SEO Optimizasyon Stratejileri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -724,7 +724,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -736,12 +736,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 </a>
 </div>
@@ -753,7 +753,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler</a>
+<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.php">Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -768,7 +768,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -780,12 +780,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
 </a>
 </div>
@@ -797,7 +797,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Web Erişebilirliği: WCAG Yönergelerini Uygulama</a>
+<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.php">Web Erişebilirliği: WCAG Yönergelerini Uygulama</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -812,7 +812,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -824,12 +824,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu">
 </a>
 </div>
@@ -841,7 +841,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu</a>
+<a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php">E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -856,7 +856,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -868,12 +868,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Modern Uygulamalar İçin Docker Konteynerizasyonu">
 </a>
 </div>
@@ -885,7 +885,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Modern Uygulamalar İçin Docker Konteynerizasyonu</a>
+<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.php">Modern Uygulamalar İçin Docker Konteynerizasyonu</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -900,7 +900,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -912,12 +912,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 </a>
 </div>
@@ -929,7 +929,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">İşletmeniz İçin Doğru CMS Platformunu Seçmek</a>
+<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.php">İşletmeniz İçin Doğru CMS Platformunu Seçmek</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -944,7 +944,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -956,12 +956,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 </a>
 </div>
@@ -973,7 +973,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte</a>
+<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.php">JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -988,7 +988,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1000,12 +1000,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Büyüme İçin Veri Analitiği ve İş Zekası">
 </a>
 </div>
@@ -1017,7 +1017,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Büyüme İçin Veri Analitiği ve İş Zekası</a>
+<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi.php">Büyüme İçin Veri Analitiği ve İş Zekası</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1032,7 +1032,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1044,12 +1044,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 </a>
 </div>
@@ -1061,7 +1061,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Mobil Uygulama Geliştirme: Native vs Cross-Platform</a>
+<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.php">Mobil Uygulama Geliştirme: Native vs Cross-Platform</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1076,7 +1076,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1088,12 +1088,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
 </a>
 </div>
@@ -1105,7 +1105,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları</a>
+<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.php">Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1120,7 +1120,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1132,12 +1132,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 </a>
 </div>
@@ -1149,7 +1149,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar</a>
+<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.php">B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1164,7 +1164,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1176,12 +1176,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 </a>
 </div>
@@ -1193,7 +1193,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları</a>
+<a href="/blog/Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları.php">Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1208,7 +1208,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1220,13 +1220,13 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Sitesi Performans Optimizasyon Teknikleri ">
+<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri.php">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Sitesi Performans Optimizasyon Teknikleri">
 </a>
 </div>
 
@@ -1237,7 +1237,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Web Sitesi Performans Optimizasyon Teknikleri</a>
+<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri.php">Web Sitesi Performans Optimizasyon Teknikleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1252,7 +1252,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/web-sitesi-performans-optimizasyon-teknikleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1264,13 +1264,13 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Sitesi Performans Optimizasyon Teknikleri ">
+<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.php">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 </a>
 </div>
 
@@ -1281,7 +1281,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi</a>
+<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.php">İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1296,7 +1296,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -1308,12 +1308,12 @@
 </div>
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
+<div class="row">
 
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/aaa.php">
+<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İş Uygulamaları İçin Blockchain Teknolojisi">
 </a>
 </div>
@@ -1325,7 +1325,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">İş Uygulamaları İçin Blockchain Teknolojisi</a>
+<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi.php">İş Uygulamaları İçin Blockchain Teknolojisi</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1340,7 +1340,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
