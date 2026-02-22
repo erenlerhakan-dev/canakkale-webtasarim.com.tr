@@ -9163,20 +9163,6 @@ ol {
   display: none !important;
 }
 
-/**
- * source: hint-position.scss
- *
- * Defines the positoning logic for the tooltips.
- *
- * Classes added:
- * 	1) hint--top
- * 	2) hint--bottom
- * 	3) hint--left
- * 	4) hint--right
- */
-/**
- * set default color for tooltip arrows
- */
 .hint--top-left:before {
   border-top-color: #086AD8;
 }
