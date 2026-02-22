@@ -9,6 +9,16 @@
 <h6 class="text-white homewelcome2">Çanakkale, Türkiye'de lider web geliştirme şirketi <span class="text-line">Modern Teknolojilerle Oluşturulmuş Özel CRM, ERP, E-Ticaret ve Web Uygulamaları</span></h6>
 </div>
 </div>
+
+<div class="row">
+<div class="col-6">
+<a class="btn btn--white" href="/iletisim">İletişim</a>
+</div>
+<div class="col-6">
+<a class="btn btn--secondary" href="/hizmetler">Hizmetler</a>
+</div>
+</div>
+
 </div>
 
 <div class="col-lg-5 me-auto ms-auto col-md-6">
