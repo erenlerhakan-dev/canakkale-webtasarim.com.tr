@@ -22,7 +22,7 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="feature-large-images-wrapper section-space--ptb_100">
+<div class="feature-large-images-wrapper section-space--pt_100">
 <div class="container">
 
 <div class="row">
@@ -39,7 +39,7 @@
 </div>
 </div>
 
-<div class="feature-icon-wrapper section-space--pb_70" style="background-color: #f6f2ed;">
+<div class="feature-icon-wrapper section-space--pb_70 section-space--pt_70" style="background-color: #f6f2ed;">
 <div class="container">
 
 <div class="row">
