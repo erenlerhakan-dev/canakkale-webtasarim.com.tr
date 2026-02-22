@@ -20,6 +20,7 @@
 <div class="testimonial-slider--info">
 
 <div class="testimonial-slider__author">
+
 <div class="testimonial-rating">
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
@@ -27,14 +28,18 @@
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
 </div>
+
 <div class="author-info">
-<h6 class="name">Abbie Ferguson</h6>
-<span class="designation">Marketing</span>
-</div>
-</div>
+<h6 class="name">Mehmet Aydın</h6>
+<span class="designation">Çanakkale Turizm Acentesi
+</span>
 </div>
 
-<div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+</div>
+
+</div>
+
+<div class="testimonial-slider__text">"Olağanüstü hizmet! Rezervasyon sistemimizi tam ihtiyacımıza göre geliştirdiler. Profesyonel ekip ve harika iletişim."</div>
 
 </div>
 </div>
