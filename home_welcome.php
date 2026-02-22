@@ -5,8 +5,7 @@
 <div class="col-lg-6 col-md-6">
 <div class="appointment-hero-wrap wow move-up">
 <div class="appointment-hero-text">
-<h1 class="font-weight--reguler text-white mb-30">İşinizi Profesyonel Yazılım Çözümleriyle Dönüştürün</h1>
-
+<h1 class="font-weight--reguler text-white mb-20">İşinizi Profesyonel Yazılım Çözümleriyle Dönüştürün</h1>
 <h6 class="text-white">Çanakkale, Türkiye'de lider web geliştirme şirketi <span class="text-line">Modern Teknolojilerle Oluşturulmuş Özel CRM, ERP, E-Ticaret ve Web Uygulamaları</span></h6>
 </div>
 </div>
@@ -15,7 +14,7 @@
 <div class="col-lg-5 me-auto ms-auto col-md-6">
 <div class="business-solution-form-wrap me-auto ms-auto">
 
-<div class="contact-title text-center section-space--mb_40">
+<div class="contact-title text-center section-space--mb_20">
 <h5 class="mb-10">Ücretsiz Teklif / Bilgi Alın</h5>
 <p class="text">İhtiyacınız olan yazılım ve ya bilişim desteği için bizden teklif almayı unutmayın.</p>
 </div>
