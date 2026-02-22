@@ -38,7 +38,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/2024te-modern-web-gelistirme-trendleri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/images/blog/2024te-modern-web-gelistirme-trendleri.webp" alt="2024'te Modern Web Geliştirme Trendleri">
 </a>
 </div>
 
@@ -82,7 +82,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 </a>
 </div>
 
@@ -126,7 +126,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 </a>
 </div>
 
@@ -170,7 +170,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 </a>
 </div>
 
@@ -214,7 +214,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/react-vs-angular-dogru-frontend-frameworku-secmek.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="React vs Angular: Doğru Frontend Framework'ü Seçmek">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 </a>
 </div>
 
@@ -258,7 +258,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri">
 </a>
 </div>
 
@@ -302,7 +302,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 </a>
 </div>
 
@@ -346,7 +346,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
 </a>
 </div>
 
@@ -390,7 +390,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Bulut Hosting Çözümlerine Eksiksiz Rehber">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Bulut Hosting Çözümlerine Eksiksiz Rehber">
 </a>
 </div>
 
@@ -434,7 +434,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/erp-sistemi-uygulamasi-kapsamli-rehber.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="ERP Sistemi Uygulaması: Kapsamlı Rehber">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 </a>
 </div>
 
@@ -478,7 +478,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 </a>
 </div>
 
@@ -522,7 +522,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 </a>
 </div>
 
@@ -566,7 +566,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 </a>
 </div>
 
@@ -610,7 +610,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 </a>
 </div>
 
@@ -654,7 +654,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/mikroservis-mimarisi-faydalar-ve-zorluklar.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Mikroservis Mimarisi: Faydalar ve Zorluklar">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Mikroservis Mimarisi: Faydalar ve Zorluklar">
 </a>
 </div>
 
@@ -698,7 +698,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024 İçin Gelişmiş SEO Optimizasyon Stratejileri">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="2024 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 </a>
 </div>
 
@@ -742,7 +742,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 </a>
 </div>
 
@@ -786,7 +786,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
 </a>
 </div>
 
@@ -830,7 +830,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu">
 </a>
 </div>
 
@@ -874,7 +874,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Modern Uygulamalar İçin Docker Konteynerizasyonu">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Modern Uygulamalar İçin Docker Konteynerizasyonu">
 </a>
 </div>
 
@@ -918,7 +918,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 </a>
 </div>
 
@@ -962,7 +962,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 </a>
 </div>
 
@@ -1006,7 +1006,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/buyume-icin-veri-analitigi-ve-is-zekasi.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Büyüme İçin Veri Analitiği ve İş Zekası">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Büyüme İçin Veri Analitiği ve İş Zekası">
 </a>
 </div>
 
@@ -1050,7 +1050,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 </a>
 </div>
 
@@ -1094,7 +1094,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
 </a>
 </div>
 
@@ -1138,7 +1138,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 </a>
 </div>
 
@@ -1182,7 +1182,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 </a>
 </div>
 
@@ -1226,7 +1226,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/web-sitesi-performans-optimizasyon-teknikleri.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Sitesi Performans Optimizasyon Teknikleri">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Web Sitesi Performans Optimizasyon Teknikleri">
 </a>
 </div>
 
@@ -1270,7 +1270,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 </a>
 </div>
 
@@ -1314,7 +1314,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/is-uygulamalari-icin-blockchain-teknolojisi.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İş Uygulamaları İçin Blockchain Teknolojisi">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="İş Uygulamaları İçin Blockchain Teknolojisi">
 </a>
 </div>
 
