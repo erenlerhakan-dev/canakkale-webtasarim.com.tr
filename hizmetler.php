@@ -39,7 +39,7 @@
 </div>
 </div>
 
-<div class="feature-icon-wrapper section-space--pb_70">
+<div class="feature-icon-wrapper section-space--pb_70" style="background-color: #f6f2ed;">
 <div class="container">
 
 <div class="row">
