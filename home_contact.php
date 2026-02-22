@@ -34,19 +34,57 @@
 <div class="contact-inner">
 <input name="con_name" type="text" placeholder="Telefon *">
 </div>
+<style>
+/* Target the select element */
+.form-select {
+    /* 1. Strip away default browser styles */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 
+    /* 2. Match the input background (flat light grey) */
+    background-color: #f8f9fa; /* Adjust this hex slightly if your grey is different */
+    
+    /* 3. Add a custom arrow using an inline SVG */
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236c757d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 16px center; /* Positions arrow on the right */
+    background-size: 16px; /* Size of the arrow */
+
+    /* 4. Match the padding, font, and dimensions of your inputs */
+    width: 100%;
+    /* Note: Right padding is larger (40px) to prevent text from overlapping the arrow */
+    padding: 16px 40px 16px 16px; 
+    font-family: inherit;
+    font-size: 16px; /* Or whatever size your inputs use */
+    color: #495057; /* Dark grey text */
+
+    /* 5. Remove borders and the current drop shadow */
+    border: none;
+    border-radius: 4px; /* Adjust to match your input corners */
+    box-shadow: none; 
+    outline: none;
+
+    /* Make it look clickable */
+    cursor: pointer;
+}
+
+/* Add a focus state so users know they clicked it */
+.form-select:focus {
+    /* Example: A subtle blue ring, matching standard web accessibility */
+    box-shadow: 0 0 0 2px rgba(0, 105, 217, 0.2); 
+}
+
+/* Basic styling for the options inside the dropdown */
+.form-select option {
+    background-color: #ffffff;
+    color: #495057;
+}
+</style>
 <div class="contact-select">
 <div class="form-item contact-inner">
 <span class="inquiry">
-<select id="visiting-two" name="Visiting" style="margin: 50px;
-  width: 150px;
-  padding: 5px 35px 5px 5px;
-  font-size: 16px;
-  border: 1px solid #CCC;
-  height: 34px;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;">
+<select id="visiting-two" name="Visiting" class="form-select">
 <option disabled selected>Select Department to email</option>
 <option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
 <option value="CRM Sistemleri">CRM Sistemleri</option>
