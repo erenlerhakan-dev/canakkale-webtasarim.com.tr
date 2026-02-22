@@ -23,20 +23,20 @@
 <form id="contact-form" action="" method="post">
 <div class="contact-form__two">
 
-<div class="contact-inner">
+<div class="contact-inner contact-inner-home">
 <input name="con_name" type="text" placeholder="Ad Soyad *">
 </div>
 
-<div class="contact-inner">
+<div class="contact-inner contact-inner-home">
 <input name="con_email" type="email" placeholder="E-posta *">
 </div>
 
-<div class="contact-inner">
+<div class="contact-inner contact-inner-home">
 <input name="con_email" type="text" placeholder="Telefon *">
 </div>
 
 <div class="contact-select">
-<div class="form-item contact-inner">
+<div class="form-item contact-inner contact-inner-home">
 <span class="inquiry">
 <select name="Visiting" class="nicesel">
 <option disabled selected>Konu *</option>
@@ -58,7 +58,7 @@
 </div>
 </div>
 
-<div class="contact-inner contact-message">
+<div class="contact-inner contact-inner-home contact-message">
 <textarea name="con_message" placeholder="Talebiniz, mesajınız."></textarea>
 </div>
 
