@@ -1,5 +1,5 @@
 <div class="accordion-wrapper">
-<div class="container text-center">
+<div class="container">
 <div class="row justify-content-center">
 
 <div class="col-lg-8 align-self-center">
@@ -8,7 +8,7 @@
 
 <div class="faq-wrapper">
 
-<div class="section-elements-title mb-30">
+<div class="section-elements-title mb-30 text-center">
 <h4>Sık Sorulan Sorular</h4>
 <p>Hizmetlerimiz ve süreçlerimiz hakkında yaygın sorular</p>
 </div>
