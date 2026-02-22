@@ -33,6 +33,7 @@
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
 <div class="row ">
+
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
@@ -46,6 +47,7 @@
 <div class="col-lg-6">
 
 <div class="post-info lg-blog-post-info">
+
 <h4 class="post-title">
 <a href="blog-post-layout-one.html">Ideas for High Returns on Investment</a>
 </h4>
@@ -70,232 +72,21 @@ January 14, 2019
 <p>Using the profit accumulator is one such way, and you should understand why it increases your chances of the profits. …</p>
 </div>
 
-
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
 <a href="blog-post-layout-one.html" class="ht-btn ht-btn-md">Read more </a>
 </div>
 </div>
-</div>
-<!-- Post info End -->
-</div>
-</div>
-</div>
-<!--===== Single Blog Item End =========-->
 
-<!--======= Single Blog Item Start ========-->
-<div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
-<div class="col-lg-6">
-<!-- Post Feature Start -->
-<div class="post-feature blog-thumbnail">
-<a href="blog-post-layout-one.html">
-<img class="img-fluid" src="/assets/images/blog/blog-08-540x330.webp" alt="Blog Images">
-</a>
-</div>
-<!-- Post Feature End -->
 </div>
 
-<div class="col-lg-6">
-<!-- Post info Start -->
-<div class="post-info lg-blog-post-info">
-<h4 class="post-title">
-<a href="blog-post-layout-one.html">How Technology Made Businesses More Efficient</a>
-</h4>
+</div>
 
-<div class="post-meta mt-20">
-<div class="post-author">
-<a href="#">
-<img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> James Scott
-</a>
-</div>
-<div class="post-date">
-<span class="far fa-calendar meta-icon"></span>
-January 14, 2019
-</div>
-<div class="post-view">
-<span class="meta-icon far fa-eye"></span>
-346 views
 </div>
 </div>
 
-<div class="post-excerpt mt-15">
-<p>Using the profit accumulator is one such way, and you should understand why it increases your chances of the profits. …</p>
 </div>
 
-
-<div class="read-post-share-wrap mt-30">
-<div class="post-read-more">
-<a href="blog-post-layout-one.html" class="ht-btn ht-btn-md">Read more </a>
-</div>
-</div>
-</div>
-<!-- Post info End -->
-</div>
-</div>
-</div>
-<!--===== Single Blog Item End =========-->
-
-<!--======= Single Blog Item Start ========-->
-<div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
-<div class="col-lg-6">
-<!-- Post Feature Start -->
-<div class="post-feature blog-thumbnail">
-<a href="blog-post-layout-one.html">
-<img class="img-fluid" src="/assets/images/blog/blog-07-540x330.webp" alt="Blog Images">
-</a>
-</div>
-<!-- Post Feature End -->
-</div>
-
-<div class="col-lg-6">
-<!-- Post info Start -->
-<div class="post-info lg-blog-post-info">
-<h4 class="post-title">
-<a href="blog-post-layout-one.html">Data Secure on Transitioning to a New Office</a>
-</h4>
-
-<div class="post-meta mt-20">
-<div class="post-author">
-<a href="#">
-<img class="img-fluid avatar-96" src="/assets/images/team/admin-02.webp" alt=""> James Scott
-</a>
-</div>
-<div class="post-date">
-<span class="far fa-calendar meta-icon"></span>
-January 14, 2019
-</div>
-<div class="post-view">
-<span class="meta-icon far fa-eye"></span>
-346 views
-</div>
-</div>
-
-<div class="post-excerpt mt-15">
-<p>Using the profit accumulator is one such way, and you should understand why it increases your chances of the profits. …</p>
-</div>
-
-
-<div class="read-post-share-wrap mt-30">
-<div class="post-read-more">
-<a href="blog-post-layout-one.html" class="ht-btn ht-btn-md">Read more </a>
-</div>
-</div>
-</div>
-<!-- Post info End -->
-</div>
-</div>
-</div>
-<!--===== Single Blog Item End =========-->
-
-<!--======= Single Blog Item Start ========-->
-<div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
-<div class="col-lg-6">
-<!-- Post Feature Start -->
-<div class="post-feature blog-thumbnail">
-<a href="blog-post-layout-one.html">
-<img class="img-fluid" src="/assets/images/blog/blog-05-540x330.webp" alt="Blog Images">
-</a>
-</div>
-<!-- Post Feature End -->
-</div>
-
-<div class="col-lg-6">
-<!-- Post info Start -->
-<div class="post-info lg-blog-post-info">
-<h4 class="post-title">
-<a href="blog-post-layout-one.html">Blockchain Technology Effects on Logistics Sector?</a>
-</h4>
-
-<div class="post-meta mt-20">
-<div class="post-author">
-<a href="#">
-<img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> James Scott
-</a>
-</div>
-<div class="post-date">
-<span class="far fa-calendar meta-icon"></span>
-January 14, 2019
-</div>
-<div class="post-view">
-<span class="meta-icon far fa-eye"></span>
-346 views
-</div>
-</div>
-
-<div class="post-excerpt mt-15">
-<p>Using the profit accumulator is one such way, and you should understand why it increases your chances of the profits. …</p>
-</div>
-
-
-<div class="read-post-share-wrap mt-30">
-<div class="post-read-more">
-<a href="blog-post-layout-one.html" class="ht-btn ht-btn-md">Read more </a>
-</div>
-</div>
-</div>
-<!-- Post info End -->
-</div>
-</div>
-</div>
-<!--===== Single Blog Item End =========-->
-
-<!--======= Single Blog Item Start ========-->
-<div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
-<div class="row ">
-<div class="col-lg-6">
-<!-- Post Feature Start -->
-<div class="post-feature blog-thumbnail">
-<a href="blog-post-layout-one.html">
-<img class="img-fluid" src="/assets/images/blog/blog-02-540x330.webp" alt="Blog Images">
-</a>
-</div>
-<!-- Post Feature End -->
-</div>
-
-<div class="col-lg-6">
-<!-- Post info Start -->
-<div class="post-info lg-blog-post-info">
-<h4 class="post-title">
-<a href="blog-post-layout-one.html">How Wireless Technology is Changing Business</a>
-</h4>
-
-<div class="post-meta mt-20">
-<div class="post-author">
-<a href="#">
-<img class="img-fluid avatar-96" src="/assets/images/team/admin-02.webp" alt=""> James Scott
-</a>
-</div>
-<div class="post-date">
-<span class="far fa-calendar meta-icon"></span>
-January 14, 2019
-</div>
-<div class="post-view">
-<span class="meta-icon far fa-eye"></span>
-346 views
-</div>
-</div>
-
-<div class="post-excerpt mt-15">
-<p>Using the profit accumulator is one such way, and you should understand why it increases your chances of the profits. …</p>
-</div>
-
-
-<div class="read-post-share-wrap mt-30">
-<div class="post-read-more">
-<a href="blog-post-layout-one.html" class="ht-btn ht-btn-md">Read more </a>
-</div>
-</div>
-</div>
-<!-- Post info End -->
-</div>
-</div>
-</div>
-
-
-</div>
 </div>
 </div>
 </div>
