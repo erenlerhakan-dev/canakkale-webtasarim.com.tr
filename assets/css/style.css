@@ -14319,3 +14319,6 @@ border: 1px solid #e9e8e8;
 border-radius: 10px;
 padding: 20px;
 }
+.contact-boxes:hover{
+backgroun: #f1f1f1;
+}
