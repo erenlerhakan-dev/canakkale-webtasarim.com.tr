@@ -16,11 +16,8 @@
 
 <div class="swiper-slide">
 <div class="testimonial-slider__one wow move-up">
-
 <div class="testimonial-slider--info">
-
 <div class="testimonial-slider__author">
-
 <div class="testimonial-rating">
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
@@ -28,27 +25,19 @@
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
 </div>
-
 </div>
-
 </div>
-
 <div class="testimonial-slider__text">"Olağanüstü hizmet! Rezervasyon sistemimizi tam ihtiyacımıza göre geliştirdiler. Profesyonel ekip ve harika iletişim."</div>
-
 <div class="author-info">
 <h6 class="name">Mehmet Aydın</h6>
-<span class="designation">Çanakkale Turizm Acentesi
-</span>
+<span class="designation">Çanakkale Turizm Acentesi</span>
 </div>
-
 </div>
 </div>
 
 <div class="swiper-slide">
 <div class="testimonial-slider__one wow move-up">
-
 <div class="testimonial-slider--info">
-
 <div class="testimonial-slider__author">
 <div class="testimonial-rating">
 <span class="fa fa-star"></span>
@@ -57,23 +46,19 @@
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
 </div>
+</div>
+</div>
+<div class="testimonial-slider__text">"Özel CRM sistemimiz iş operasyonlarımızı dönüştürdü. Hizmetlerini şiddetle tavsiye ediyorum."</div>
 <div class="author-info">
-<h6 class="name">Monica Blews</h6>
-<span class="designation">Web designer</span>
+<h6 class="name">Ayşe Korkmaz</h6>
+<span class="designation">Biga Tekstil Ltd.</span>
 </div>
-</div>
-</div>
-
-<div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
-
 </div>
 </div>
 
 <div class="swiper-slide">
 <div class="testimonial-slider__one wow move-up">
-
 <div class="testimonial-slider--info">
-
 <div class="testimonial-slider__author">
 <div class="testimonial-rating">
 <span class="fa fa-star"></span>
@@ -82,40 +67,13 @@
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
 </div>
+</div>
+</div>
+<div class="testimonial-slider__text">"E-ticaret platformumuzu sıfırdan inşa ettiler. Lansmandan bu yana satışlarımız %40 arttı!"</div>
 <div class="author-info">
-<h6 class="name">Abbie Ferguson</h6>
-<span class="designation">WEB DESIGNER</span>
+<h6 class="name">Can Yılmaz</h6>
+<span class="designation">Çanakkale E-ticaret</span>
 </div>
-</div>
-</div>
-
-<div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
-
-</div>
-</div>
-
-<div class="swiper-slide">
-<div class="testimonial-slider__one wow move-up">
-
-<div class="testimonial-slider--info">
-
-<div class="testimonial-slider__author">
-<div class="testimonial-rating">
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-</div>
-<div class="author-info">
-<h6 class="name">Abbie Ferguson</h6>
-<span class="designation">WEB DESIGNER</span>
-</div>
-</div>
-</div>
-
-<div class="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
-
 </div>
 </div>
 
