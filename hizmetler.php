@@ -45,13 +45,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 </div>
 </div>
 
-<div class="feature-large-images-wrapper section-space--ptb_100">
-<div class="container">
-
-<div class="row">
-<div class="col-lg-12">
-
-<div class="feature-icon-wrapper section-space--ptb_100">
+<div class="feature-icon-wrapper section-space--ptb_70">
 <div class="container">
 
 <div class="row">
@@ -260,11 +254,6 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 </div>
 </div>
 
-</div>
-</div>
-</div>
-
-</div>
 </div>
 
 </div>
