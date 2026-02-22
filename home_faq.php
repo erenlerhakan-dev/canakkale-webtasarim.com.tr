@@ -83,14 +83,14 @@ Mevcut sistemlerle entegrasyon yapabiliyor musunuz? <span> <i class="fas fa-chev
 <div class="card-header" id="faq_5">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#faq_five" aria-expanded="false" aria-controls="faq_five">
-Mevcut sistemlerle entegrasyon yapabiliyor musunuz? <span> <i class="fas fa-chevron-down"></i>
+Geliştirme süreciniz nasıl? <span> <i class="fas fa-chevron-down"></i>
 <i class="fas fa-chevron-up"></i> </span>
 </button>
 </h5>
 </div>
 <div id="faq_five" class="collapse" aria-labelledby="faq_5" data-bs-parent="#faq-toggles">
 <div class="card-body">
-<p>Kesinlikle. API'ler ve özel bağlayıcılar aracılığıyla yeni çözümleri mevcut sistemler, veritabanları ve üçüncü taraf hizmetlerle entegre etme konusunda geniş deneyime sahibiz.</p>
+<p>İteratif geliştirme ile agile metodolojileri takip ediyoruz. Bu, süreç boyunca düzenli müşteri geri bildirimleriyle ihtiyaç toplama, tasarım, geliştirme, test ve dağıtımı içerir.</p>
 </div>
 </div>
 </div>
