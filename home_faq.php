@@ -1,86 +1,16 @@
 <div class="accordion-wrapper">
 <div class="container">
 <div class="row ">
-<div class="col-lg-6">
-<div class="faq-wrapper section-space--pt_90">
-<div class="section-elements-title mb-30">
-<h4>Accordions</h4>
-</div>
-<div id="accordion">
-<div class="card">
-<div class="card-header" id="headingOne">
-<h5 class="mb-0">
-<button class="btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-How can we help your business? <span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
 
-<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
-<div class="card-body">
-<p>Through the collaboration with customers in discussing needs and demand, we're able to attain mutual understanding, gain customer trust to offer appropriate advice, and bring about suggestions on suitable technology to transform your business. </p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingTwo">
-<h5 class="mb-0">
-<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-What are the advantages of Mitech?<span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
-<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
-<div class="card-body">
-<p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingThree">
-<h5 class="mb-0">
-<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-How working process is simplified? <span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
-<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
-<div class="card-body">
-<p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingFour">
-<h5 class="mb-0">
-<button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-Product Engineering & Services<span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
-<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
-<div class="card-body">
-<p>Our service offerings to enhance customer experience throughout the product lifecycle includes – test and repair, service management, and end-to-end warranty management. </p>
-</div>
-</div>
-</div>
-</div>
+<div class="col-lg-12">
 
-</div>
-</div>
-
-<div class="col-lg-6">
-<!-- Start toggles -->
 <div class="toggles-wrapper section-space--pt_90">
 
 <div class="faq-wrapper">
 
 <div class="section-elements-title mb-30">
-<h4>Toggles</h4>
+<h4>Sık Sorulan Sorular</h4>
+<p>Hizmetlerimiz ve süreçlerimiz hakkında yaygın sorular</p>
 </div>
 
 <div id="faq-toggles">
