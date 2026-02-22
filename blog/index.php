@@ -37,8 +37,8 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="blog-post-layout-one.html">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Blog Images">
+<a href="/blog/aaa.php">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
 </a>
 </div>
 
@@ -49,32 +49,22 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="blog-post-layout-one.html">Ideas for High Returns on Investment</a>
+<a href="/blog/aaa.php">2024'te Modern Web Geliştirme Trendleri</a>
 </h4>
 
 <div class="post-meta mt-20">
-<div class="post-author">
-<a href="#">
-<img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> Harry Ferguson
-</a>
-</div>
-<div class="post-date">
-<span class="far fa-calendar meta-icon"></span>
-January 14, 2019
-</div>
-<div class="post-view">
-<span class="meta-icon far fa-eye"></span>
-346 views
-</div>
+<div class="post-author"><a href="#"><img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> Ahmet Yılmaz</a></div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>15 Ocak 2024</div>
+<div class="post-view"><span class="meta-icon fa fa-list"></span>Web Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Using the profit accumulator is one such way, and you should understand why it increases your chances of the profits. …</p>
+<p>Web geliştirmeyi şekillendiren son trendleri keşfedin, yapay zeka entegrasyonundan ilerici web uygulamalarına kadar.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="blog-post-layout-one.html" class="ht-btn ht-btn-md">Read more </a>
+<a href="/blog/aaa.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
