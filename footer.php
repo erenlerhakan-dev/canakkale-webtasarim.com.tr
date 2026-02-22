@@ -5,7 +5,7 @@
 
 <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
 <div class="footer-widget__logo mb-30">
-<img src="assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
+<img src="/assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
 </div>
 <ul class="footer-widget__list">
 <li>Esenler Mh. Ahmet Piriştina Cd. No:19<br>İç Kapı No:17 Çanakkale 17000</li>

@@ -35,7 +35,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="blog-post-layout-one.html">
-<img class="img-fluid" src="assets/images/blog/blog-01-540x330.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Blog Images">
 </a>
 </div>
 
@@ -51,7 +51,7 @@
 <div class="post-meta mt-20">
 <div class="post-author">
 <a href="#">
-<img class="img-fluid avatar-96" src="assets/images/team/admin.webp" alt=""> Harry Ferguson
+<img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> Harry Ferguson
 </a>
 </div>
 <div class="post-date">
@@ -88,7 +88,7 @@ January 14, 2019
 <!-- Post Feature Start -->
 <div class="post-feature blog-thumbnail">
 <a href="blog-post-layout-one.html">
-<img class="img-fluid" src="assets/images/blog/blog-08-540x330.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-08-540x330.webp" alt="Blog Images">
 </a>
 </div>
 <!-- Post Feature End -->
@@ -104,7 +104,7 @@ January 14, 2019
 <div class="post-meta mt-20">
 <div class="post-author">
 <a href="#">
-<img class="img-fluid avatar-96" src="assets/images/team/admin.webp" alt=""> James Scott
+<img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> James Scott
 </a>
 </div>
 <div class="post-date">
@@ -141,7 +141,7 @@ January 14, 2019
 <!-- Post Feature Start -->
 <div class="post-feature blog-thumbnail">
 <a href="blog-post-layout-one.html">
-<img class="img-fluid" src="assets/images/blog/blog-07-540x330.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-07-540x330.webp" alt="Blog Images">
 </a>
 </div>
 <!-- Post Feature End -->
@@ -157,7 +157,7 @@ January 14, 2019
 <div class="post-meta mt-20">
 <div class="post-author">
 <a href="#">
-<img class="img-fluid avatar-96" src="assets/images/team/admin-02.webp" alt=""> James Scott
+<img class="img-fluid avatar-96" src="/assets/images/team/admin-02.webp" alt=""> James Scott
 </a>
 </div>
 <div class="post-date">
@@ -194,7 +194,7 @@ January 14, 2019
 <!-- Post Feature Start -->
 <div class="post-feature blog-thumbnail">
 <a href="blog-post-layout-one.html">
-<img class="img-fluid" src="assets/images/blog/blog-05-540x330.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-05-540x330.webp" alt="Blog Images">
 </a>
 </div>
 <!-- Post Feature End -->
@@ -210,7 +210,7 @@ January 14, 2019
 <div class="post-meta mt-20">
 <div class="post-author">
 <a href="#">
-<img class="img-fluid avatar-96" src="assets/images/team/admin.webp" alt=""> James Scott
+<img class="img-fluid avatar-96" src="/assets/images/team/admin.webp" alt=""> James Scott
 </a>
 </div>
 <div class="post-date">
@@ -247,7 +247,7 @@ January 14, 2019
 <!-- Post Feature Start -->
 <div class="post-feature blog-thumbnail">
 <a href="blog-post-layout-one.html">
-<img class="img-fluid" src="assets/images/blog/blog-02-540x330.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-02-540x330.webp" alt="Blog Images">
 </a>
 </div>
 <!-- Post Feature End -->
@@ -263,7 +263,7 @@ January 14, 2019
 <div class="post-meta mt-20">
 <div class="post-author">
 <a href="#">
-<img class="img-fluid avatar-96" src="assets/images/team/admin-02.webp" alt=""> James Scott
+<img class="img-fluid avatar-96" src="/assets/images/team/admin-02.webp" alt=""> James Scott
 </a>
 </div>
 <div class="post-date">
@@ -358,7 +358,7 @@ January 14, 2019
 <div class="row footer-widget-wrapper">
 <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
 <div class="footer-widget__logo mb-30">
-<img src="assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
+<img src="/assets/images/logo/dark-logo-160x48.webp" width="160" height="48" class="img-fluid" alt="">
 </div>
 <ul class="footer-widget__list">
 <li>58 Howard Street #2 San Francisco, CA 941</li>
@@ -399,8 +399,8 @@ January 14, 2019
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <div class="footer-widget__title section-space--mb_50"></div>
 <ul class="footer-widget__list">
-<li><a href="#" class="image_btn" aria-label="Google play Button"><img class="img-fluid" src="assets/images/icons/aeroland-button-google-play.webp" alt=""></a></li>
-<li><a href="#" class="image_btn" aria-label="App Store Button"><img class="img-fluid" src="assets/images/icons/aeroland-button-app-store.webp" alt=""></a></li>
+<li><a href="#" class="image_btn" aria-label="Google play Button"><img class="img-fluid" src="/assets/images/icons/aeroland-button-google-play.webp" alt=""></a></li>
+<li><a href="#" class="image_btn" aria-label="App Store Button"><img class="img-fluid" src="/assets/images/icons/aeroland-button-app-store.webp" alt=""></a></li>
 </ul>
 </div>
 </div>

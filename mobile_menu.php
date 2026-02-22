@@ -8,7 +8,7 @@
 <div class="col-md-6 col-8">
 <div class="logo">
 <a href="index.html">
-<img src="assets/images/logo/logo-dark.webp" class="img-fluid" alt="">
+<img src="/assets/images/logo/logo-dark.webp" class="img-fluid" alt="">
 </a>
 </div>
 </div>
