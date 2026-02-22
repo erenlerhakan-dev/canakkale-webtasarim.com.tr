@@ -168,7 +168,9 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="list-group-wrap section-space--mb_60">
 <div class="separator-list-wrap">
 <ol class="automatic-numbered-list">
-<li class="list-item">Yerel Uzmanlık
+<li class="list-item">Yerel Uzmanlık<br><p>Çanakkale merkezli olarak, yerel pazarı ve iş ortamını anlıyor, bölgesel ihtiyaçlara göre uyarlanmış çözümler sağlıyoruz.
+
+</p>
 </li>
 <li class="list-item">Teknik Mükemmellik
 </li>
