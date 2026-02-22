@@ -10,7 +10,7 @@
 
 <div class="col-xl-4 col-lg-5">
 <div class="cta-button-group--two text-center">
-<a href="tel:+905347922531" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-phone"></i></span> Hemen Arayın</a>
+<a href="tel:+905347922531" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="fa fa-phone"></i></span> Telefon</a>
 <a href="https://canakkale-webtasarim.com.tr/iletisim.php" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> İletişim</a>
 </div>
 </div>
