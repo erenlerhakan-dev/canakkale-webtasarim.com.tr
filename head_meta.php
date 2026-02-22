@@ -1,18 +1,18 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="assets/images/favicon.webp">
-<link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+<link rel="icon" href="/assets/images/favicon.webp">
+<link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/vendor/fontawesome-all.min.css">
-<link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
-<link rel="stylesheet" href="assets/css/plugins/animate-text.css">
-<link rel="stylesheet" href="assets/css/plugins/animate.min.css">
-<link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css">
-<link rel="stylesheet" href="assets/css/style.css">
-<link rel="stylesheet" href="assets/css/nice-select.css">
+<link rel="stylesheet" href="/assets/css/vendor/fontawesome-all.min.css">
+<link rel="stylesheet" href="/assets/css/plugins/swiper.min.css">
+<link rel="stylesheet" href="/assets/css/plugins/animate-text.css">
+<link rel="stylesheet" href="/assets/css/plugins/animate.min.css">
+<link rel="stylesheet" href="/assets/css/plugins/lightgallery.min.css">
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/nice-select.css">
 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.canakkale-webtasarim.com.tr/images/logo.png">
