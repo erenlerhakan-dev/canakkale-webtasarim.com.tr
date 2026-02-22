@@ -5,8 +5,8 @@
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_40">
-<h6 class="section-sub-title mb-20">Testimonials</h6>
-<h3 class="heading">What do people praise about <span class="text-color-primary"> Mitech?</span></h3>
+<h6 class="section-sub-title mb-20">Müşteri Görüşleri</h6>
+<h3 class="heading"><span class="text-color-primary">Müşterilerimizin</span> bizimle çalışmaları hakkında söylediklerini görün.</h3>
 </div>
 
 <div class="testimonial-slider">
