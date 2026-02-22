@@ -29,8 +29,8 @@
 <div class="col-lg-12">
 <!-- section-title-wrap Start -->
 <div class="section-title-wrap text-center section-space--mb_60">
-<h6 class="section-sub-title mb-20">Our company</h6>
-<h3 class="heading">Share the joy of achieving <span class="text-color-primary"> glorious <br> moments</span> & climbed up <span class="text-color-primary">the top.</span></h3>
+<h3 class="heading">Çanakkale ve ötesinde profesyonel yazılım geliştirme için güvenilir ortağınız</h3>
+<h6 class="section-sub-title mb-20">Çanakkale Web Yazılım Hakkında</h6>
 </div>
 <!-- section-title-wrap Start -->
 </div>
@@ -38,74 +38,17 @@
 
 <div class="cybersecurity-about-box">
 <div class="row">
-<div class="col-lg-5 offset-lg-1">
-<div class="modern-number-01 number-two">
-<h2 class="heading me-5"><span class="mark-text">38</span>Years’ Experience in IT</h2>
-<h5 class="heading mt-30">We’ve been triumphing all these <span class="text-color-primary"> 38 years. </span> Sacrifices are made up with success. </h5>
-</div>
+
+<div class="col-lg-12 ms-auto">
+
 </div>
 
-<div class="col-lg-5 ms-auto">
-<div class="faq-wrapper">
-<div id="accordion">
-<div class="card">
-<div class="card-header" id="headingOne">
-<h5 class="mb-0">
-<button class="btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-How can we help your business? <span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
-
-<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion">
-<div class="card-body">
-<p>Through the collaboration with customers in discussing needs and demand, we're able to attain mutual understanding, gain customer trust to offer appropriate advice, and bring about suggestions on suitable technology to transform your business. </p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingTwo">
-<h5 class="mb-0">
-<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-What are the advantages of Mitech?<span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
-<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
-<div class="card-body">
-<p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingThree">
-<h5 class="mb-0">
-<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-How working process is simplified? <span> <i class="fas fa-chevron-down"></i>
-<i class="fas fa-chevron-up"></i> </span>
-</button>
-</h5>
-</div>
-<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
-<div class="card-body">
-<p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
-</div>
-</div>
 </div>
 </div>
 
 </div>
 </div>
-</div>
-</div>
 
-</div>
-</div>
-<!--=========== feature-large-images-wrapper End =============-->
-
-<!--=========== feature-large-images-wrapper Start =============-->
 <div class="feature-large-images-wrapper bg-gray section-space--ptb_100">
 <div class="container">
 
