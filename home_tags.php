@@ -13,9 +13,10 @@
 <p>Hizmetlerimiz ve süreçlerimiz hakkında yaygın sorular</p>
 </div>
 
-<div class="tm-button-wrapper tm-animation move-up animate" id="tm-button-699b2454e4fde">
-<a class="tm-button style-flat tm-button-nm tm-button-custom" href="#">
-<span class="button-text" data-text="White Button">White Button</span></a>
+<div class="tm-button-wrapper tm-animation move-up animate" id="tm-button-699b2454e1202">
+<a class="tm-button style-solid tm-button-nm tm-button-" href="#">
+<span class="button-text" data-text="Solid Style">HTML5 & CSS3</span>
+</a>
 </div>
 
 </div>
