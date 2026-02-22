@@ -29,11 +29,11 @@
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">Çanakkale'de yazılım geliştirme için güvenilir ortağınız</h3>
-<h6 class="section-sub-title mb-20">Çanakkale Web Yazılım Hakkında</h6>
+<h3 class="heading mb-20">Teknoloji ve Yaratıcılığın Buluşma Noktası</h3>
 </div>
-<h6 class="mb-20">Biz Kimiz</h6>
-<p>Çanakkale Web Yazılım olarak, sadece kod yazmıyor; işletmenizin dijital kimliğini inşa ediyoruz. Modern teknolojileri, kullanıcı dostu tasarımlarla birleştirerek, markanızı internet dünyasında bir adım öne çıkarıyoruz.</p>
+<h6 class="mb-20">Çanakkale Web Yazılım olarak, sadece kod yazmıyor; işletmenizin dijital kimliğini inşa ediyoruz. Modern teknolojileri, kullanıcı dostu tasarımlarla birleştirerek, markanızı internet dünyasında bir adım öne çıkarıyoruz.</h6>
+<h6 class="mb-20">Yerel bir ajans olmanın samimiyetini, global bir teknoloji şirketinin vizyonuyla birleştiriyoruz. 
+                        Esenler Mahallesi'ndeki ofisimizde, hayallerinizdeki dijital projeyi hayata geçirmek için sabırsızlanıyoruz.</h6>
 </div>
 </div>
 
