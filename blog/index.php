@@ -1181,7 +1181,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları.php">
+<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.php">
 <img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 </a>
 </div>
@@ -1193,7 +1193,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları.php">Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları</a>
+<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.php">Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -1208,7 +1208,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
