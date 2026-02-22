@@ -18,14 +18,14 @@
 <div class="card">
 <div class="card-header" id="faq_1">
 <h5 class="mb-0">
-<button class="btn-link" data-bs-toggle="collapse" data-bs-target="#faq_one" aria-expanded="true" aria-controls="faq_one">
+<button class="btn-link" data-bs-toggle="collapse" data-bs-target="#faq_one" aria-expanded="false" aria-controls="faq_one">
 Hangi teknolojilerde uzmanlaşmışsınız? <span> <i class="fas fa-chevron-down"></i>
 <i class="fas fa-chevron-up"></i> </span>
 </button>
 </h5>
 </div>
 
-<div id="faq_one" class="collapse show" aria-labelledby="faq_1">
+<div id="faq_one" class="collapse" aria-labelledby="faq_1">
 <div class="card-body">
 <p>React, Angular, Laravel, Django ve daha fazlası dahil olmak üzere modern web teknolojilerinde uzmanız. Full-stack ekibimiz, eksiksiz çözümler sunmak için hem frontend hem de backend teknolojileriyle çalışır.</p>
 </div>
