@@ -1,4 +1,4 @@
-<div class="accordion-wrapper">
+<div class="accordion-wrapper cta-bg-image_two">
 <div class="container">
 <div class="row justify-content-center">
 
