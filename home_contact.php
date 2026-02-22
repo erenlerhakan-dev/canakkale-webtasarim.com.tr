@@ -39,7 +39,7 @@
 <div class="form-item contact-inner">
 <span class="inquiry">
 <select name="Visiting" class="nicesel">
-<option disabled selected>Select Department to email</option>
+<option disabled selected>Konu *</option>
 <option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
 <option value="CRM Sistemleri">CRM Sistemleri</option>
 <option value="ERP Çözümleri">ERP Çözümleri</option>
