@@ -42,16 +42,6 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 </div>
 </div>
 
-<div class="cybersecurity-about-box">
-<div class="row">
-
-<div class="col-lg-12 ms-auto">
-
-</div>
-
-</div>
-</div>
-
 </div>
 </div>
 
@@ -59,65 +49,50 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="container">
 <div class="row">
 <div class="col-12">
+
+<div class="section-title-wrap text-center section-space--mb_60">
+<h3 class="heading mb-20">Temel Değerlerimiz</h3>
+</div>
+
 <div class="feature-list__three">
 <div class="row">
+
 <div class="col-lg-6">
 <div class="grid-item animate">
 <div class="ht-box-icon style-03">
 <div class="icon-box-wrap">
 <div class="content-header">
 <div class="icon">
-<i class="far fa-life-ring"></i>
+<i class="fa fa-users"></i>
 </div>
-<h5 class="heading">
-Quality Assurance System
-</h5>
+<h5 class="heading">Müşteri Odaklı</h5>
 </div>
 <div class="content">
-<div class="text">Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.</div>
+<div class="text">Başarınız bizim önceliğimizdir. Dinliyor, anlıyor ve beklentileri aşan çözümler sunuyoruz.</div>
 </div>
 </div>
 </div>
 </div>
 </div>
+
 <div class="col-lg-6">
 <div class="grid-item animate">
 <div class="ht-box-icon style-03">
 <div class="icon-box-wrap">
 <div class="content-header">
 <div class="icon">
-<i class="fas fa-lock"></i>
+<i class="fal fa-life-ring"></i>
 </div>
-<h5 class="heading">
-Accurate Testing Processes
-</h5>
+<h5 class="heading">Sonuç Odaklı</h5>
 </div>
 <div class="content">
-<div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+<div class="text">İşletme büyümenizi olumlu etkileyen ölçülebilir sonuçlar sunmaya odaklanıyoruz.</div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="col-lg-6">
-<div class="grid-item animate">
-<div class="ht-box-icon style-03">
-<div class="icon-box-wrap">
-<div class="content-header">
-<div class="icon">
-<i class="fas fa-globe"></i>
-</div>
-<h5 class="heading">
-Smart API Generation
-</h5>
-</div>
-<div class="content">
-<div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 <div class="col-lg-6">
 <div class="grid-item animate">
 <div class="ht-box-icon style-03">
@@ -126,17 +101,34 @@ Smart API Generation
 <div class="icon">
 <i class="fas fa-medal"></i>
 </div>
-<h5 class="heading">
-Infrastructure Integration Technology
-</h5>
+<h5 class="heading">Kalite Öncelikli</h5>
 </div>
 <div class="content">
-<div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
+<div class="text">Her projede en yüksek kod kalitesi, güvenlik ve performans standartlarını koruyoruz.</div>
 </div>
 </div>
 </div>
 </div>
 </div>
+
+<div class="col-lg-6">
+<div class="grid-item animate">
+<div class="ht-box-icon style-03">
+<div class="icon-box-wrap">
+<div class="content-header">
+<div class="icon">
+<i class="fas fa-heart"></i>
+</div>
+<h5 class="heading">Tutkulu Ekip</h5>
+</div>
+<div class="content">
+<div class="text">Ekibimiz teknoloji konusunda tutkuludur ve sürekli öğrenmeye ve gelişmeye kararlıdır.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
 </div>
 </div>
 </div>
