@@ -82,7 +82,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 </a>
 </div>
 
@@ -126,7 +126,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 </a>
 </div>
 
@@ -170,7 +170,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 </a>
 </div>
 
@@ -214,7 +214,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 </a>
 </div>
 
@@ -258,7 +258,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri">
 </a>
 </div>
 
@@ -302,7 +302,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 </a>
 </div>
 
@@ -346,7 +346,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
 </a>
 </div>
 
@@ -390,7 +390,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Bulut Hosting Çözümlerine Eksiksiz Rehber">
 </a>
 </div>
 
@@ -434,7 +434,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 </a>
 </div>
 
@@ -478,7 +478,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 </a>
 </div>
 
@@ -522,7 +522,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/aaa.php">
-<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<img class="img-fluid" src="/assets/images/blog/blog-01-540x330.webp" alt="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 </a>
 </div>
 
