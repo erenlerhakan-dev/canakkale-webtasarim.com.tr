@@ -34,9 +34,9 @@
 </div>
 <h6 class="mb-20">Biz Kimiz</h6>
 <p>Çanakkale Web Yazılım, Çanakkale, Türkiye merkezli profesyonel bir yazılım geliştirme şirketidir. Her büyüklükteki işletme için özel web uygulamaları, CRM sistemleri, ERP çözümleri, e-ticaret platformları ve mobil uygulamalar oluşturma konusunda uzmanız.
-<br>
+<br><br>
 Sektörde on yılı aşkın deneyimimizle, Türkiye ve uluslararası müşterilere yüzlerce projeyi başarıyla teslim ettik. Yetenekli geliştiriciler, tasarımcılar ve proje yöneticilerinden oluşan ekibimiz, vizyonunuzu gerçeğe dönüştürmek için birlikte çalışıyor.
-<br>
+<br><br>
 En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyuyoruz. PHP ve Laravel gibi geleneksel web teknolojilerinden React ve Django gibi modern çerçevelere kadar, özel gereksinimlerinizi karşılayan çözümler oluşturma uzmanlığına sahibiz.
 </p>
 </div>
