@@ -24,9 +24,11 @@
 <div class="row">
 
 <div class="col-lg-12 order-lg-2 order-1">
+
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading">Interesting articles<span class="text-color-primary"> updated daily</span></h3>
+<h3 class="heading">Modern yazılım geliştirme için <span class="text-color-primary">içgörüler, eğitimler ve en iyi uygulamalar</span></h3>
 </div>
+
 <div class="main-blog-wrap">
 
 <div class="single-blog-item post-list-wrapper xs-list-blog-item border-bottom wow move-up">
@@ -291,18 +293,7 @@ January 14, 2019
 </div>
 </div>
 </div>
-<!--===== Single Blog Item End =========-->
 
-<div class="ht-pagination mt-30 pagination justify-content-center">
-<div class="pagination-wrapper">
-<ul class="page-pagination">
-<li><a class="prev page-numbers" href="#">Prev</a></li>
-<li><a class="page-numbers current" href="#">1</a></li>
-<li><a class="page-numbers" href="#">2</a></li>
-<li><a class="next page-numbers" href="#">Next</a></li>
-</ul>
-</div>
-</div>
 
 </div>
 </div>
