@@ -13,25 +13,7 @@
 
 <?php include_once('../preloader.php'); ?>
 
-<div class="header-area header-area--default">
-
 <?php include_once('../header.php'); ?>
-
-<div class="breadcrumb-area">
-<div class="container">
-<div class="row">
-<div class="col-12">
-<div class="breadcrumb_box text-center">
-<h2 class="breadcrumb-title">Blog Update</h2>
-<ul class="breadcrumb-list">
-<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-<li class="breadcrumb-item active">List Left Large Image</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
 
 <div id="main-wrapper">
 
