@@ -84,7 +84,7 @@
 <div class="contact-select">
 <div class="form-item contact-inner">
 <span class="inquiry">
-<select id="visiting-two" name="Visiting" class="form-select">
+<select name="Visiting" class="nicesel">
 <option disabled selected>Select Department to email</option>
 <option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
 <option value="CRM Sistemleri">CRM Sistemleri</option>

@@ -43,6 +43,7 @@
 
 <!-- Main Style CSS -->
 <link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/nice-select.css">
 
 </head>
 
@@ -899,6 +900,12 @@ How we work
 </div>
 
 <?php include_once('footer_scripts.php'); ?>
+
+<script>
+$(document).ready(function() {
+$('.nicesel').niceSelect();
+});
+</script>
 
 </body>
 
