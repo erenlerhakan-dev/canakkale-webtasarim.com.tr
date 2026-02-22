@@ -36,7 +36,8 @@
 <div class="col-lg-6 col-lg-6">
 <div class="contact-form-wrap">
 
-<!-- <form id="contact-form" action="http://whizthemes.com/mail-php/jowel/mitech/php/mail.php" method="post"> -->
+<h4>Bize Mesaj Gönderin</h4>
+
 <form id="contact-form" action="assets/php/mail.php" method="post">
 <div class="contact-form">
 <div class="contact-input">
@@ -64,39 +65,34 @@
 </div>
 </div>
 </div>
-<!--==================== Conact us Section End ====================-->
 
-<!--==================== Conact us info Start ====================-->
 <div class="contact-us-info-wrappaer section-space--pb_100">
 <div class="container">
 <div class="row align-items-center">
+
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30">
-<h5 class="heading mb-20">San Francisco</h5>
+<h5 class="heading mb-20">Ofis Adresi</h5>
 <ul class="conact-info__list">
-<li>58 Howard Street #2 San Francisco, CA 941</li>
-<li><a href="#" class="hover-style-link text-color-primary">contact.sanfrancisco@mitech.com</a></li>
-<li><a href="#" class="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
+<li>Esenler Mh. Ahmet Piriştina Cd. No:19/17 Çanakkale Türkiye</li>
 </ul>
 </div>
 </div>
+
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30">
-<h5 class="heading mb-20">New York</h5>
+<h5 class="heading mb-20">Telefon</h5>
 <ul class="conact-info__list">
-<li>58 Howard Street #14 New York</li>
-<li><a href="#" class="hover-style-link text-color-primary">contact.newyork@mitech.com</a></li>
-<li><a href="#" class="hover-style-link text-black font-weight--bold">(+47)1221 09878</a></li>
+<li>+90 534 792 25 31</li>
 </ul>
 </div>
 </div>
+
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30">
-<h5 class="heading mb-20">Russia</h5>
+<h5 class="heading mb-20">E-posta</h5>
 <ul class="conact-info__list">
-<li>The Courtyard Building 11 Curtain Road, Russia</li>
-<li><a href="#" class="hover-style-link text-color-primary">contact.russia@mitech.com</a></li>
-<li><a href="#" class="hover-style-link text-black font-weight--bold">(+53)1221 09877</a></li>
+<li>info@cozumcloud.com.tr</li>
 </ul>
 </div>
 </div>
