@@ -29,17 +29,17 @@
 <span class="fa fa-star"></span>
 </div>
 
-<div class="author-info">
-<h6 class="name">Mehmet Aydın</h6>
-<span class="designation">Çanakkale Turizm Acentesi
-</span>
-</div>
-
 </div>
 
 </div>
 
 <div class="testimonial-slider__text">"Olağanüstü hizmet! Rezervasyon sistemimizi tam ihtiyacımıza göre geliştirdiler. Profesyonel ekip ve harika iletişim."</div>
+
+<div class="author-info">
+<h6 class="name">Mehmet Aydın</h6>
+<span class="designation">Çanakkale Turizm Acentesi
+</span>
+</div>
 
 </div>
 </div>
