@@ -165,12 +165,6 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 
 <div class="row justify-content-center">
 <div class="col-lg-8 align-self-center">
-<section class="py-5 bg-light"> <div class="container px-4">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        
-        <h2 class="fs-2 fw-bold mb-4">Neden Bizi Seçmelisiniz?</h2>
-        
         <div class="d-flex flex-column gap-4">
           
           <div class="d-flex gap-3">
@@ -214,10 +208,6 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
           </div>
 
         </div>
-      </div>
-    </div>
-  </div>
-</section>
 </div>
 </div> 
 
