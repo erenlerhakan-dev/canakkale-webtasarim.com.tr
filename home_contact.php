@@ -38,13 +38,28 @@
 <div class="contact-select">
 <div class="form-item contact-inner">
 <span class="inquiry">
-<select id="visiting-two" name="Visiting">
+<select id="visiting-two" name="Visiting" style="margin: 50px;
+  width: 150px;
+  padding: 5px 35px 5px 5px;
+  font-size: 16px;
+  border: 1px solid #CCC;
+  height: 34px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;">
 <option disabled selected>Select Department to email</option>
-<option value="Your inquiry about">Your inquiry about</option>
-<option value="General Information Request">General Information Request</option>
-<option value="Partner Relations">Partner Relations</option>
-<option value="Careers">Careers</option>
-<option value="Software Licencing">Software Licencing</option>
+<option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
+<option value="CRM Sistemleri">CRM Sistemleri</option>
+<option value="ERP Çözümleri">ERP Çözümleri</option>
+<option value="E-Ticaret Çözümleri">E-Ticaret Çözümleri</option>
+<option value="Mobil Uygulamalar">Mobil Uygulamalar</option>
+<option value="Rezervasyon Sistemleri">Rezervasyon Sistemleri</option>
+<option value="B2B & B2C Çözümleri">B2B & B2C Çözümleri</option>
+<option value="Özel Yazılım Geliştirme">Özel Yazılım Geliştirme</option>
+<option value="API Geliştirme">API Geliştirme</option>
+<option value="Güvenlik ve Bakım">Güvenlik ve Bakım</option>
+<option value="Performans Optimizasyonu">Performans Optimizasyonu</option>
+<option value="Teknik Danışmanlık">Teknik Danışmanlık</option>
 </select>
 </span>
 </div>

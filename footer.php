@@ -31,7 +31,7 @@
 <li><a href="#" class="hover-style-link">Özel Web Geliştirme</a></li>
 <li><a href="#" class="hover-style-link">CRM Sistemleri</a></li>
 <li><a href="#" class="hover-style-link">ERP Çözümleri</a></li>
-<li><a href="#" class="hover-style-link">E-Ticaret Platformları</a></li>
+<li><a href="#" class="hover-style-link">E-Ticaret Çözümleri</a></li>
 <li><a href="#" class="hover-style-link">Mobil Uygulamalar</a></li>
 <li><a href="#" class="hover-style-link">Rezervasyon Sistemleri</a></li>
 </ul>
@@ -39,8 +39,8 @@
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">Hizmetler</h6>
 <ul class="footer-widget__list">
-<li><a href="#" class="hover-style-link">B2B & B2C Platformları</a></li>
 <li><a href="#" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
+<li><a href="#" class="hover-style-link">B2B & B2C Çözümleri</a></li>
 <li><a href="#" class="hover-style-link">API Geliştirme</a></li>
 <li><a href="#" class="hover-style-link">Güvenlik ve Bakım</a></li>
 <li><a href="#" class="hover-style-link">Performans Optimizasyonu</a></li>
