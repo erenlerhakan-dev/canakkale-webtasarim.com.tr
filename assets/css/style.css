@@ -9764,7 +9764,7 @@ ol {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-bottom: 22px;
+  margin-bottom: 5px;
 }
 @media only screen and (max-width: 767px) {
   .testimonial-slider--info {
@@ -9798,6 +9798,7 @@ ol {
   margin-bottom: 10px;
   color: #ffb944;
 }
+.author-info { margin-top: 20px;}
 .testimonial-slider__author .author-info {
   display: -webkit-box;
   display: -webkit-flex;
