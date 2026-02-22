@@ -28,8 +28,8 @@
 <div class="row align-items-center">
 <div class="col-lg-6 col-lg-6">
 <div class="conact-us-wrap-one mb-30">
-<h3 class="heading">To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> via our social channels. </h3>
-<div class="sub-heading">We just need a couple of hours! <br> No more than 2 working days since receiving your issue ticket.</div>
+<h3 class="heading"><span class="text-color-primary">İletişim</span></h3>
+<div class="sub-heading">Proje gereksinimlerinizi görüşmek için bizimle iletişime geçin</div>
 </div>
 </div>
 
