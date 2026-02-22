@@ -202,8 +202,8 @@
 
 <div class="col-lg-12">
 <div class="feature-list-button-box mt-30 text-center">
-<a href="#" class="ht-btn ht-btn-md">Talk to a consultant</a>
-<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Contact us now </a>
+<a href="tel:+905347922531" class="ht-btn ht-btn-md">Destek Ekibimiz İle Konuşun</a>
+<a href="https://canakkale-webtasarim.com.tr/iletisim.php" class="ht-btn ht-btn-md ht-btn--outline">Bize Yazın</a>
 </div>
 </div>
 
