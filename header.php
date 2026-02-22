@@ -34,8 +34,8 @@
 <span class="fa fa-map-marker-alt"></span>
 </div>
 <div class="info-content">
-<h6 class="info-title">Esenler Mh. Ahmet Piriştina Cd. No:19/17</h6>
-<div class="info-sub-title">Çanakkale 17000</div>
+<h6 class="info-title">Esenler Mh. Ahmet Piriştina Cd.</h6>
+<div class="info-sub-title">No:19/17 Çanakkale</div>
 </div>
 </div>
 </div>
