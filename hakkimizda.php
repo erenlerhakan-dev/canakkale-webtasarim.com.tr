@@ -45,7 +45,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 </div>
 </div>
 
-<div class="feature-icon-wrapper section-space--pb_80 section-space--pt_80 border-bottom">
+<div class="feature-icon-wrapper section-space--pb_80 section-space--pt_80 border-bottom" style="background: #e8e8e8;">
 <div class="container">
 <div class="row">
 <div class="col-12">
@@ -81,7 +81,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="icon-box-wrap">
 <div class="content-header">
 <div class="icon">
-<i class="fal fa-life-ring"></i>
+<i class="fa fa-life-ring"></i>
 </div>
 <h5 class="heading">Sonuç Odaklı</h5>
 </div>
@@ -131,8 +131,26 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 
 </div>
 </div>
+
 </div>
 </div>
+</div>
+</div>
+
+<div class="feature-large-images-wrapper section-space--ptb_100">
+<div class="container">
+
+<div class="row">
+<div class="col-lg-12">
+
+<div class="section-title-wrap text-center section-space--mb_60">
+<h3 class="heading mb-20">Misyonumuz</h3>
+</div>
+<h6 class="mb-20">Biz Kimiz</h6>
+<p>Misyonumuz, Çanakkale ve çevre bölgelerdeki işletmeleri büyümeyi artıran, verimliliği artıran ve dijital pazarda rekabet avantajı yaratan yenilikçi yazılım çözümleriyle güçlendirmektir. İşletmelerin operasyonlarını özel yazılım geliştirme yoluyla dönüştürmek isteyen en güvenilir teknoloji ortağı olmaya çalışıyoruz.</p>
+</div>
+</div>
+
 </div>
 </div>
 
