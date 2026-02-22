@@ -58,7 +58,7 @@
 </div>
 
 <div class="contact-inner contact-inner-home contact-message">
-<textarea name="con_message" placeholder="Talebiniz, mesajınız."></textarea>
+<textarea name="con_message" placeholder="Talebiniz, mesajınız." style="height: 100px"></textarea>
 </div>
 
 <div class="comment-submit-btn text-center">
