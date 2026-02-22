@@ -82,7 +82,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">
-<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
+<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 </a>
 </div>
 
