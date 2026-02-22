@@ -45,7 +45,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 </div>
 </div>
 
-<div class="feature-icon-wrapper section-space--ptb_70">
+<div class="feature-icon-wrapper section-space--pb_70">
 <div class="container">
 
 <div class="row">
