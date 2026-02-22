@@ -29,7 +29,7 @@
 <div class="col-lg-12">
 <!-- section-title-wrap Start -->
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading">Çanakkale ve ötesinde profesyonel yazılım geliştirme için güvenilir ortağınız</h3>
+<h3 class="heading mb-20">Çanakkale'de yazılım geliştirme için güvenilir ortağınız</h3>
 <h6 class="section-sub-title mb-20">Çanakkale Web Yazılım Hakkında</h6>
 </div>
 <!-- section-title-wrap Start -->
