@@ -7,7 +7,7 @@
 
 <div class="header__logo top-logo">
 <a href="index.html">
-<img src="/assets/images/logo/logo-dark.webp" width="160" height="48" aria-label="Mitech Logo" class="img-fluid" alt="">
+<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;text-decoration: underline;">Çanakkale Web Yazılım</h1>
 </a>
 </div>
 
