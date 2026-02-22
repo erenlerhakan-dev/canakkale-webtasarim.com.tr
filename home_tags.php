@@ -1,4 +1,4 @@
-<div class="container section-space--pt_90">
+<div class="container section-space--pt_70 section-space--pb_70">
 <div class="row justify-content-center">
 
 <div class="col-lg-8 align-self-center">
