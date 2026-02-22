@@ -165,22 +165,59 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 
 <div class="row justify-content-center">
 <div class="col-lg-8 align-self-center">
-<div class="list-group-wrap section-space--mb_60">
-<div class="separator-list-wrap">
-<ol class="automatic-numbered-list">
-<li class="list-item">Yerel Uzmanlık<br><p>Çanakkale merkezli olarak, yerel pazarı ve iş ortamını anlıyor, bölgesel ihtiyaçlara göre uyarlanmış çözümler sağlıyoruz.
+<section class="py-5 bg-light"> <div class="container px-4">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        
+        <h2 class="fs-2 fw-bold mb-4">Neden Bizi Seçmelisiniz?</h2>
+        
+        <div class="d-flex flex-column gap-4">
+          
+          <div class="d-flex gap-3">
+            <div class="flex-shrink-0 rounded-circle bg-primary text-white d-flex align-items-center justify-content-center fw-bold" style="width: 2.5rem; height: 2.5rem;">
+              1
+            </div>
+            <div>
+              <h3 class="fs-5 fw-semibold mb-2">Yerel Uzmanlık</h3>
+              <p class="text-muted">Çanakkale merkezli olarak, yerel pazarı ve iş ortamını anlıyor, bölgesel ihtiyaçlara göre uyarlanmış çözümler sağlıyoruz.</p>
+            </div>
+          </div>
 
-</p>
-</li>
-<li class="list-item">Teknik Mükemmellik
-</li>
-<li class="list-item">Kapsamlı Destek
-</li>
-<li class="list-item">Şeffaf İletişim
-</li>
-</ol>
-</div>
-</div>
+          <div class="d-flex gap-3">
+            <div class="flex-shrink-0 rounded-circle bg-primary text-white d-flex align-items-center justify-content-center fw-bold" style="width: 2.5rem; height: 2.5rem;">
+              2
+            </div>
+            <div>
+              <h3 class="fs-5 fw-semibold mb-2">Teknik Mükemmellik</h3>
+              <p class="text-muted">Ekibimiz Laravel, React, Django, Angular ve daha fazlası dahil olmak üzere geniş bir teknoloji yelpazesinde ustadır ve projeniz için doğru araçları kullanmamızı sağlar.</p>
+            </div>
+          </div>
+
+          <div class="d-flex gap-3">
+            <div class="flex-shrink-0 rounded-circle bg-primary text-white d-flex align-items-center justify-content-center fw-bold" style="width: 2.5rem; height: 2.5rem;">
+              3
+            </div>
+            <div>
+              <h3 class="fs-5 fw-semibold mb-2">Kapsamlı Destek</h3>
+              <p class="text-muted">Proje tamamlandıktan sonra sürekli bakım ve destek sağlıyor, uygulamalarınızın optimal performans göstermeye devam etmesini sağlıyoruz.</p>
+            </div>
+          </div>
+
+          <div class="d-flex gap-3">
+            <div class="flex-shrink-0 rounded-circle bg-primary text-white d-flex align-items-center justify-content-center fw-bold" style="width: 2.5rem; height: 2.5rem;">
+              4
+            </div>
+            <div>
+              <h3 class="fs-5 fw-semibold mb-2">Şeffaf İletişim</h3>
+              <p class="text-muted">Düzenli güncellemeler ve proje ilerlemesi hakkında net iletişimle geliştirme süreci boyunca sizi bilgilendiriyoruz.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 </div>
 </div> 
 
