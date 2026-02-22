@@ -181,17 +181,17 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">React vs Angular: Doğru Frontend Framework'ü Seçmek</a>
+<a href="/blog/aaa.php">Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Şubat 2024</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Geliştirme</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Şubat 2024</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Projeniz için en iyi frontend framework'ünü seçmenize yardımcı olacak kapsamlı karşılaştırma.</p>
+<p>Laravel'in kurumsal düzeyde yazılım geliştirme için ideal kılan güçlü özelliklerini anlayın.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
@@ -225,17 +225,17 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/aaa.php">Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir</a>
+<a href="/blog/aaa.php">React vs Angular: Doğru Frontend Framework'ü Seçmek</a>
 </h4>
 
 <div class="post-meta mt-20">
 <div class="post-author"><a href="https://www.hakanerenler.net"><span class="fa fa-user meta-icon"></span> Hakan Erenler</a></div>
-<div class="post-date"><span class="far fa-calendar meta-icon"></span>1 Şubat 2024</div>
-<div class="post-view"><span class="fa fa-list meta-icon"></span>Web Geliştirme</div>
+<div class="post-date"><span class="far fa-calendar meta-icon"></span>5 Şubat 2024</div>
+<div class="post-view"><span class="fa fa-list meta-icon"></span>Geliştirme</div>
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Laravel'in kurumsal düzeyde yazılım geliştirme için ideal kılan güçlü özelliklerini anlayın.</p>
+<p>Projeniz için en iyi frontend framework'ünü seçmenize yardımcı olacak kapsamlı karşılaştırma.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
