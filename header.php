@@ -7,7 +7,7 @@
 
 <div class="header__logo top-logo">
 <a href="index.html">
-<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;text-decoration: underline;">Çanakkale Web Yazılım</h1>
+<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;">Çanakkale Web Yazılım</h1>
 </a>
 </div>
 
