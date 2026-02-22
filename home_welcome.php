@@ -1,4 +1,4 @@
-<div class="appointment-hero-wrapper appointment-hero-bg section-space--ptb_60" style="background-image: url(/images/canakkale-web-tasarim.webp);opacity: .1;">
+<div class="appointment-hero-wrapper appointment-hero-bg section-space--ptb_60" style="background-image: url(/images/canakkale-web-tasarim.webp);background-color: rgba(255, 255, 255, 0.8);background-blend-mode: lighten;">
 <div class="container">
 <div class="row align-items-center">
 
