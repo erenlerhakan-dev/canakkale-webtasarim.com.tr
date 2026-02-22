@@ -566,6 +566,8 @@ How we work
 </div>
 </div>
 
+<?php include_once('home_tags.php'); ?>
+
 <?php include_once('home_testimonials.php'); ?>
 
 <?php include_once('home_faq.php'); ?>
