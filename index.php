@@ -859,7 +859,7 @@ How we work
 </div>
 </div>
 
-
+<?php include_once('home_faq.php'); ?>
 
 <?php include_once('home_contact.php'); ?>
 
