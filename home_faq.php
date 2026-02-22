@@ -1,6 +1,6 @@
 <div class="accordion-wrapper">
-<div class="container">
-<div class="row ">
+<div class="container text-center">
+<div class="row justify-content-center">
 
 <div class="col-lg-8 align-self-center">
 
@@ -24,7 +24,7 @@ Hangi teknolojilerde uzmanlaşmışsınız? <span> <i class="fas fa-chevron-down
 </button>
 </h5>
 </div>
-<div id="faq_one" class="collapse" aria-labelledby="faq_1">
+<div id="faq_one" class="collapse" aria-labelledby="faq_1" data-bs-parent="#faq-toggles">
 <div class="card-body">
 <p>React, Angular, Laravel, Django ve daha fazlası dahil olmak üzere modern web teknolojilerinde uzmanız. Full-stack ekibimiz, eksiksiz çözümler sunmak için hem frontend hem de backend teknolojileriyle çalışır.</p>
 </div>
@@ -40,7 +40,7 @@ Tipik bir proje ne kadar sürer? <span> <i class="fas fa-chevron-down"></i>
 </button>
 </h5>
 </div>
-<div id="faq_two" class="collapse" aria-labelledby="faq_2">
+<div id="faq_two" class="collapse" aria-labelledby="faq_2" data-bs-parent="#faq-toggles">
 <div class="card-body">
 <p>Proje süreleri karmaşıklığa göre değişir. Basit bir web sitesi 2-4 hafta sürebilirken, özel yazılımlar 2-6 ay alabilir. Planlama aşamasında detaylı zaman çizelgeleri sağlıyoruz.</p>
 </div>
@@ -56,7 +56,7 @@ Lansmanın ardından destek sağlıyor musunuz? <span> <i class="fas fa-chevron-
 </button>
 </h5>
 </div>
-<div id="faq_three" class="collapse" aria-labelledby="faq_3">
+<div id="faq_three" class="collapse" aria-labelledby="faq_3" data-bs-parent="#faq-toggles">
 <div class="card-body">
 <p>Evet! Uygulamanızın sorunsuz çalışmasını sağlamak için bakım paketleri ve sürekli destek sunuyoruz. Güncellemeler, hata düzeltmeleri ve yeni özellik geliştirme için her zaman hazırız.</p>
 </div>
@@ -66,7 +66,7 @@ Lansmanın ardından destek sağlıyor musunuz? <span> <i class="fas fa-chevron-
 <div class="card">
 <div class="card-header" id="faq_4">
 <h5 class="mb-0">
-<button class="collapsed" data-bs-toggle="collapse" data-bs-target="#faq_four" aria-expanded="false" aria-controls="faq_four">
+<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#faq_four" aria-expanded="false" aria-controls="faq_four">
 Mevcut sistemlerle entegrasyon yapabiliyor musunuz? <span> <i class="fas fa-chevron-down"></i>
 <i class="fas fa-chevron-up"></i> </span>
 </button>
@@ -82,7 +82,7 @@ Mevcut sistemlerle entegrasyon yapabiliyor musunuz? <span> <i class="fas fa-chev
 <div class="card">
 <div class="card-header" id="faq_5">
 <h5 class="mb-0">
-<button class="collapsed" data-bs-toggle="collapse" data-bs-target="#faq_five" aria-expanded="false" aria-controls="faq_five">
+<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#faq_five" aria-expanded="false" aria-controls="faq_five">
 Mevcut sistemlerle entegrasyon yapabiliyor musunuz? <span> <i class="fas fa-chevron-down"></i>
 <i class="fas fa-chevron-up"></i> </span>
 </button>
