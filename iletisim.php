@@ -71,7 +71,7 @@
 <div class="row align-items-center">
 
 <div class="col-lg-4 col-md-6">
-<div class="conact-info-wrap mt-30">
+<div class="conact-info-wrap mt-30 contact-boxes">
 <h5 class="heading mb-20">Adres</h5>
 <ul class="conact-info__list">
 <li>Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale</li>
@@ -80,7 +80,7 @@
 </div>
 
 <div class="col-lg-4 col-md-6">
-<div class="conact-info-wrap mt-30">
+<div class="conact-info-wrap mt-30 contact-boxes">
 <h5 class="heading mb-20">Telefon</h5>
 <ul class="conact-info__list">
 <li>+90 534 792 25 31</li>
@@ -89,7 +89,7 @@
 </div>
 
 <div class="col-lg-4 col-md-6">
-<div class="conact-info-wrap mt-30">
+<div class="conact-info-wrap mt-30 contact-boxes">
 <h5 class="heading mb-20">E-posta</h5>
 <ul class="conact-info__list">
 <li>info@cozumcloud.com.tr</li>

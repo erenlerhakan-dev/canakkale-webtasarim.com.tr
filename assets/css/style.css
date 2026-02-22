@@ -14314,3 +14314,8 @@ line-height: 1.8rem;
 color: #424c56 !important;
 font-weight: 400;
 }
+.contact-boxes{
+border: 1px solid #e9e8e8;
+border-radius: 10px;
+padding: 20px;
+}
