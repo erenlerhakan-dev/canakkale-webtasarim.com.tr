@@ -22,10 +22,11 @@
 <div id="main-wrapper">
 
 <div class="site-wrapper-reveal">
-<!--==================== Conact us Section Start ====================-->
+
 <div class="contact-us-section-wrappaer section-space--pt_100 section-space--pb_70">
 <div class="container">
 <div class="row align-items-center">
+
 <div class="col-lg-6 col-lg-6">
 <div class="conact-us-wrap-one mb-30">
 <h3 class="heading"><span class="text-color-primary">İletişim</span></h3>
@@ -39,29 +40,41 @@
 <h4>Bize Mesaj Gönderin</h4>
 
 <form id="contact-form" action="assets/php/mail.php" method="post">
+
 <div class="contact-form">
+
 <div class="contact-input">
+
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Name *" required>
+<input name="con_name" type="text" placeholder="Ad Soyad *" required>
 </div>
+
 <div class="contact-inner">
-<input name="con_email" type="email" placeholder="Email *" required>
+<input name="con_email" type="email" placeholder="E-posta Adresi *" required>
 </div>
+
 </div>
+
 <div class="contact-inner">
-<input name="con_subject" type="text" placeholder="Subject *" required>
+<input name="con_name" type="text" placeholder="Telefon Numarası *" required>
 </div>
+
+</div>
+
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Please describe what you need." required></textarea>
+<textarea name="con_message" placeholder="Mesaj *" required></textarea>
 </div>
+
 <div class="submit-btn mt-20">
-<button class="ht-btn ht-btn-md" type="submit">Send message</button>
+<button class="ht-btn ht-btn-md" type="submit">Mesaj Gönder</button>
 <p class="form-messege"></p>
 </div>
-</div>
+
 </form>
+
 </div>
 </div>
+
 </div>
 </div>
 </div>
