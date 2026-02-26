@@ -2,8 +2,8 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<title>Özel Web Geliştirme</title>
+<meta name="description" content="Özel Web Geliştirme">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -23,8 +23,10 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Services Details</h1>
-<h5 class="font-weight--normal text-white">Reach out to the world’s most reliable IT services.</h5>
+<h1 class="mb-15 text-white">Özel Web Geliştirme</h1>
+<h5 class="font-weight--normal text-white">Modern teknolojilerle işletmenize özel, hızlı ve güvenli web çözümleri sunuyoruz.
+
+</h5>
 </div>
 </div>
 </div>
@@ -37,7 +39,7 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Learn More About Our <span class="text-color-primary"> Success <br> Stories</span></h3>
+<h3 class="heading mt-30">ÇANAKKALE <span class="text-color-primary"> Özel <br> Web Geliştirme</span></h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
