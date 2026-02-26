@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html class="no-js" lang="tr" dir="ltr">
+
+<head>
+<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
+<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+
+<?php include_once('../head_meta.php'); ?>
+
+</head>
+
+<body>
+
+<?php include_once('../preloader.php'); ?>
+
+<?php include_once('../header.php'); ?>
+
+<div id="main-wrapper">
+<div class="site-wrapper-reveal">
+
+<div class="about-banner-wrap banner-space bg-img" data-bg="assets/images/bg/managed-it-services-hero-bg.webp">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 m-auto">
+<div class="about-banner-content text-center">
+<h1 class="mb-15 text-white">Services Details</h1>
+<h5 class="font-weight--normal text-white">Reach out to the world’s most reliable IT services.</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="feature-large-images-wrapper section-space--ptb_100">
+<div class="container">
+<div class="cybersecurity-about-box">
+<div class="row">
+<div class="col-lg-4">
+<div class="modern-number-01">
+<h3 class="heading mt-30">Learn More About Our <span class="text-color-primary"> Success <br> Stories</span></h3>
+</div>
+</div>
+<div class="col-lg-7 offset-lg-1">
+<div class="conact-us-wrap-one managed-it">
+<h5 class="heading ">Mitech specializes in <span class="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+
+<div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="accordion-wrapper section-space--pb_100">
+<div class="container">
+<div class="row ">
+<div class="col-lg-6 pe-5">
+<div class="faq-two-wrapper section-space--mt_40">
+<div id="accordion_two">
+<div class="card">
+<div class="card-header" id="heading__10">
+<h5 class="mb-0 font-weight--bold">
+<button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
+New multiple site connectivity <span>
+<i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+
+<div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering. </p>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading__11">
+<h5 class="mb-0">
+<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
+IT Security & Software<span>
+<i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system. </p>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading__12">
+<h5 class="mb-0">
+<button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
+Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security. </p>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading__13">
+<h5 class="mb-0">
+<button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
+Build internal network <span><i class="fas fa-chevron-circle-down"></i>
+<i class="fas fa-chevron-circle-right"></i> </span>
+</button>
+</h5>
+</div>
+<div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
+<div class="card-body">
+<p>The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-6">
+<!-- Start single-popup-wrap -->
+<div class="video-interview section-space--mt_40 video-popup">
+<a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="video-link mt-30">
+<div class="single-popup-wrap">
+<img class="img-fluid border-radus-5" src="/assets/images/bg/mitech-home-infotechno-box-large-image-03-540x320.webp" alt="">
+<div class="ht-popup-video video-button">
+<div class="video-mark">
+<div class="wave-pulse wave-pulse-1"></div>
+<div class="wave-pulse wave-pulse-2"></div>
+</div>
+<div class="video-button__two">
+<div class="video-play">
+<span class="video-play-icon"></span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<!-- End single-popup-wrap -->
+</div>
+</div>
+</div>
+</div>
+
+<div class="feature-icon-wrapper section-space--pb_70">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="section-title-wrap text-center section-space--mb_20">
+<h3 class="heading">Prominent IT Security Services</h3>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-12">
+<div class="feature-list__three">
+<div class="row">
+<div class="col-lg-6">
+<div class="grid-item animate">
+<div class="ht-box-icon style-03">
+<div class="icon-box-wrap">
+<div class="content-header">
+<div class="icon">
+<i class="far fa-life-ring"></i>
+</div>
+<h5 class="heading">
+Mitech Management Systems
+</h5>
+</div>
+<div class="content">
+<div class="text">Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="grid-item animate">
+<div class="ht-box-icon style-03">
+<div class="icon-box-wrap">
+<div class="content-header">
+<div class="icon">
+<i class="fas fa-lock"></i>
+</div>
+<h5 class="heading">
+Reliable Multi-function Technology
+</h5>
+</div>
+<div class="content">
+<div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="grid-item animate">
+<div class="ht-box-icon style-03">
+<div class="icon-box-wrap">
+<div class="content-header">
+<div class="icon">
+<i class="fas fa-globe"></i>
+</div>
+<h5 class="heading">
+Highly Professional Staffs
+</h5>
+</div>
+<div class="content">
+<div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="grid-item animate">
+<div class="ht-box-icon style-03">
+<div class="icon-box-wrap">
+<div class="content-header">
+<div class="icon">
+<i class="fas fa-medal"></i>
+</div>
+<h5 class="heading">
+Infrastructure Integration Technology
+</h5>
+</div>
+<div class="content">
+<div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="pricing-table-area section-space--ptb_100 bg-gray">
+<div class="pricing-table-title-area position-relative">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="section-title-wrapper text-center section-space--mb_40 wow move-up">
+<h6 class="section-sub-title mb-20">Style 01</h6>
+<h3 class="section-title">Affordable price plans<span class="text-color-primary"> for you!</span> </h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pricing-table-content-area">
+<div class="container">
+
+<div class="row">
+<div class="col-12 text-center wow move-up">
+<ul class="nav justify-content-center ht-plans-menu section-space--mb_60" role="tablist">
+<li class="tab__item nav-item active">
+<a class="nav-link active" data-bs-toggle="tab" href="#month-tab" role="tab" aria-selected="true">Per month</a>
+</li>
+<li class="tab__item nav-item ">
+<a class="nav-link" data-bs-toggle="tab" href="#year-tab" role="tab" aria-selected="false">Per year</a>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="tab-content ht-tab__content wow move-up">
+<div class="tab-pane fade show active" id="month-tab" role="tabpanel">
+<div class="row pricing-table-one">
+<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
+<div class="pricing-table__inner">
+<div class="pricing-table__header">
+<h6 class="sub-title">Basic</h6>
+<div class="pricing-table__image">
+<img src="/assets/images/icons/mitech-pricing-box-icon-01-90x90.webp" class="img-fluid" alt="">
+</div>
+<div class="pricing-table__price-wrap">
+<h6 class="currency">$</h6>
+<h6 class="price">19</h6>
+<h6 class="period">/mo</h6>
+</div>
+</div>
+<div class="pricing-table__body">
+<div class="pricing-table__footer">
+<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+</div>
+<ul class="pricing-table__list text-left">
+<li>03 projects</li>
+<li>Quality &amp; Customer Experience</li>
+<li><span class="featured">Try for free, forever!</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table pricing-table--popular">
+<div class="pricing-table__inner">
+<div class="pricing-table__feature-mark">
+<span>Popular Choice</span>
+</div>
+<div class="pricing-table__header">
+<h6 class="sub-title">Professional</h6>
+<div class="pricing-table__image">
+<img src="/assets/images/icons/mitech-pricing-box-icon-02-88x88.webp" class="img-fluid" alt="">
+</div>
+<div class="pricing-table__price-wrap">
+<h6 class="currency">$</h6>
+<h6 class="price">59</h6>
+<h6 class="period">/mo</h6>
+</div>
+</div>
+<div class="pricing-table__body">
+<div class="pricing-table__footer">
+<a href="#" class="ht-btn ht-btn-md ">Get started</a>
+</div>
+<ul class="pricing-table__list text-left">
+<li>Unlimited project</li>
+<li>Power And Predictive Dialing</li>
+<li>Quality &amp; Customer Experience</li>
+<li>24/7 phone and email support</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
+<div class="pricing-table__inner">
+<div class="pricing-table__header">
+<h6 class="sub-title">Professional</h6>
+<div class="pricing-table__image">
+<img src="/assets/images/icons/mitech-pricing-box-icon-03-90x90.webp" class="img-fluid" alt="">
+</div>
+<div class="pricing-table__price-wrap">
+<h6 class="currency">$</h6>
+<h6 class="price">29</h6>
+<h6 class="period">/mo</h6>
+</div>
+</div>
+<div class="pricing-table__body">
+<div class="pricing-table__footer">
+<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+</div>
+<ul class="pricing-table__list text-left">
+<li>10 projects</li>
+<li>Power And Predictive Dialing </li>
+<li>Quality &amp; Customer Experience </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane fade" id="year-tab" role="tabpanel">
+
+<div class="row pricing-table-one">
+<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
+<div class="pricing-table__inner">
+<div class="pricing-table__header">
+<h6 class="sub-title">Basic</h6>
+<div class="pricing-table__image">
+<img src="/assets/images/icons/mitech-pricing-box-icon-01-90x90.webp" class="img-fluid" alt="">
+</div>
+<div class="pricing-table__price-wrap">
+<h6 class="currency">$</h6>
+<h6 class="price">199</h6>
+<h6 class="period">/mo</h6>
+</div>
+</div>
+<div class="pricing-table__body">
+<div class="pricing-table__footer">
+<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+</div>
+<ul class="pricing-table__list text-left">
+<li>03 projects</li>
+<li>Quality &amp; Customer Experience</li>
+<li><span class="featured">Try for free, forever!</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table pricing-table--popular">
+<div class="pricing-table__inner">
+<div class="pricing-table__feature-mark">
+<span>Popular Choice</span>
+</div>
+<div class="pricing-table__header">
+<h6 class="sub-title">Professional</h6>
+<div class="pricing-table__image">
+<img src="/assets/images/icons/mitech-pricing-box-icon-02-88x88.webp" class="img-fluid" alt="">
+</div>
+<div class="pricing-table__price-wrap">
+<h6 class="currency">$</h6>
+<h6 class="price">599</h6>
+<h6 class="period">/mo</h6>
+</div>
+</div>
+<div class="pricing-table__body">
+<div class="pricing-table__footer">
+<a href="#" class="ht-btn ht-btn-md ">Get started</a>
+</div>
+<ul class="pricing-table__list text-left">
+<li>Unlimited project</li>
+<li>Power And Predictive Dialing</li>
+<li>Quality &amp; Customer Experience</li>
+<li>24/7 phone and email support</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
+<div class="pricing-table__inner">
+<div class="pricing-table__header">
+<h6 class="sub-title">Professional</h6>
+<div class="pricing-table__image">
+<img src="/assets/images/icons/mitech-pricing-box-icon-03-90x90.webp" class="img-fluid" alt="">
+</div>
+<div class="pricing-table__price-wrap">
+<h6 class="currency">$</h6>
+<h6 class="price">299</h6>
+<h6 class="period">/mo</h6>
+</div>
+</div>
+<div class="pricing-table__body">
+<div class="pricing-table__footer">
+<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+</div>
+<ul class="pricing-table__list text-left">
+<li>10 projects</li>
+<li>Power And Predictive Dialing </li>
+<li>Quality &amp; Customer Experience </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-xl-8 col-lg-7">
+<div class="cta-content md-text-center">
+<h3 class="heading text-white">We run all kinds of IT services that vow your <span class="text-color-secondary"> success</span></h3>
+</div>
+</div>
+<div class="col-xl-4 col-lg-5">
+<div class="cta-button-group--one text-center">
+<a href="#" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-comment-alt"></i></span> Let's talk</a>
+<a href="#" class="btn btn--secondary btn-two"><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Get info</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<a href="#" class="scroll-top" id="scroll-top">
+<i class="arrow-top fas fa-chevron-up"></i>
+<i class="arrow-bottom fas fa-chevron-up"></i>
+</a>
+
+<?php include_once('mobile_menu.php'); ?>
+
+<?php include_once('footer_scripts.php'); ?>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<!--==================== scroll top ====================-->
+<a href="#" class="scroll-top" id="scroll-top">
+<i class="arrow-top fas fa-chevron-up"></i>
+<i class="arrow-bottom fas fa-chevron-up"></i>
+</a>
+<!--==================== End of scroll top ====================-->
+
+<!--==================== mobile menu overlay ====================-->
+<div class="mobile-menu-overlay" id="mobile-menu-overlay">
+<div class="mobile-menu-overlay__inner">
+<div class="mobile-menu-overlay__header">
+<div class="container-fluid">
+<div class="row align-items-center">
+<div class="col-md-6 col-8">
+<!-- logo -->
+<div class="logo">
+<a href="index.html">
+<img src="/assets/images/logo/logo-dark.webp" class="img-fluid" alt="">
+</a>
+</div>
+</div>
+<div class="col-md-6 col-4">
+<!-- mobile menu content -->
+<div class="mobile-menu-content text-end">
+<span class="mobile-navigation-close-icon" id="mobile-menu-close-trigger"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mobile-menu-overlay__body">
+<nav class="offcanvas-navigation">
+<ul>
+<li class="has-children">
+<a href="index.html">Home</a>
+<ul class="sub-menu">
+<li><a href="index-infotechno.html"><span>Infotechno</span></a></li>
+<li><a href="index-processing.html"><span>Processing</span></a></li>
+<li><a href="index-appointment.html"><span>Appointment</span></a></li>
+<li><a href="index-services.html"><span>Services</span></a></li>
+<li><a href="index-resolutions.html"><span>Resolutions</span></a></li>
+<li><a href="index-cybersecurity.html"><span>cybersecurity</span></a></li>
+<li><a href="index-modern-it-company.html"><span>Modern IT Company</span></a></li>
+<li><a href="index-machine-learning.html"><span>Machine Learning</span></a></li>
+<li><a href="index-software-innovation.html"><span>Software Innovation</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Company</a>
+<ul class="sub-menu">
+<li class="has-children">
+<a href="about-us-01.html"><span>About us</span></a>
+<ul class="sub-menu">
+<li><a href="about-us-01.html"><span>About us 01</span></a></li>
+<li><a href="about-us-02.html"><span>About us 02</span></a></li>
+<li class="has-children">
+<a href="#"><span>Submenu Level Two</span></a>
+<ul class="sub-menu">
+<li><a href="#"><span>Submenu Level Three</span></a></li>
+<li><a href="#"><span>Submenu Level Three</span></a></li>
+<li><a href="#"><span>Submenu Level Three</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="contact-us.html"><span>Contact us</span></a></li>
+<li><a href="leadership.html"><span>Leadership</span></a></li>
+<li><a href="why-choose-us.html"><span>Why choose us</span></a></li>
+<li><a href="our-history.html"><span>Our history</span></a></li>
+<li><a href="faqs.html"><span>FAQs</span></a></li>
+<li><a href="careers.html"><span>Careers</span></a></li>
+<li><a href="pricing-plans.html"><span>Pricing plans</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">IT solutions</a>
+<ul class="sub-menu">
+<li><a href="it-services.html"><span>IT Services</span></a></li>
+<li><a href="managed-it-service.html"><span>Managed IT Services</span></a></li>
+<li><a href="industries.html"><span>Industries</span></a></li>
+<li><a href="business-solution.html"><span>Business solution</span></a></li>
+<li><a href="it-services-details.html"><span>IT Services Details</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Elements</a>
+<ul class="sub-menu">
+<li class="has-children">
+<a href="#">Element Group 01</a>
+<ul class="sub-menu">
+<li><a href="element-accordion.html"><span>Accordions & Toggles</span></a></li>
+<li><a href="element-box-icon.html"><span>Box Icon</span></a></li>
+<li><a href="element-box-image.html"><span>Box Image</span></a></li>
+<li><a href="element-box-large-image.html"><span>Box Large Image</span></a></li>
+<li><a href="element-buttons.html"><span>Buttons</span></a></li>
+<li><a href="element-cta.html"><span>Call to action</span></a></li>
+<li><a href="element-client-logo.html"><span>Client Logo</span></a></li>
+<li><a href="element-countdown.html"><span>Countdown</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Element Group 02</a>
+<ul class="sub-menu">
+<li><a href="element-counters.html"><span>Counters</span></a></li>
+<li><a href="element-dividers.html"><span>Dividers</span></a></li>
+<li><a href="element-flexible-image-slider.html"><span>Flexible image slider</span></a></li>
+<li><a href="element-google-map.html"><span>Google Map</span></a></li>
+<li><a href="element-gradation.html"><span>Gradation</span></a></li>
+<li><a href="element-instagram.html"><span>Instagram</span></a></li>
+<li><a href="element-lists.html"><span>Lists</span></a></li>
+<li><a href="element-message-box.html"><span>Message box</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Element Group 03</a>
+<ul class="sub-menu">
+<li><a href="element-popup-video.html"><span>Popup Video</span></a></li>
+<li><a href="element-pricing-box.html"><span>Pricing Box</span></a></li>
+<li><a href="element-progress-bar.html"><span>Progress Bar</span></a></li>
+<li><a href="element-progress-circle.html"><span>Progress Circle</span></a></li>
+<li><a href="element-rows-columns.html"><span>Rows & Columns</span></a></li>
+<li><a href="element-social-networks.html"><span>Social Networks</span></a></li>
+<li><a href="element-tabs.html"><span>Tabs</span></a></li>
+<li><a href="element-team-member.html"><span>Team member</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Element Group 04</a>
+<ul class="sub-menu">
+<li><a href="element-testimonials.html"><span>Testimonials</span></a></li>
+<li><a href="element-timeline.html"><span>Timeline</span></a></li>
+<li><a href="element-carousel-sliders.html"><span>Carousel Sliders</span></a></li>
+<li><a href="element-typed-text.html"><span>Typed Text</span></a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Case Studies</a>
+<ul class="sub-menu">
+<li><a href="case-studies.html"><span>Case Studies 01</span></a></li>
+<li><a href="case-studies-02.html"><span>Case Studies 02</span></a></li>
+<li><a href="single-smart-vision.html"><span>Single Layout</span></a></li>
+</ul>
+</li>
+<li class="has-children">
+<a href="#">Blogs</a>
+<ul class="sub-menu">
+<li><a href="blog-list-large-image.html"><span>List Large Image</span></a></li>
+<li><a href="blog-list-left-large-image.html"><span>Left Large Image</span></a></li>
+<li><a href="blog-grid-classic.html"><span>Grid Classic</span></a></li>
+<li><a href="blog-grid-masonry.html"><span>Grid Masonry</span></a></li>
+<li class="has-children">
+<a href="blog-post-layout-one.html"><span>Single Layouts</span></a>
+<ul class="sub-menu">
+<li><a href="blog-post-layout-one.html"><span>Left Sidebar</span></a></li>
+<li><a href="blog-post-right-sidebar.html"><span>Right Sidebar</span></a></li>
+<li><a href="blog-post-no-sidebar.html"><span>No Sidebar</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<!--==================== End of mobile menu overlay ====================-->
+
+
+
+
+
+
+
+<!--==================== search overlay ====================-->
+<div class="search-overlay" id="search-overlay">
+
+<div class="search-overlay__header">
+<div class="container-fluid">
+<div class="row align-items-center">
+<div class="col-md-6 ms-auto col-4">
+<!-- search content -->
+<div class="search-content text-end">
+<span class="mobile-navigation-close-icon" id="search-close-trigger"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="search-overlay__inner">
+<div class="search-overlay__body">
+<div class="search-overlay__form">
+<form action="#">
+<input type="text" placeholder="Search">
+</form>
+</div>
+</div>
+</div>
+</div>
+<!--==================== End of search overlay ====================-->
+
+
+
+
+
+
+
+
+<!-- JS
+============================================ -->
+<!-- Modernizer JS -->
+<script src="/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+
+<!-- jQuery JS -->
+<script src="/assets/js/vendor/jquery-3.5.1.min.js"></script>
+<script src="/assets/js/vendor/jquery-migrate-3.3.0.min.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="/assets/js/vendor/bootstrap.min.js"></script>
+
+<!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
+
+<script src="/assets/js/plugins/plugins.min.js"></script>
+
+<!-- Main JS -->
+<script src="/assets/js/main.js"></script>
+
+</body>
+
+</html>
