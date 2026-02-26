@@ -56,9 +56,11 @@
 <div class="accordion-wrapper section-space--pb_100">
 <div class="container">
 <div class="row ">
+
 <div class="col-lg-6 pe-5">
 <div class="faq-two-wrapper section-space--mt_40">
 <div id="accordion_two">
+
 <div class="card">
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
@@ -69,13 +71,13 @@ New multiple site connectivity <span>
 </button>
 </h5>
 </div>
-
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
 <p>We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering. </p>
 </div>
 </div>
 </div>
+
 <div class="card">
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
@@ -92,6 +94,7 @@ IT Security & Software<span>
 </div>
 </div>
 </div>
+
 <div class="card">
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
@@ -107,6 +110,7 @@ Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 </div>
 </div>
+
 <div class="card">
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
@@ -122,330 +126,15 @@ Build internal network <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </div>
 
 <div class="col-lg-6">
-<!-- Start single-popup-wrap -->
-<div class="video-interview section-space--mt_40 video-popup">
-<a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="video-link mt-30">
-<div class="single-popup-wrap">
-<img class="img-fluid border-radus-5" src="/assets/images/bg/mitech-home-infotechno-box-large-image-03-540x320.webp" alt="">
-<div class="ht-popup-video video-button">
-<div class="video-mark">
-<div class="wave-pulse wave-pulse-1"></div>
-<div class="wave-pulse wave-pulse-2"></div>
-</div>
-<div class="video-button__two">
-<div class="video-play">
-<span class="video-play-icon"></span>
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<!-- End single-popup-wrap -->
-</div>
-</div>
-</div>
+<img src="" alt="" class="img-fluid">
 </div>
 
-<div class="feature-icon-wrapper section-space--pb_70">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="section-title-wrap text-center section-space--mb_20">
-<h3 class="heading">Prominent IT Security Services</h3>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-12">
-<div class="feature-list__three">
-<div class="row">
-<div class="col-lg-6">
-<div class="grid-item animate">
-<div class="ht-box-icon style-03">
-<div class="icon-box-wrap">
-<div class="content-header">
-<div class="icon">
-<i class="far fa-life-ring"></i>
-</div>
-<h5 class="heading">
-Mitech Management Systems
-</h5>
-</div>
-<div class="content">
-<div class="text">Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="grid-item animate">
-<div class="ht-box-icon style-03">
-<div class="icon-box-wrap">
-<div class="content-header">
-<div class="icon">
-<i class="fas fa-lock"></i>
-</div>
-<h5 class="heading">
-Reliable Multi-function Technology
-</h5>
-</div>
-<div class="content">
-<div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="grid-item animate">
-<div class="ht-box-icon style-03">
-<div class="icon-box-wrap">
-<div class="content-header">
-<div class="icon">
-<i class="fas fa-globe"></i>
-</div>
-<h5 class="heading">
-Highly Professional Staffs
-</h5>
-</div>
-<div class="content">
-<div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="grid-item animate">
-<div class="ht-box-icon style-03">
-<div class="icon-box-wrap">
-<div class="content-header">
-<div class="icon">
-<i class="fas fa-medal"></i>
-</div>
-<h5 class="heading">
-Infrastructure Integration Technology
-</h5>
-</div>
-<div class="content">
-<div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="pricing-table-area section-space--ptb_100 bg-gray">
-<div class="pricing-table-title-area position-relative">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="section-title-wrapper text-center section-space--mb_40 wow move-up">
-<h6 class="section-sub-title mb-20">Style 01</h6>
-<h3 class="section-title">Affordable price plans<span class="text-color-primary"> for you!</span> </h3>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="pricing-table-content-area">
-<div class="container">
-
-<div class="row">
-<div class="col-12 text-center wow move-up">
-<ul class="nav justify-content-center ht-plans-menu section-space--mb_60" role="tablist">
-<li class="tab__item nav-item active">
-<a class="nav-link active" data-bs-toggle="tab" href="#month-tab" role="tab" aria-selected="true">Per month</a>
-</li>
-<li class="tab__item nav-item ">
-<a class="nav-link" data-bs-toggle="tab" href="#year-tab" role="tab" aria-selected="false">Per year</a>
-</li>
-</ul>
-</div>
-</div>
-
-<div class="tab-content ht-tab__content wow move-up">
-<div class="tab-pane fade show active" id="month-tab" role="tabpanel">
-<div class="row pricing-table-one">
-<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
-<div class="pricing-table__inner">
-<div class="pricing-table__header">
-<h6 class="sub-title">Basic</h6>
-<div class="pricing-table__image">
-<img src="/assets/images/icons/mitech-pricing-box-icon-01-90x90.webp" class="img-fluid" alt="">
-</div>
-<div class="pricing-table__price-wrap">
-<h6 class="currency">$</h6>
-<h6 class="price">19</h6>
-<h6 class="period">/mo</h6>
-</div>
-</div>
-<div class="pricing-table__body">
-<div class="pricing-table__footer">
-<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
-</div>
-<ul class="pricing-table__list text-left">
-<li>03 projects</li>
-<li>Quality &amp; Customer Experience</li>
-<li><span class="featured">Try for free, forever!</span></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table pricing-table--popular">
-<div class="pricing-table__inner">
-<div class="pricing-table__feature-mark">
-<span>Popular Choice</span>
-</div>
-<div class="pricing-table__header">
-<h6 class="sub-title">Professional</h6>
-<div class="pricing-table__image">
-<img src="/assets/images/icons/mitech-pricing-box-icon-02-88x88.webp" class="img-fluid" alt="">
-</div>
-<div class="pricing-table__price-wrap">
-<h6 class="currency">$</h6>
-<h6 class="price">59</h6>
-<h6 class="period">/mo</h6>
-</div>
-</div>
-<div class="pricing-table__body">
-<div class="pricing-table__footer">
-<a href="#" class="ht-btn ht-btn-md ">Get started</a>
-</div>
-<ul class="pricing-table__list text-left">
-<li>Unlimited project</li>
-<li>Power And Predictive Dialing</li>
-<li>Quality &amp; Customer Experience</li>
-<li>24/7 phone and email support</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
-<div class="pricing-table__inner">
-<div class="pricing-table__header">
-<h6 class="sub-title">Professional</h6>
-<div class="pricing-table__image">
-<img src="/assets/images/icons/mitech-pricing-box-icon-03-90x90.webp" class="img-fluid" alt="">
-</div>
-<div class="pricing-table__price-wrap">
-<h6 class="currency">$</h6>
-<h6 class="price">29</h6>
-<h6 class="period">/mo</h6>
-</div>
-</div>
-<div class="pricing-table__body">
-<div class="pricing-table__footer">
-<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
-</div>
-<ul class="pricing-table__list text-left">
-<li>10 projects</li>
-<li>Power And Predictive Dialing </li>
-<li>Quality &amp; Customer Experience </li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tab-pane fade" id="year-tab" role="tabpanel">
-
-<div class="row pricing-table-one">
-<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
-<div class="pricing-table__inner">
-<div class="pricing-table__header">
-<h6 class="sub-title">Basic</h6>
-<div class="pricing-table__image">
-<img src="/assets/images/icons/mitech-pricing-box-icon-01-90x90.webp" class="img-fluid" alt="">
-</div>
-<div class="pricing-table__price-wrap">
-<h6 class="currency">$</h6>
-<h6 class="price">199</h6>
-<h6 class="period">/mo</h6>
-</div>
-</div>
-<div class="pricing-table__body">
-<div class="pricing-table__footer">
-<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
-</div>
-<ul class="pricing-table__list text-left">
-<li>03 projects</li>
-<li>Quality &amp; Customer Experience</li>
-<li><span class="featured">Try for free, forever!</span></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table pricing-table--popular">
-<div class="pricing-table__inner">
-<div class="pricing-table__feature-mark">
-<span>Popular Choice</span>
-</div>
-<div class="pricing-table__header">
-<h6 class="sub-title">Professional</h6>
-<div class="pricing-table__image">
-<img src="/assets/images/icons/mitech-pricing-box-icon-02-88x88.webp" class="img-fluid" alt="">
-</div>
-<div class="pricing-table__price-wrap">
-<h6 class="currency">$</h6>
-<h6 class="price">599</h6>
-<h6 class="period">/mo</h6>
-</div>
-</div>
-<div class="pricing-table__body">
-<div class="pricing-table__footer">
-<a href="#" class="ht-btn ht-btn-md ">Get started</a>
-</div>
-<ul class="pricing-table__list text-left">
-<li>Unlimited project</li>
-<li>Power And Predictive Dialing</li>
-<li>Quality &amp; Customer Experience</li>
-<li>24/7 phone and email support</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table">
-<div class="pricing-table__inner">
-<div class="pricing-table__header">
-<h6 class="sub-title">Professional</h6>
-<div class="pricing-table__image">
-<img src="/assets/images/icons/mitech-pricing-box-icon-03-90x90.webp" class="img-fluid" alt="">
-</div>
-<div class="pricing-table__price-wrap">
-<h6 class="currency">$</h6>
-<h6 class="price">299</h6>
-<h6 class="period">/mo</h6>
-</div>
-</div>
-<div class="pricing-table__body">
-<div class="pricing-table__footer">
-<a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
-</div>
-<ul class="pricing-table__list text-left">
-<li>10 projects</li>
-<li>Power And Predictive Dialing </li>
-<li>Quality &amp; Customer Experience </li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
