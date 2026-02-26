@@ -42,9 +42,9 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Mitech specializes in <span class="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+<h5 class="heading ">İşletmenize Özel  <span class="text-color-primary"> Web Çözümleri</span></h5>
 
-<div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+<div class="sub-heading">Çanakkale Web Yazılım olarak React, Angular, Laravel ve Django gibi modern teknolojileri kullanarak işletmenize özel web uygulamaları geliştiriyoruz. Her projemizde performans, güvenlik ve kullanıcı deneyimini ön planda tutarak ölçeklenebilir çözümler sunuyoruz. Responsive tasarım anlayışımızla uygulamalarınız her cihazda kusursuz çalışır.</div>
 </div>
 </div>
 </div>
@@ -65,7 +65,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-New multiple site connectivity <span>
+Web uygulaması geliştirme süreci ne kadar sürer? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -73,7 +73,7 @@ New multiple site connectivity <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering. </p>
+<p>Projenin kapsamına bağlı olarak basit web siteleri 2-4 hafta, kapsamlı web uygulamaları ise 2-4 ay arasında tamamlanır. İlk aşamada detaylı bir analiz yaparak size net bir zaman çizelgesi sunuyoruz. </p>
 </div>
 </div>
 </div>
@@ -82,7 +82,7 @@ New multiple site connectivity <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-IT Security & Software<span>
+Hangi teknolojileri kullanıyorsunuz?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -90,7 +90,7 @@ IT Security & Software<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system. </p>
+<p>Frontend tarafında React, Angular ve Vue.js; backend tarafında Laravel, Django ve Node.js kullanıyoruz. Veritabanı olarak PostgreSQL, MySQL ve MongoDB tercih ediyoruz. Projenizin ihtiyaçlarına göre en uygun teknolojiyi birlikte belirliyoruz. </p>
 </div>
 </div>
 </div>
@@ -99,14 +99,14 @@ IT Security & Software<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
+Mevcut web sitemi yenileyebilir misiniz?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security. </p>
+<p>Evet, mevcut web sitenizi analiz edip modern teknolojilerle yeniden tasarlayabilir veya üzerine yeni özellikler ekleyebiliriz. Veri kaybı olmadan sorunsuz bir geçiş sağlıyoruz. </p>
 </div>
 </div>
 </div>
@@ -115,14 +115,14 @@ Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Build internal network <span><i class="fas fa-chevron-circle-down"></i>
+Proje sonrası destek sağlıyor musunuz? <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong. </p>
+<p>Evet, tüm projelerimizde 6 ay ücretsiz teknik destek ve bakım hizmeti sunuyoruz. Sonrasında aylık veya yıllık bakım paketlerimizle sürekli destek sağlamaya devam ediyoruz. </p>
 </div>
 </div>
 </div>
