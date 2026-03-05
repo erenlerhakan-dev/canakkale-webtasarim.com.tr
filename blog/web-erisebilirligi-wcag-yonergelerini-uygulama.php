@@ -142,7 +142,9 @@ Web erişilebilirliği, modern web sitelerinin olmazsa olmazıdır. Çanakkale w
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

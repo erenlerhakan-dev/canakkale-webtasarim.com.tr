@@ -154,7 +154,9 @@ JavaScript framework seçimi, projenizin ölçeği, performans gereksinimleri ve
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

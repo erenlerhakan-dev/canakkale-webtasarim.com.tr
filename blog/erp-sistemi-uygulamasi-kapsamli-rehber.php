@@ -160,7 +160,9 @@ ERP sistemi uygulamaları, işletmelerin dijital dönüşümünde kritik rol oyn
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

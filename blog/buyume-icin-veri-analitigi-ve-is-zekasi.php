@@ -151,7 +151,9 @@ Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rek
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

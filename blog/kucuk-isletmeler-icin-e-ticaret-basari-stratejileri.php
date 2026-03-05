@@ -180,7 +180,9 @@ Eğer siz de işletmeniz için profesyonel bir e-ticaret altyapısı oluşturmak
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

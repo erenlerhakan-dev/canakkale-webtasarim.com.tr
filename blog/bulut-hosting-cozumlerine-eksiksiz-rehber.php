@@ -159,7 +159,9 @@ Bulut hosting, modern web siteleri ve uygulamaları için vazgeçilmez bir altya
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

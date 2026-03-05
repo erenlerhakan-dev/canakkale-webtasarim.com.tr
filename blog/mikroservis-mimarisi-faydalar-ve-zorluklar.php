@@ -145,7 +145,9 @@ Mikroservis mimarisi, modern web uygulamaları için güçlü bir stratejidir. A
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

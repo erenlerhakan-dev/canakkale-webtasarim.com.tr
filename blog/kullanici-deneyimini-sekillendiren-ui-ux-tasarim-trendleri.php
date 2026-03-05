@@ -150,7 +150,9 @@ UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

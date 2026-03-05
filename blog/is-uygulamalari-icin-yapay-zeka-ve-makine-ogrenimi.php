@@ -151,7 +151,9 @@ ML algoritmaları, büyük veri setlerini işleyerek trendleri ve örüntüleri 
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>

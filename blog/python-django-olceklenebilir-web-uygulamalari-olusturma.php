@@ -150,7 +150,9 @@ Python Django, ölçeklenebilir web uygulamaları geliştirmek için ideal bir p
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
+
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
+
 </html>
