@@ -2,21 +2,53 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+
+<title>Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Çanakkale Web Yazılım</title>
+
+<meta name="description" content="Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.">
+
+<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/mobil-oncelikli-tasarim">
+
+<meta property="og:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
+<meta property="og:description" content="Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="tr_TR">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
+<meta name="twitter:description" content="Çanakkale web tasarım hizmetleri ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp">
 
 <?php include_once('../head_meta.php'); ?>
+
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"Article",
+"headline":"Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri",
+"description":"Modern web siteleri için mobil öncelikli tasarım stratejileri ve kullanıcı deneyimini artıran yöntemler.",
+"image":"https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp",
+"author":{
+"@type":"Organization",
+"name":"Çanakkale Web Yazılım"
+},
+"publisher":{
+"@type":"Organization",
+"name":"Çanakkale Web Yazılım"
+},
+"datePublished":"2026-03-05"
+}
+</script>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
-
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
-
 <div class="site-wrapper-reveal">
 
 <div class="blog-pages-wrapper section-space--ptb_100">
@@ -25,22 +57,81 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/blog-05-1170x570.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-11-1170x570.webp" alt="Mobil Öncelikli Tasarım">
 </div>
 </div>
 
 <div class="col-lg-8 m-auto">
 <div class="main-blog-wrap">
 <div class="single-blog-item wow move-up">
+
 <div class="post-info lg-blog-post-info">
-<div class="post-categories text-center"><a href="javascript:void(0);"> Success Story, Tips </a></div>
-<h3 class="post-title text-center"><a href="javascript:void(0);">Blockchain Technology Effects on Logistics Sector?</a></h3>
+
+<div class="post-categories text-center">
+<a href="javascript:void(0);">Web Tasarım, Mobil Tasarım</a>
+</div>
+
+<h3 class="post-title text-center">
+<a href="javascript:void(0);">
+Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri
+</a>
+</h3>
+
 <div class="post-excerpt mt-15">
-<p>Creative jobs website and networking platform The Dots has launched the “bias blocker”, a new browsing mode that stops employers being able to see candidates’ photos, names, education and employment history, on the basis that they should be judged on the “quality of their work” only. Will tools like this help to build a more diverse design workforce?</p>
-<p>Regardless of our gender, race, religion, cultural beliefs or education, all of us are biased in some way. This no doubt seeps into recruitment – whether we are subconsciously looking for people we relate to, or we are actively going against this to try to diversify the workplace, personal feelings and opinion are making their way into the hiring process.</p>
-<p>Positive discrimination – giving an advantage to those from minority backgrounds or discriminated groups to put them on a level playing field with others – can only be a good thing. It increases the diversity of people, and therefore the diversity of ideas, in the workplace.</p>
+
+<p>
+Günümüzde internet kullanıcılarının büyük çoğunluğu mobil cihazlar üzerinden web sitelerine erişiyor. Bu nedenle modern web tasarımda <strong>mobil öncelikli yaklaşım</strong> kritik bir hale gelmiştir. Mobil öncelikli tasarım, web sitelerinin önce mobil cihazlarda kusursuz çalışmasını, ardından masaüstü cihazlara uyarlanmasını hedefler.
+</p>
+
+<p>
+<strong>Çanakkale web tasarım hizmetleri</strong> sunan firmalar, mobil öncelikli tasarım prensiplerini uygulayarak kullanıcı deneyimini artırır ve SEO performansını yükseltir.
+</p>
+
+<h4>1. Basit ve Temiz Tasarım</h4>
+
+<p>
+Mobil ekranlar sınırlı alan sunduğu için tasarımın sade ve kullanıcı dostu olması gerekir. Gereksiz görseller ve karmaşık menüler kullanıcı deneyimini olumsuz etkileyebilir. Minimalist bir tasarım, içeriklerin hızlı ve kolay ulaşılabilir olmasını sağlar.
+</p>
+
+<h4>2. Hız ve Performans Odaklılık</h4>
+
+<p>
+Mobil cihazlarda sayfa yükleme süreleri doğrudan kullanıcı deneyimini etkiler. Görsellerin optimize edilmesi, gereksiz JavaScript ve CSS kodlarının azaltılması, hızlı yükleme süreleri için önemlidir. Google, mobil site hızını sıralama kriterlerinden biri olarak kullanmaktadır.
+</p>
+
+<h4>3. Duyarlı ve Esnek Layout</h4>
+
+<p>
+Responsive tasarım, farklı ekran boyutlarına uyum sağlayan dinamik bir yapı sunar. Grid sistemleri, esnek görseller ve medya sorguları ile mobil cihazdan masaüstüne sorunsuz geçiş sağlanabilir.
+</p>
+
+<h4>4. Dokunmatik Etkileşimleri Optimize Etme</h4>
+
+<p>
+Mobil cihazlarda kullanıcılar fare yerine dokunmatik ekran kullanır. Butonların ve bağlantıların yeterli büyüklükte olması, dokunma alanlarının optimize edilmesi kullanıcı deneyimini iyileştirir.
+</p>
+
+<h4>5. Öncelikli İçerik ve CTA</h4>
+
+<p>
+Mobil ekranlarda kullanıcılar hızlı ve doğrudan bilgiye ulaşmak ister. Önemli içerikler ve çağrı butonları (CTA) ekranın üst kısmına yerleştirilmelidir. Böylece kullanıcılar siteyi daha hızlı ve etkili kullanabilir.
+</p>
+
+<h4>6. SEO ve Mobil Uyumluluk</h4>
+
+<p>
+Mobil öncelikli tasarım, SEO açısından da kritik öneme sahiptir. Google’ın mobil-first indeksleme politikası gereği, mobil deneyimi optimize edilmiş web siteleri arama motorlarında daha üst sıralarda yer alır. Başlık, meta açıklama, hızlı yükleme ve kullanıcı dostu tasarım mobil SEO için vazgeçilmezdir.
+</p>
+
+<h4>Sonuç</h4>
+
+<p>
+Modern web siteleri için mobil öncelikli tasarım, kullanıcı deneyimini artırmanın ve arama motorlarında başarılı olmanın anahtarıdır. Çanakkale’de web tasarım hizmeti sunan firmalar, bu prensipleri uygulayarak müşterilerinin dijital dünyadaki başarısını destekler. Hızlı, esnek ve kullanıcı dostu bir mobil tasarım, her web projesinin vazgeçilmez bir parçasıdır.
+</p>
+
 </div>
 </div>
+
 </div>
 </div>
 </div>
@@ -61,9 +152,7 @@
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
-
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
-
 </html>

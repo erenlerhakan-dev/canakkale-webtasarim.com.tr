@@ -697,7 +697,7 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php">
+<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.php">
 <img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="2024 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 </a>
 </div>
@@ -709,7 +709,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php">2024 İçin Gelişmiş SEO Optimizasyon Stratejileri</a>
+<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.php">2024 İçin Gelişmiş SEO Optimizasyon Stratejileri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -724,7 +724,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/2024-icin-gelismis-seo-optimizasyon-stratejileri.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
@@ -829,8 +829,8 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php">
-<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu">
+<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.php">
+<img class="img-fluid" src="/images/blog/blog-01-540x330.webp" alt="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 </a>
 </div>
 
@@ -841,7 +841,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php">E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu</a>
+<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.php">E-Ticaret Platformları İçin Ödeme Geçidi Entegrasyonu</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -856,7 +856,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/e-ticaret-platformlari-icin-odeme-gecidi-entegrasyonu.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 

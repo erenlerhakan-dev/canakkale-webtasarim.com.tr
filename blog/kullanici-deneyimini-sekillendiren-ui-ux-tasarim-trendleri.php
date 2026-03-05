@@ -2,21 +2,53 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+
+<title>Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım</title>
+
+<meta name="description" content="2026 yılında UI/UX tasarım trendlerini keşfedin. Çanakkale web yazılım çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.">
+
+<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/ui-ux-tasarim-trendleri">
+
+<meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
+<meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-17-1170x570.webp">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="tr_TR">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
+<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-17-1170x570.webp">
 
 <?php include_once('../head_meta.php'); ?>
+
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"Article",
+"headline":"Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri",
+"description":"Modern web tasarımında kullanıcı deneyimini artıran UI/UX trendleri hakkında kapsamlı rehber.",
+"image":"https://canakkale-webtasarim.com.tr/assets/images/blog/blog-17-1170x570.webp",
+"author":{
+"@type":"Organization",
+"name":"Çanakkale Web Yazılım"
+},
+"publisher":{
+"@type":"Organization",
+"name":"Çanakkale Web Yazılım"
+},
+"datePublished":"2026-03-05"
+}
+</script>
 
 </head>
 
 <body>
 
 <?php include_once('../preloader.php'); ?>
-
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
-
 <div class="site-wrapper-reveal">
 
 <div class="blog-pages-wrapper section-space--ptb_100">
@@ -25,22 +57,77 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/blog-05-1170x570.webp" alt="Blog Images">
+<img class="img-fluid" src="/assets/images/blog/blog-17-1170x570.webp" alt="UI/UX Tasarım Trendleri">
 </div>
 </div>
 
 <div class="col-lg-8 m-auto">
 <div class="main-blog-wrap">
 <div class="single-blog-item wow move-up">
+
 <div class="post-info lg-blog-post-info">
-<div class="post-categories text-center"><a href="javascript:void(0);"> Success Story, Tips </a></div>
-<h3 class="post-title text-center"><a href="javascript:void(0);">Blockchain Technology Effects on Logistics Sector?</a></h3>
+
+<div class="post-categories text-center">
+<a href="javascript:void(0);">UI/UX, Web Tasarım</a>
+</div>
+
+<h3 class="post-title text-center">
+<a href="javascript:void(0);">
+Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri
+</a>
+</h3>
+
 <div class="post-excerpt mt-15">
-<p>Creative jobs website and networking platform The Dots has launched the “bias blocker”, a new browsing mode that stops employers being able to see candidates’ photos, names, education and employment history, on the basis that they should be judged on the “quality of their work” only. Will tools like this help to build a more diverse design workforce?</p>
-<p>Regardless of our gender, race, religion, cultural beliefs or education, all of us are biased in some way. This no doubt seeps into recruitment – whether we are subconsciously looking for people we relate to, or we are actively going against this to try to diversify the workplace, personal feelings and opinion are making their way into the hiring process.</p>
-<p>Positive discrimination – giving an advantage to those from minority backgrounds or discriminated groups to put them on a level playing field with others – can only be a good thing. It increases the diversity of people, and therefore the diversity of ideas, in the workplace.</p>
+
+<p>
+2026 yılında web tasarım dünyası, kullanıcı deneyimini merkeze alan modern trendlerle şekilleniyor. <strong>UI/UX tasarımı</strong>, yalnızca görsellik değil, aynı zamanda etkileşim, hız ve kullanılabilirlik odaklı bir strateji haline geldi. <strong>Çanakkale web yazılım çözümleri</strong>, işletmelerin bu trendleri uygulayarak kullanıcı dostu ve etkileşim odaklı web siteleri geliştirmesini sağlar.
+</p>
+
+<h4>1. Minimalist ve Temiz Tasarımlar</h4>
+
+<p>
+Karmaşık tasarımlar yerine, sade ve anlaşılır arayüzler ön plana çıkıyor. Minimalist yaklaşım, kullanıcıların dikkatini önemli içeriklere yönlendirir ve navigasyonu kolaylaştırır.
+</p>
+
+<h4>2. Mikro Etkileşimler ve Animasyonlar</h4>
+
+<p>
+Küçük animasyonlar ve etkileşimler, kullanıcı davranışlarını yönlendirir ve deneyimi zenginleştirir. Örneğin buton geri bildirimleri, yükleme animasyonları veya hover efektleri kullanıcıya anlık bilgi sağlar.
+</p>
+
+<h4>3. Mobil Öncelikli Tasarım</h4>
+
+<p>
+Mobil cihazlarda kusursuz deneyim sunmak, modern web tasarımının en kritik trendlerinden biridir. Responsive tasarım ve mobil performans optimizasyonları kullanıcı memnuniyetini artırır.
+</p>
+
+<h4>4. Karanlık Mod ve Tema Seçenekleri</h4>
+
+<p>
+Kullanıcıların tercihine göre karanlık veya açık mod seçenekleri sunmak, kullanıcı deneyimini özelleştirir ve modern estetik sağlar.
+</p>
+
+<h4>5. Veri Odaklı Tasarım</h4>
+
+<p>
+Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Çanakkale web yazılım hizmetleri ile veriye dayalı UI/UX stratejileri uygulanabilir.
+</p>
+
+<h4>6. Erişilebilirlik ve Kullanılabilirlik</h4>
+
+<p>
+Web siteleri, herkes için erişilebilir olmalıdır. Kontrast oranları, klavye navigasyonu ve ekran okuyucu uyumluluğu, modern UI/UX tasarımında önceliklidir.
+</p>
+
+<h4>Sonuç</h4>
+
+<p>
+UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan etkiler. Çanakkale web yazılım çözümleri ile minimal, etkileşimli, mobil öncelikli ve erişilebilir tasarımlar geliştirerek kullanıcı deneyimini artırabilirsiniz. Bu sayede hem müşteri memnuniyeti yükselir hem de dijital rekabette öne geçilir.
+</p>
+
 </div>
 </div>
+
 </div>
 </div>
 </div>
@@ -61,15 +148,7 @@
 </a>
 
 <?php include_once('../mobile_menu.php'); ?>
-
 <?php include_once('../footer_scripts.php'); ?>
 
 </body>
-
-</html><?php
-
-/* 
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHP.php to edit this template
- */
-
+</html>
