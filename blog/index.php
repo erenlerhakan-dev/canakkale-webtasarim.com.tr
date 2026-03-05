@@ -37,8 +37,8 @@
 <div class="col-lg-6">
 
 <div class="post-feature blog-thumbnail">
-<a href="/blog/2024te-modern-web-gelistirme-trendleri.php">
-<img class="img-fluid" src="/images/blog/2024te-modern-web-gelistirme-trendleri.webp" alt="2024'te Modern Web Geliştirme Trendleri">
+<a href="/blog/2026da-modern-web-gelistirme-trendleri.php">
+<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2024'te Modern Web Geliştirme Trendleri">
 </a>
 </div>
 
@@ -49,7 +49,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/2024te-modern-web-gelistirme-trendleri.php">2024'te Modern Web Geliştirme Trendleri</a>
+<a href="/blog/2026da-modern-web-gelistirme-trendleri.php">2026'da Modern Web Geliştirme Trendleri</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -64,7 +64,7 @@
 
 <div class="read-post-share-wrap mt-30">
 <div class="post-read-more">
-<a href="/blog/2024te-modern-web-gelistirme-trendleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
+<a href="/blog/2026da-modern-web-gelistirme-trendleri.php" class="ht-btn ht-btn-md">Devamını oku </a>
 </div>
 </div>
 
