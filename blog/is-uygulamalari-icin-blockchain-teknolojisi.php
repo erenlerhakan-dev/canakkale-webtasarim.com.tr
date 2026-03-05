@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-34-1170x570.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,26 +18,35 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-34-1170x570.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
-"@context":"https://schema.org",
-"@type":"Article",
-"headline":"İş Uygulamaları İçin Blockchain Teknolojisi",
-"description":"İş uygulamalarında blockchain teknolojisi kullanım rehberi.",
-"image":"https://canakkale-webtasarim.com.tr/assets/images/blog/blog-34-1170x570.webp",
-"author":{
-"@type":"Organization",
-"name":"Çanakkale Web Yazılım"
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
+"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
+"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"author": {
+"@type": "Person",
+"name": "Çanakkale Web Yazılım"
 },
-"publisher":{
-"@type":"Organization",
-"name":"Çanakkale Web Yazılım"
+"publisher": {
+"@type": "Organization",
+"name": "Çanakkale Web Yazılım",
+"logo": {
+"@type": "ImageObject",
+"url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
+}
 },
-"datePublished":"2026-03-05"
+"datePublished": "2026-03-05",
+"dateModified": "2026-03-05",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+}
 }
 </script>
 
@@ -57,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/blog-34-1170x570.webp" alt="İş Uygulamaları Blockchain">
+<img class="img-fluid" src="/assets/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp" alt="İş Uygulamaları Blockchain">
 </div>
 </div>
 

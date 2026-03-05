@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta property="og:description" content="Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-06-1170x570.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,26 +18,35 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta name="twitter:description" content="CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-06-1170x570.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
-"@context":"https://schema.org",
-"@type":"Article",
-"headline":"Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları",
-"description":"Türk işletmeleri için özel CRM sistemlerinin müşteri yönetimi, satış takibi ve verimlilik üzerindeki etkileri.",
-"image":"https://canakkale-webtasarim.com.tr/assets/images/blog/blog-06-1170x570.webp",
-"author":{
-"@type":"Organization",
-"name":"Çanakkale Web Yazılım"
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
+"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
+"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"author": {
+"@type": "Person",
+"name": "Çanakkale Web Yazılım"
 },
-"publisher":{
-"@type":"Organization",
-"name":"Çanakkale Web Yazılım"
+"publisher": {
+"@type": "Organization",
+"name": "Çanakkale Web Yazılım",
+"logo": {
+"@type": "ImageObject",
+"url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
+}
 },
-"datePublished":"2026-03-05"
+"datePublished": "2026-03-05",
+"dateModified": "2026-03-05",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+}
 }
 </script>
 
@@ -57,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/blog-06-1170x570.webp" alt="CRM yazılımı ve müşteri yönetim sistemi">
+<img class="img-fluid" src="/assets/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="CRM yazılımı ve müşteri yönetim sistemi">
 </div>
 </div>
 

@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta property="og:description" content="Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,26 +18,35 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta name="twitter:description" content="Çanakkale web tasarım hizmetleri ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
-"@context":"https://schema.org",
-"@type":"Article",
-"headline":"Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri",
-"description":"Modern web siteleri için mobil öncelikli tasarım stratejileri ve kullanıcı deneyimini artıran yöntemler.",
-"image":"https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp",
-"author":{
-"@type":"Organization",
-"name":"Çanakkale Web Yazılım"
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
+"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
+"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"author": {
+"@type": "Person",
+"name": "Çanakkale Web Yazılım"
 },
-"publisher":{
-"@type":"Organization",
-"name":"Çanakkale Web Yazılım"
+"publisher": {
+"@type": "Organization",
+"name": "Çanakkale Web Yazılım",
+"logo": {
+"@type": "ImageObject",
+"url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
+}
 },
-"datePublished":"2026-03-05"
+"datePublished": "2026-03-05",
+"dateModified": "2026-03-05",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+}
 }
 </script>
 
@@ -57,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/blog-11-1170x570.webp" alt="Mobil Öncelikli Tasarım">
+<img class="img-fluid" src="/assets/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp" alt="Mobil Öncelikli Tasarım">
 </div>
 </div>
 
