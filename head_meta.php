@@ -42,7 +42,7 @@
 <meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr" />
 <meta name="content-language" content="tr-TR" />
 
-<link rel="canonical" href="<?php echo REFERRER; ?>">
+<link rel="canonical" href="<?php echo $_SERVER['HTTP_REFERER']; ?>">
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr">
