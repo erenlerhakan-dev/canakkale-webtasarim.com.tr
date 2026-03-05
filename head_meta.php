@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="icon" href="/assets/images/favicon.webp">
 <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,9 +27,6 @@
 <meta name="norton-safeweb-site-verification" content="" />
 <meta name='dmca-site-verification' content='' />
 <meta name="p:domain_verify" content=""/>
-
-<link rel="alternate" href="<?php echo $_SERVER['HTTP_REFERER']; ?>" hreflang="tr-TR" />
-
 <meta name="wot-verification" content=""/>
 
 <meta name="author" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr">
