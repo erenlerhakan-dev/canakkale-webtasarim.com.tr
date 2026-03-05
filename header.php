@@ -116,7 +116,7 @@
 
 <li class="has-children has-children--multilevel-submenu">
 <a href="/hizmetler.php">Hizmetler</a>
-<ul class="sub-menu">
+<ul class="submenu">
 <li><a href="/hizmetlerimiz/ozel-web-gelistirme.php"><span>Özel Web Geliştirme</span></a></li>
 <li><a href="/hizmetlerimiz/crm-sistemleri.php"><span>CRM Sistemleri</span></a></li>
 <li><a href="/hizmetlerimiz/erp-cozumleri.php"><span>ERP Çözümleri</span></a></li>
