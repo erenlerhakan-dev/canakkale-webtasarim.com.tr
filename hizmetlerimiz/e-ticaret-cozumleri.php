@@ -132,7 +132,7 @@ Build internal network <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="" class="img-fluid">
+<img src="" Çanakkale Web Tasarım class="img-fluid">
 </div>
 
 </div>

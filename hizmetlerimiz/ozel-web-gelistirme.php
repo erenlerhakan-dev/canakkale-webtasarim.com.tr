@@ -134,7 +134,7 @@ Proje sonrası destek sağlıyor musunuz? <span><i class="fas fa-chevron-circle-
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="" class="img-fluid">
+<img src="" Çanakkale Web Tasarım class="img-fluid">
 </div>
 
 </div>
