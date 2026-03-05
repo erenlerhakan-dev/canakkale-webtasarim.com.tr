@@ -28,23 +28,23 @@
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="#" class="hover-style-link">Özel Web Geliştirme</a></li>
-<li><a href="#" class="hover-style-link">CRM Sistemleri</a></li>
-<li><a href="#" class="hover-style-link">ERP Çözümleri</a></li>
-<li><a href="#" class="hover-style-link">E-Ticaret Çözümleri</a></li>
-<li><a href="#" class="hover-style-link">Mobil Uygulamalar</a></li>
-<li><a href="#" class="hover-style-link">Rezervasyon Sistemleri</a></li>
+<li><a href="/hizmetlerimiz/ozel-web-gelistirme.php" class="hover-style-link">Özel Web Geliştirme</a></li>
+<li><a href="/hizmetlerimiz/crm-sistemleri.php" class="hover-style-link">CRM Sistemleri</a></li>
+<li><a href="/hizmetlerimiz/erp-cozumleri.php" class="hover-style-link">ERP Çözümleri</a></li>
+<li><a href="/hizmetlerimiz/e-ticaret-cozumleri.php" class="hover-style-link">E-Ticaret Çözümleri</a></li>
+<li><a href="/hizmetlerimiz/mobil-uygulamalar.php" class="hover-style-link">Mobil Uygulamalar</a></li>
+<li><a href="/hizmetlerimiz/rezervasyon-sistemleri.php" class="hover-style-link">Rezervasyon Sistemleri</a></li>
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="#" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
-<li><a href="#" class="hover-style-link">B2B & B2C Çözümleri</a></li>
-<li><a href="#" class="hover-style-link">API Geliştirme</a></li>
-<li><a href="#" class="hover-style-link">Güvenlik ve Bakım</a></li>
-<li><a href="#" class="hover-style-link">Performans Optimizasyonu</a></li>
-<li><a href="#" class="hover-style-link">Teknik Danışmanlık</a></li>
+<li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme.php" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
+<li><a href="/hizmetlerimiz/b2b-and-b2c-cozumleri.php" class="hover-style-link">B2B & B2C Çözümleri</a></li>
+<li><a href="/hizmetlerimiz/api-gelistirme.php" class="hover-style-link">API Geliştirme</a></li>
+<li><a href="/hizmetlerimiz/guvenlik-ve-bakim.php" class="hover-style-link">Güvenlik ve Bakım</a></li>
+<li><a href="/hizmetlerimiz/performans-optimizasyonu.php" class="hover-style-link">Performans Optimizasyonu</a></li>
+<li><a href="/hizmetlerimiz/teknik-danismanlik.php" class="hover-style-link">Teknik Danışmanlık</a></li>
 </ul>
 </div>
 
