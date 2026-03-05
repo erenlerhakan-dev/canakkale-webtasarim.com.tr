@@ -15,6 +15,7 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
+<meta property="og:site_name" content="Çanakkale Web Yazılım">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
