@@ -12,6 +12,7 @@
 <meta property="og:title" content="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 <meta property="og:description" content="Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım hizmetleri ile modern projeler oluşturun.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-16-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

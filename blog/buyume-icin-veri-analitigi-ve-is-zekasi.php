@@ -12,6 +12,7 @@
 <meta property="og:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-27-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

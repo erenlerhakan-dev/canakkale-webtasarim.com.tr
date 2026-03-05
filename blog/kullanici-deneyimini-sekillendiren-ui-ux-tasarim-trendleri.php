@@ -12,6 +12,7 @@
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-17-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

@@ -12,6 +12,7 @@
 <meta property="og:title" content="Bulut Hosting Çözümlerine Eksiksiz Rehber">
 <meta property="og:description" content="Bulut hosting nedir, avantajları ve işiniz için doğru çözümü seçmenin yolları hakkında kapsamlı rehber.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-13-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

@@ -12,6 +12,7 @@
 <meta property="og:title" content="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 <meta property="og:description" content="Küçük işletmeler için e-ticaret stratejileri ile online satışlarınızı artırın ve dijital pazarda rekabet avantajı elde edin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-07-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

@@ -12,6 +12,7 @@
 <meta property="og:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin ve müşteri deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-18-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

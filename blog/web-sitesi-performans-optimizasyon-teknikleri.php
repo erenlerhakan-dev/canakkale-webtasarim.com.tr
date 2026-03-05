@@ -12,6 +12,7 @@
 <meta property="og:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-32-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

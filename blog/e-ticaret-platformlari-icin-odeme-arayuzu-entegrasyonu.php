@@ -12,6 +12,7 @@
 <meta property="og:title" content="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile e-ticaret sitenize güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-23-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

@@ -12,6 +12,7 @@
 <meta property="og:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-34-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

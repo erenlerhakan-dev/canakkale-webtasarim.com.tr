@@ -12,6 +12,7 @@
 <meta property="og:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 <meta property="og:description" content="React ve Angular framework'leri arasındaki farklar, avantajlar ve kullanım alanları.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-09-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

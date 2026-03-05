@@ -12,6 +12,7 @@
 <meta property="og:title" content="2026 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile 2026 SEO trendleri ve gelişmiş optimizasyon stratejilerini uygulayın, web sitenizi görünür kılın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-20-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

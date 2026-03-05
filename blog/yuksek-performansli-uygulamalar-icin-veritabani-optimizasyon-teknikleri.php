@@ -2,8 +2,24 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
+
 <title>Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri | Çanakkale Web Yazılım</title>
+
 <meta name="description" content="Yüksek performanslı web uygulamaları için veritabanı optimizasyon tekniklerini keşfedin. Çanakkale web yazılım çözümleri ile hızlı ve ölçeklenebilir uygulamalar geliştirin.">
+
+<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/dogru-cms-platformu-secimi">
+
+<meta property="og:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
+<meta property="og:description" content="Çanakkale web yazılım çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-25-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="tr_TR">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
+<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-25-1170x570.webp">
 
 <?php include_once('../head_meta.php'); ?>
 

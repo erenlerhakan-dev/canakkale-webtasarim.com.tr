@@ -12,6 +12,7 @@
 <meta property="og:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-26-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

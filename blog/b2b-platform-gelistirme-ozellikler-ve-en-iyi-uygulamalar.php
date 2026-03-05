@@ -12,6 +12,7 @@
 <meta property="og:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-30-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

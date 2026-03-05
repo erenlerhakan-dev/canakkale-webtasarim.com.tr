@@ -2,6 +2,7 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
+
 <title>2026’ta Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım</title>
 
 <meta name="description" content="2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.">

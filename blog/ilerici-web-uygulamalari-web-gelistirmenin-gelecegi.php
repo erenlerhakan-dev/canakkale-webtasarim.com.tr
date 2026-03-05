@@ -12,6 +12,7 @@
 <meta property="og:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 <meta property="og:description" content="Progressive Web Apps ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-15-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 

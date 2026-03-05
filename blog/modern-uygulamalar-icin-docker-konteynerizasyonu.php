@@ -12,6 +12,7 @@
 <meta property="og:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile Docker konteynerizasyonu uygulayarak modern web uygulamalarınızı hızlı ve güvenli hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-24-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 
