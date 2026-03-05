@@ -20,7 +20,7 @@
 <li><a href="https://canakkale-webtasarim.com.tr/" class="hover-style-link">Ana Sayfa</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/hakkimizda.php" class="hover-style-link">Hakkımızda</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/hizmetler.php" class="hover-style-link">Hizmetler</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/blog/index.php" class="hover-style-link">Blog</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/blog/index.php" class="hover-style-link">Teknolojiler</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/iletisim.php" class="hover-style-link">İletişim</a></li>
 </ul>
 </div>

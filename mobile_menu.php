@@ -48,7 +48,7 @@
 </ul>
 </li>
 
-<li><a href="https://canakkale-webtasarim.com.tr/blog/index.php">Blog</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/blog/index.php">Teknolojiler</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/iletisim.php">İletişim</a></li>
 
 <li class="has-children">
