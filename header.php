@@ -6,7 +6,7 @@
 <div class="header position-relative">
 
 <div class="header__logo top-logo">
-<a href="index.html">
+<a href="/index.php">
 <h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;">Çanakkale Web Yazılım</h1>
 </a>
 </div>
@@ -113,7 +113,23 @@
 <ul>
 <li><a href="https://canakkale-webtasarim.com.tr/">Ana Sayfa</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/hakkimizda.php">Hakkımızda</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/hizmetler.php">Hizmetler</a></li>
+<li class="has-children">
+<a href="hizmetlerimiz/index.php">Hizmetler</a>
+<ul class="sub-menu">
+<li><a href="/hizmetlerimiz/ozel-web-gelistirme.php"><span>Özel Web Geliştirme</span></a></li>
+<li><a href="/hizmetlerimiz/crm-sistemleri.php"><span>CRM Sistemleri</span></a></li>
+<li><a href="/hizmetlerimiz/erp-cozumleri.php"><span>ERP Çözümleri</span></a></li>
+<li><a href="/hizmetlerimiz/e-ticaret-cozumleri.php"><span>E-Ticaret Çözümleri</span></a></li>
+<li><a href="/hizmetlerimiz/mobil-uygulamalar.php"><span>Mobil Uygulamalar</span></a></li>
+<li><a href="/hizmetlerimiz/rezervasyon-sistemleri.php"><span>Rezervasyon Sistemleri</span></a></li>
+<li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme.php"><span>Özel Yazılım Geliştirme</span></a></li>
+<li><a href="/hizmetlerimiz/b2b-and-b2c-cozumleri.php"><span>B2B & B2C Çözümleri</span></a></li>
+<li><a href="/hizmetlerimiz/api-gelistirme.php"><span>API Geliştirme</span></a></li>
+<li><a href="/hizmetlerimiz/guvenlik-ve-bakim.php"><span>Güvenlik ve Bakım</span></a></li>
+<li><a href="/hizmetlerimiz/performans-optimizasyonu.php"><span>Performans Optimizasyonu</span></a></li>
+<li><a href="/hizmetlerimiz/teknik-danismanlik.php"><span>Teknik Danışmanlık</span></a></li>
+</ul>
+</li>
 <li><a href="https://canakkale-webtasarim.com.tr/blog/index.php">Blog</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/iletisim.php">İletişim</a></li>
 
