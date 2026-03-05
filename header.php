@@ -113,7 +113,8 @@
 <ul>
 <li><a href="https://canakkale-webtasarim.com.tr/">Ana Sayfa</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/hakkimizda.php">Hakkımızda</a></li>
-<li class="has-children">
+
+<li class="has-children has-children--multilevel-submenu">
 <a href="hizmetlerimiz/index.php">Hizmetler</a>
 <ul class="sub-menu">
 <li><a href="/hizmetlerimiz/ozel-web-gelistirme.php"><span>Özel Web Geliştirme</span></a></li>
@@ -130,6 +131,7 @@
 <li><a href="/hizmetlerimiz/teknik-danismanlik.php"><span>Teknik Danışmanlık</span></a></li>
 </ul>
 </li>
+
 <li><a href="https://canakkale-webtasarim.com.tr/blog/index.php">Blog</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/iletisim.php">İletişim</a></li>
 
