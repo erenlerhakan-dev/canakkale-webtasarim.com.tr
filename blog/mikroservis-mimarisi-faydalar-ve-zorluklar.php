@@ -7,8 +7,6 @@
 
 <meta name="description" content="Mikroservis mimarisi ile ölçeklenebilir ve esnek web uygulamaları geliştirin. Çanakkale web yazılım çözümleri ile avantajlar ve zorlukları keşfedin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/mikroservis-mimarisi">
-
 <meta property="og:title" content="Mikroservis Mimarisi: Faydalar ve Zorluklar">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile mikroservis mimarisi kullanarak modern, ölçeklenebilir ve esnek web uygulamaları geliştirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-19-1170x570.webp">

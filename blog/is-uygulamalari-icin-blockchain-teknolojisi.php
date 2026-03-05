@@ -7,8 +7,6 @@
 
 <meta name="description" content="İş uygulamalarında blockchain teknolojisi rehberi. Çanakkale web yazılım çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/is-uygulamalari-blockchain">
-
 <meta property="og:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-34-1170x570.webp">

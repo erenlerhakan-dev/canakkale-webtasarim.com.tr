@@ -7,8 +7,6 @@
 
 <meta name="description" content="Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Çanakkale web yazılım çözümleri ile projelerinizi optimize edin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/docker-konteynerizasyonu">
-
 <meta property="og:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile Docker konteynerizasyonu uygulayarak modern web uygulamalarınızı hızlı ve güvenli hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-24-1170x570.webp">

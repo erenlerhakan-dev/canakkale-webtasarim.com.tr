@@ -7,8 +7,6 @@
 
 <meta name="description" content="Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Çanakkale web yazılım çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/veri-analitigi-is-zekasi">
-
 <meta property="og:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-27-1170x570.webp">

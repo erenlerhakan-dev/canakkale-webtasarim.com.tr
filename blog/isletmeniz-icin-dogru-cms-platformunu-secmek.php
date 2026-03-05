@@ -7,8 +7,6 @@
 
 <meta name="description" content="Doğru CMS platformu seçimi rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/dogru-cms-platformu-secimi">
-
 <meta property="og:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-25-1170x570.webp">

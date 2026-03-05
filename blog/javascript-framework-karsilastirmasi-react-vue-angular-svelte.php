@@ -7,8 +7,6 @@
 
 <meta name="description" content="React, Vue, Angular ve Svelte karşılaştırması rehberi. Çanakkale web yazılım çözümleri ile doğru JavaScript framework'ünü seçin ve modern web uygulamaları geliştirin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/javascript-framework-karsilastirmasi">
-
 <meta property="og:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-26-1170x570.webp">

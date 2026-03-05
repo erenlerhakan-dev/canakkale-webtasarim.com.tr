@@ -7,8 +7,6 @@
 
 <meta name="description" content="E-ticaret siteleri için ödeme arayüzü entegrasyonu rehberi. Çanakkale web yazılım çözümleri ile güvenli ve hızlı ödeme sistemleri oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/odeme-gecidi-entegrasyonu">
-
 <meta property="og:title" content="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile e-ticaret sitenize güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-23-1170x570.webp">

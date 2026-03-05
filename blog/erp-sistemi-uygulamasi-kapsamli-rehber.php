@@ -7,8 +7,6 @@
 
 <meta name="description" content="ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale web yazılım çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/erp-sistemi-rehber">
-
 <meta property="og:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-14-1170x570.webp">

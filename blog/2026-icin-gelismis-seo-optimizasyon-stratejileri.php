@@ -7,8 +7,6 @@
 
 <meta name="description" content="2026 yılı SEO trendleri ve gelişmiş optimizasyon stratejilerini keşfedin. Çanakkale web yazılım çözümleri ile web sitenizin görünürlüğünü artırın.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/2026-ileri-seo-stratejileri">
-
 <meta property="og:title" content="2026 İçin Gelişmiş SEO Optimizasyon Stratejileri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile 2026 SEO trendleri ve gelişmiş optimizasyon stratejilerini uygulayın, web sitenizi görünür kılın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-20-1170x570.webp">

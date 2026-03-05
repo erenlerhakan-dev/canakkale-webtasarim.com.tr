@@ -7,8 +7,6 @@
 
 <meta name="description" content="DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale web yazılım çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/devops-ci-cd-pipeline">
-
 <meta property="og:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-29-1170x570.webp">

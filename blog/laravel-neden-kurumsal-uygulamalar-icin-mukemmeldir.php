@@ -7,8 +7,6 @@
 
 <meta name="description" content="Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/laravel-kurumsal-uygulamalar">
-
 <meta property="og:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
 <meta property="og:description" content="Laravel framework ile güvenli, hızlı ve ölçeklenebilir kurumsal web uygulamaları geliştirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-08-1170x570.webp">

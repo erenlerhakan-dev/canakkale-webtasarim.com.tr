@@ -7,8 +7,6 @@
 
 <meta name="description" content="Native ve Cross-Platform mobil uygulama geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için doğru mobil geliştirme yöntemini seçin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/mobil-uygulama-gelistirme-native-vs-crossplatform">
-
 <meta property="og:title" content="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırın ve doğru seçimi yapın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-28-1170x570.webp">

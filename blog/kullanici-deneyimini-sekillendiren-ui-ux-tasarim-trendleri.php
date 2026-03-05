@@ -7,8 +7,6 @@
 
 <meta name="description" content="2026 yılında UI/UX tasarım trendlerini keşfedin. Çanakkale web yazılım çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/ui-ux-tasarim-trendleri">
-
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-17-1170x570.webp">

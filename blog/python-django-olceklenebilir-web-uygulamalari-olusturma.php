@@ -7,8 +7,6 @@
 
 <meta name="description" content="Python Django ile ölçeklenebilir web uygulamaları geliştirme rehberi. Çanakkale web yazılım çözümleri ile güvenli, hızlı ve performanslı projeler oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/python-django-olceklenebilir-web-uygulamalari">
-
 <meta property="og:title" content="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
 <meta property="og:description" content="Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım hizmetleri ile modern projeler oluşturun.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-16-1170x570.webp">

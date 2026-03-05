@@ -7,8 +7,6 @@
 
 <meta name="description" content="İlerici web uygulamaları (Progressive Web Apps) ile modern web geliştirme trendlerini keşfedin. Çanakkale web yazılım çözümleri ile geleceğe uygun web uygulamaları oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/ilerici-web-uygulamalari">
-
 <meta property="og:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
 <meta property="og:description" content="Progressive Web Apps ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-15-1170x570.webp">

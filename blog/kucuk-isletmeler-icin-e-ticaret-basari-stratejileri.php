@@ -7,8 +7,6 @@
 
 <meta name="description" content="Küçük işletmeler için e-ticaret başarı stratejileri. Online satışları artırmak, müşteri kazanmak ve dijital pazarda büyümek için etkili e-ticaret yöntemlerini keşfedin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/e-ticaret-basari-stratejileri">
-
 <meta property="og:title" content="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
 <meta property="og:description" content="Küçük işletmeler için e-ticaret stratejileri ile online satışlarınızı artırın ve dijital pazarda rekabet avantajı elde edin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-07-1170x570.webp">

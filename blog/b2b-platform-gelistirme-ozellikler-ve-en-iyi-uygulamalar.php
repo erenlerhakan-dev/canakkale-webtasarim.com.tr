@@ -7,8 +7,6 @@
 
 <meta name="description" content="B2B platform geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için güçlü, ölçeklenebilir ve güvenli B2B platformlar geliştirin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/b2b-platform-gelistirme">
-
 <meta property="og:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-30-1170x570.webp">

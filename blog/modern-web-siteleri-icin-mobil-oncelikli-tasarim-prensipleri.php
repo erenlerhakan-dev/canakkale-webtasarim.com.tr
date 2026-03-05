@@ -7,8 +7,6 @@
 
 <meta name="description" content="Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/mobil-oncelikli-tasarim">
-
 <meta property="og:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
 <meta property="og:description" content="Mobil öncelikli tasarım ile modern web sitelerinde kullanıcı deneyimini artırın ve performansı optimize edin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-11-1170x570.webp">

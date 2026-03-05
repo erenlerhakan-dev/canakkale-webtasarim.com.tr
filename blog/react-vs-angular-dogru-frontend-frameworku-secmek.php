@@ -7,8 +7,6 @@
 
 <meta name="description" content="React ve Angular arasındaki farkları keşfedin. Modern web uygulamaları için hangi frontend framework'ün daha uygun olduğunu öğrenin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/react-vs-angular">
-
 <meta property="og:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 <meta property="og:description" content="React ve Angular framework'leri arasındaki farklar, avantajlar ve kullanım alanları.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-09-1170x570.webp">

@@ -7,8 +7,6 @@
 
 <meta name="description" content="Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Çanakkale web yazılım çözümleri ile hızlı ve verimli web siteleri oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/web-site-performans-optimizasyonu">
-
 <meta property="og:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-32-1170x570.webp">

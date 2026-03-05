@@ -7,8 +7,6 @@
 
 <meta name="description" content="Hizmet işletmeleri için özel rezervasyon motorları geliştirme rehberi. Çanakkale web yazılım çözümleri ile online rezervasyon süreçlerinizi optimize edin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/ozel-rezervasyon-motorlari">
-
 <meta property="og:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile hizmet işletmeleri için özelleştirilmiş rezervasyon motorları geliştirin ve müşteri deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-18-1170x570.webp">

@@ -7,8 +7,6 @@
 
 <meta name="description" content="Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/ozel-crm-sistemleri">
-
 <meta property="og:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta property="og:description" content="Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-06-1170x570.webp">

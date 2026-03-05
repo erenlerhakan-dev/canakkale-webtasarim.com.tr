@@ -7,8 +7,6 @@
 
 <meta name="description" content="Web uygulamaları için siber güvenlik rehberi. Çanakkale web yazılım çözümleri ile güvenli ve korunmuş web uygulamaları geliştirin ve veri ihlallerini önleyin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/web-uygulamalari-siber-guvenlik">
-
 <meta property="og:title" content="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile web uygulamalarınız için siber güvenlik önlemlerini öğrenin ve uygulayın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-31-1170x570.webp">

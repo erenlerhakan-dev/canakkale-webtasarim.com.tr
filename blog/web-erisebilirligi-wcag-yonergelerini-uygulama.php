@@ -7,8 +7,6 @@
 
 <meta name="description" content="Web erişilebilirliği ve WCAG yönergeleri rehberi. Çanakkale web yazılım çözümleri ile herkes için kullanılabilir web siteleri oluşturun.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/web-erisebilirligi-wcag">
-
 <meta property="og:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile WCAG yönergelerine uygun, erişilebilir web siteleri oluşturun ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-22-1170x570.webp">

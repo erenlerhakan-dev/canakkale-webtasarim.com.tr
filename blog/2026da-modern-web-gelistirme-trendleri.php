@@ -7,8 +7,6 @@
 
 <meta name="description" content="2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri. Çanakkale web tasarım ve yazılım çözümleri hakkında detaylı bilgiler.">
 
-<?php include_once('../head_meta.php'); ?>
-
 <meta property="og:title" content="2026’ta Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım">
 <meta property="og:description" content="2026 yılında web geliştirme dünyasını şekillendiren trendleri keşfedin: yapay zeka, PWA, mobil öncelikli tasarım ve modern web teknolojileri.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp">
@@ -24,9 +22,7 @@
 
 <link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 
-<meta name="robots" content="index, follow">
-<meta name="author" content="Çanakkale Web Yazılım">
-<meta name="keywords" content="Çanakkale web tasarım, Çanakkale web yazılım, modern web geliştirme trendleri, web geliştirme 2026, PWA, yapay zeka web tasarım">
+<?php include_once('../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {

@@ -7,8 +7,6 @@
 
 <meta name="description" content="İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Çanakkale web yazılım çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/is-uygulamalari-yapay-zeka-ml">
-
 <meta property="og:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-33-1170x570.webp">

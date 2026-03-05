@@ -27,7 +27,7 @@
 <meta name='dmca-site-verification' content='' />
 <meta name="p:domain_verify" content=""/>
 
-<link rel="alternate" href="https://www.canakkale-webtasarim.com.tr/en/index.php" hreflang="en-GB" />
+<link rel="alternate" href="<?php echo $_SERVER['HTTP_REFERER']; ?>" hreflang="tr-TR" />
 
 <meta name="wot-verification" content=""/>
 
@@ -38,11 +38,13 @@
 <meta name="google" content="notranslate" />
 <meta name="googlebot" content="index, follow" />
 <meta name="robots" content="index, follow">
-<meta name="web_author" content="Hakan Erenler https://www.canakkale-webtasarim.com.tr">
+<meta name="web_author" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr">
 <meta name="rating" content="General">
 <meta name="Revisit-after" content="1 Day">
 <meta name="copyright" content="Çanakkale Web Yazılım https://www.canakkale-webtasarim.com.tr" />
 <meta name="content-language" content="tr-TR" />
+
+<link rel="canonical" href="<?php echo REFERRER; ?>">
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr">

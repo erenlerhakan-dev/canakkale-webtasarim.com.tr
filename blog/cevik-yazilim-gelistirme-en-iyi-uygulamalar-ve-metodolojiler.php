@@ -7,8 +7,6 @@
 
 <meta name="description" content="Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Çanakkale web yazılım çözümleri ile projelerinizi hızlı ve verimli yönetin.">
 
-<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/cevik-yazilim-gelistirme">
-
 <meta property="og:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-21-1170x570.webp">
