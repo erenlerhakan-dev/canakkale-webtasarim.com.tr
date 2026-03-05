@@ -8,6 +8,53 @@
 
 <?php include_once('../head_meta.php'); ?>
 
+<meta property="og:title" content="2026’ta Modern Web Geliştirme Trendleri | Çanakkale Web Tasarım">
+<meta property="og:description" content="2026 yılında web geliştirme dünyasını şekillendiren trendleri keşfedin: yapay zeka, PWA, mobil öncelikli tasarım ve modern web teknolojileri.">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:site_name" content="Çanakkale Web Yazılım">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="2026’ta Modern Web Geliştirme Trendleri">
+<meta name="twitter:description" content="Modern web geliştirme trendleri ve Çanakkale web tasarım çözümleri hakkında detaylı rehber.">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp">
+
+<link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
+
+<meta name="robots" content="index, follow">
+<meta name="author" content="Çanakkale Web Yazılım">
+<meta name="keywords" content="Çanakkale web tasarım, Çanakkale web yazılım, modern web geliştirme trendleri, web geliştirme 2026, PWA, yapay zeka web tasarım">
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Article",
+"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
+"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
+"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"author": {
+"@type": "Person",
+"name": "Çanakkale Web Yazılım"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Çanakkale Web Yazılım",
+"logo": {
+"@type": "ImageObject",
+"url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
+}
+},
+"datePublished": "2026-03-05",
+"dateModified": "2026-03-05",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+}
+}
+</script>
+
 </head>
 
 <body>
