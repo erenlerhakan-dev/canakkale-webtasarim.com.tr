@@ -76,7 +76,7 @@
 <div id="main-wrapper">
 <div class="site-wrapper-reveal">
 
-<div class="about-banner-wrap banner-space bg-img" data-bg="assets/images/bg/managed-it-services-hero-bg.webp">
+<div class="about-banner-wrap banner-space bg-img" data-bg="/images/services/canakkale-api-gelistirme.webp">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 m-auto">
