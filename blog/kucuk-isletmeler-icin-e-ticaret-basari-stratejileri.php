@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp" alt="küçük işletmeler için e ticaret stratejileri">
+<img class="img-fluid" src="/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp" alt="küçük işletmeler için e ticaret stratejileri">
 </div>
 </div>
 

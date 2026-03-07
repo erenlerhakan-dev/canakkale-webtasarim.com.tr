@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp" alt="Veri Analitiği ve İş Zekası">
+<img class="img-fluid" src="/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp" alt="Veri Analitiği ve İş Zekası">
 </div>
 </div>
 

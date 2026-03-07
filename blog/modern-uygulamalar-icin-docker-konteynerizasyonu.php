@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp" alt="Docker Konteynerizasyonu">
+<img class="img-fluid" src="/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp" alt="Docker Konteynerizasyonu">
 </div>
 </div>
 

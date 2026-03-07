@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp" alt="JavaScript Framework Karşılaştırması">
+<img class="img-fluid" src="/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp" alt="JavaScript Framework Karşılaştırması">
 </div>
 </div>
 

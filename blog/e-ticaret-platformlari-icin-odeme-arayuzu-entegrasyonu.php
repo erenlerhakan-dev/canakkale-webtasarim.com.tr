@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp" alt="E-Ticaret Ödeme Arayüzü">
+<img class="img-fluid" src="/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp" alt="E-Ticaret Ödeme Arayüzü">
 </div>
 </div>
 

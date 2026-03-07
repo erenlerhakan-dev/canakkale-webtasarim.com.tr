@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp" alt="Web Erişebilirliği WCAG">
+<img class="img-fluid" src="/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp" alt="Web Erişebilirliği WCAG">
 </div>
 </div>
 

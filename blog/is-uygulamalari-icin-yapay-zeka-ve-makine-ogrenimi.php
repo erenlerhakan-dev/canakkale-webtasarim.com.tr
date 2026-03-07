@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp" alt="İş Uygulamaları Yapay Zeka">
+<img class="img-fluid" src="/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp" alt="İş Uygulamaları Yapay Zeka">
 </div>
 </div>
 

@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp" alt="Mobil Öncelikli Tasarım">
+<img class="img-fluid" src="/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp" alt="Mobil Öncelikli Tasarım">
 </div>
 </div>
 

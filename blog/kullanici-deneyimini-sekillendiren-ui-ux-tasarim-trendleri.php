@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp" alt="UI/UX Tasarım Trendleri">
+<img class="img-fluid" src="/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp" alt="UI/UX Tasarım Trendleri">
 </div>
 </div>
 

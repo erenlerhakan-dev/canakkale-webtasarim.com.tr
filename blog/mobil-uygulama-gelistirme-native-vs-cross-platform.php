@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp" alt="Mobil Uygulama Geliştirme">
+<img class="img-fluid" src="/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp" alt="Mobil Uygulama Geliştirme">
 </div>
 </div>
 

@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp" alt="Laravel kurumsal web uygulama geliştirme">
+<img class="img-fluid" src="/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp" alt="Laravel kurumsal web uygulama geliştirme">
 </div>
 </div>
 

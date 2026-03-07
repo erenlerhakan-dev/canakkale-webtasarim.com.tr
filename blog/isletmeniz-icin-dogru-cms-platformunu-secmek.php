@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp" alt="Doğru CMS Platformu Seçimi">
+<img class="img-fluid" src="/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp" alt="Doğru CMS Platformu Seçimi">
 </div>
 </div>
 

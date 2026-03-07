@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp" alt="DevOps ve CI/CD Pipeline">
+<img class="img-fluid" src="/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp" alt="DevOps ve CI/CD Pipeline">
 </div>
 </div>
 

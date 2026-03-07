@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp" alt="Web Sitesi Performans Optimizasyonu">
+<img class="img-fluid" src="/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp" alt="Web Sitesi Performans Optimizasyonu">
 </div>
 </div>
 

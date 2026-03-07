@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp" alt="Python Django Web Uygulamaları">
+<img class="img-fluid" src="/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp" alt="Python Django Web Uygulamaları">
 </div>
 </div>
 

@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="CRM yazılımı ve müşteri yönetim sistemi">
+<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="CRM yazılımı ve müşteri yönetim sistemi">
 </div>
 </div>
 

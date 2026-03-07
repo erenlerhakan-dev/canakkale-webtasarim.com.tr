@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp" alt="İlerici Web Uygulamaları">
+<img class="img-fluid" src="/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp" alt="İlerici Web Uygulamaları">
 </div>
 </div>
 

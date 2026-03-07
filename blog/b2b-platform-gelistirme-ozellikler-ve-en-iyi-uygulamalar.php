@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp" alt="B2B Platform Geliştirme">
+<img class="img-fluid" src="/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp" alt="B2B Platform Geliştirme">
 </div>
 </div>
 

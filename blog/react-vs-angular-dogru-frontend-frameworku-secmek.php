@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp" alt="React vs Angular frontend framework karşılaştırması">
+<img class="img-fluid" src="/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp" alt="React vs Angular frontend framework karşılaştırması">
 </div>
 </div>
 

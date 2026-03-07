@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp" alt="Bulut Hosting Rehberi">
+<img class="img-fluid" src="/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp" alt="Bulut Hosting Rehberi">
 </div>
 </div>
 

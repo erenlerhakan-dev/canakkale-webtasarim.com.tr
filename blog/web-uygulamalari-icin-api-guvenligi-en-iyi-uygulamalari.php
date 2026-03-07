@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp" alt="API Güvenliği">
+<img class="img-fluid" src="/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp" alt="API Güvenliği">
 </div>
 </div>
 

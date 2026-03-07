@@ -69,7 +69,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026 modern web geliştirme trendleri Çanakkale web tasarım">
+<img class="img-fluid" src="/images/blog/2026da-modern-web-gelistirme-trendleri.webp" alt="2026 modern web geliştirme trendleri Çanakkale web tasarım">
 </div>
 </div>
 

@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp" alt="Özel Rezervasyon Motorları">
+<img class="img-fluid" src="/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp" alt="Özel Rezervasyon Motorları">
 </div>
 </div>
 

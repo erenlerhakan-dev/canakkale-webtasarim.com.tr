@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp" alt="2026 SEO Optimizasyon Stratejileri">
+<img class="img-fluid" src="/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp" alt="2026 SEO Optimizasyon Stratejileri">
 </div>
 </div>
 

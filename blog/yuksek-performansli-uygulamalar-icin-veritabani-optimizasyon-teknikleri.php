@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
@@ -66,7 +66,7 @@
 
 <div class="col-lg-12">
 <div class="post-feature blog-thumbnail wow move-up">
-<img class="img-fluid" src="/assets/images/blog/blog-10-1170x570.webp" alt="Veritabanı Optimizasyonu">
+<img class="img-fluid" src="/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp" alt="Veritabanı Optimizasyonu">
 </div>
 </div>
 
