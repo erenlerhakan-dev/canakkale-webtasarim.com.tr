@@ -81,8 +81,8 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Services Details</h1>
-<h5 class="font-weight--normal text-white">Reach out to the world’s most reliable IT services.</h5>
+<h1 class="mb-15 text-white">API Geliştirme Hizmetleri</h1>
+<h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
 </div>
