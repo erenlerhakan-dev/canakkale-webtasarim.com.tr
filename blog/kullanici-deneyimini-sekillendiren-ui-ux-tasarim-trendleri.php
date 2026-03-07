@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
