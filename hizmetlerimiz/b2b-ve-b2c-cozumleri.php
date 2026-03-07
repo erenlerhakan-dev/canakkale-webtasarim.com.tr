@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/b2b-b2c-cozumleri"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/b2b-b2c-cozumleri.php"
  }
 }
 </script>
@@ -190,7 +190,7 @@ Dijital Ticarette Entegrasyon <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="B2B ve B2C Çözümleri" class="img-fluid">
+<img src="/images/services/b2b-ve-b2c-cozumleri.webp" alt="B2B ve B2C Çözümleri" class="img-fluid">
 </div>
 
 </div>

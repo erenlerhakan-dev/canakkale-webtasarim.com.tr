@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/mobil-uygulama-gelistirme"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/mobil-uygulama-gelistirme.php"
  }
 }
 </script>
@@ -195,7 +195,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="Mobil Uygulama Geliştirme" class="img-fluid">
+<img src="/images/services/mobil-uygulamalar.webp" alt="Mobil Uygulama Geliştirme" class="img-fluid">
 </div>
 
 </div>

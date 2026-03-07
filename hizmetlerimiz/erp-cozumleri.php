@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/erp-cozumleri"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/erp-cozumleri.php"
  }
 }
 </script>
@@ -195,7 +195,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="ERP Çözümleri" class="img-fluid">
+<img src="/images/services/erp-cozumleri.webp" alt="ERP Çözümleri" class="img-fluid">
 </div>
 
 </div>

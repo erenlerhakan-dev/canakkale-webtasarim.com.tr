@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/rezervasyon-sistemleri"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/rezervasyon-sistemleri.php"
  }
 }
 </script>
@@ -190,7 +190,7 @@ Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="Rezervasyon Sistemleri" class="img-fluid">
+<img src="/images/services/rezervasyon-sistemleri.webp" alt="Rezervasyon Sistemleri" class="img-fluid">
 </div>
 
 </div>

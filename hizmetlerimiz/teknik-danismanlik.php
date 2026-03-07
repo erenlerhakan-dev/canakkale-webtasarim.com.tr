@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/teknik-danismanlik"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/teknik-danismanlik.php"
  }
 }
 </script>
@@ -190,7 +190,7 @@ Bilişim Danışmanlığının Önemi <span><i class="fas fa-chevron-circle-down
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="Teknik Danışmanlık Hizmetleri" class="img-fluid">
+<img src="/images/services/teknik-danismanlik.webp" alt="Teknik Danışmanlık Hizmetleri" class="img-fluid">
 </div>
 
 </div>

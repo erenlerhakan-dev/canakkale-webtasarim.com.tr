@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/ozel-web-gelistirme"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/ozel-web-gelistirme.php"
  }
 }
 </script>
@@ -195,7 +195,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="Özel Web Geliştirme" class="img-fluid">
+<img src="/images/services/ozel-web-gelistirme.webp" alt="Özel Web Geliştirme" class="img-fluid">
 </div>
 
 </div>

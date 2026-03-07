@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/e-ticaret-cozumleri"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/e-ticaret-cozumleri.php"
  }
 }
 </script>
@@ -195,7 +195,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="E-Ticaret Çözümleri" class="img-fluid">
+<img src="/images/services/e-ticaret-cozumleri.webp" alt="E-Ticaret Çözümleri" class="img-fluid">
 </div>
 
 </div>

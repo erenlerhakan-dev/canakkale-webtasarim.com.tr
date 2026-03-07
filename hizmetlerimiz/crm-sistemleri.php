@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/crm-sistemleri"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/crm-sistemleri.php"
  }
 }
 </script>
@@ -190,7 +190,7 @@ CRM Sistemleri Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="CRM Sistemleri" class="img-fluid">
+<img src="/images/services/crm-sistemleri.webp" alt="CRM Sistemleri" class="img-fluid">
 </div>
 
 </div>

@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/api-gelistirme"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/api-gelistirme.php"
  }
 }
 </script>
@@ -190,7 +190,7 @@ API Entegrasyonunun Avantajları <span><i class="fas fa-chevron-circle-down"></i
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="API Geliştirme Hizmetleri" class="img-fluid">
+<img src="/images/services/api-gelistirme.webp" alt="API Geliştirme Hizmetleri" class="img-fluid">
 </div>
 
 </div>

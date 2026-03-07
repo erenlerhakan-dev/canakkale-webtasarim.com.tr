@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/yazilim-performans-optimizasyonu.php"
  }
 }
 </script>
@@ -190,7 +190,7 @@ Performans Optimizasyonunun Önemi <span><i class="fas fa-chevron-circle-down"><
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="Yazılım Performans Optimizasyonu" class="img-fluid">
+<img src="/images/services/yazilim-performans-optimizasyonu.webp" alt="Yazılım Performans Optimizasyonu" class="img-fluid">
 </div>
 
 </div>

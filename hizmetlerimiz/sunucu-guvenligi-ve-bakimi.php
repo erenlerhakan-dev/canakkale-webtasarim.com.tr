@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/server-guvenlik-bakim"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/server-guvenlik-bakim.php"
  }
 }
 </script>
@@ -195,7 +195,7 @@ Bakım Süreci Nasıl İşler? <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" alt="Server Güvenliği ve Bakımı" class="img-fluid">
+<img src="/images/services/sunucu-guvenligi-ve-bakimi.webp" alt="Sunucu Güvenliği ve Bakımı" class="img-fluid">
 </div>
 
 </div>
