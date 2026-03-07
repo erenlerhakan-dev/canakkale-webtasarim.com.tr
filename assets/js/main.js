@@ -319,7 +319,7 @@
     bgSelector.each(function (index, elem) {
         var element = $(elem),
             bgSource = element.data('bg');
-        element.css('background-image', 'url(' + bgSource + ')');
+        element.css('background-image', 'url(' + bgSource + '),linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5))');
     });
 
     /*=============================================
