@@ -42,7 +42,7 @@
 <li><a href="/hizmetlerimiz/ozel-yazilim-gelistirme.php"><span>Özel Yazılım Geliştirme</span></a></li>
 <li><a href="/hizmetlerimiz/b2b-ve-b2c-cozumleri.php"><span>B2B & B2C Çözümleri</span></a></li>
 <li><a href="/hizmetlerimiz/api-gelistirme.php"><span>API Geliştirme</span></a></li>
-<li><a href="/hizmetlerimiz/guvenlik-ve-bakim.php"><span>Güvenlik ve Bakım</span></a></li>
+<li><a href="/hizmetlerimiz/sunucu-guvenligi-ve-bakimi.php"><span>Sunucu Güvenliği ve Bakımı</span></a></li>
 <li><a href="/hizmetlerimiz/yazilim-performans-optimizasyonu.php"><span>Yazılım Performans Optimizasyonu</span></a></li>
 <li><a href="/hizmetlerimiz/teknik-danismanlik.php"><span>Teknik Danışmanlık</span></a></li>
 </ul>

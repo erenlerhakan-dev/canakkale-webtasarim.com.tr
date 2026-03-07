@@ -158,9 +158,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lock h-16 w-16 text-primary"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
 </div>
 <div class="content">
-<h5 class="heading">Güvenlik ve Bakım</h5>
+<h5 class="heading">Sunucu Güvenliği ve Bakımı</h5>
 <div class="text">Uygulamalarınızın sorunsuz çalışmasını sağlamak için kapsamlı güvenlik denetimleri, düzenli güncellemeler ve sürekli bakım.</div>
-<div class="feature-btn"><a href="/hizmetlerimiz/guvenlik-ve-bakim.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/hizmetlerimiz/sunucu-guvenligi-ve-bakimi.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
