@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta property="og:description" content="Özel CRM yazılımları ile müşteri ilişkilerinizi güçlendirin ve iş süreçlerinizi optimize edin.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
 <meta name="twitter:description" content="CRM yazılımları işletmeler için neden önemli? Özel CRM çözümlerinin avantajlarını öğrenin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"

@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile ERP sistemi uygulamalarınızı kurumsal verimlilik için optimize edin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"

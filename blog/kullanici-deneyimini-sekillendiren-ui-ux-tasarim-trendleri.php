@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"

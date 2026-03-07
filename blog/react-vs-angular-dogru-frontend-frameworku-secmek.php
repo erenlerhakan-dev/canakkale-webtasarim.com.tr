@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 <meta property="og:description" content="React ve Angular framework'leri arasındaki farklar, avantajlar ve kullanım alanları.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
 <meta name="twitter:description" content="React ve Angular karşılaştırması: performans, kullanım kolaylığı ve proje ihtiyaçlarına göre seçim rehberi.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"

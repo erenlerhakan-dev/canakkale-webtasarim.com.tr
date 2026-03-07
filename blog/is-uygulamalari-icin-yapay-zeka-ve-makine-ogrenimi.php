@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"

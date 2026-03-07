@@ -9,7 +9,7 @@
 
 <meta property="og:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 <meta property="og:description" content="Çanakkale web yazılım çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.">
-<meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
+<meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
 <meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.">
-<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
+<meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -28,7 +28,7 @@
 "@type": "Article",
 "headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"image": "https://canakkale-webtasarim.com.tr/images/blog/blog-05-1170x570.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
