@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://example.com/mobil-uygulama-gelistirme"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/mobil-uygulama-gelistirme"
  }
 }
 </script>

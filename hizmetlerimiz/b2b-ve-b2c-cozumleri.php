@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://example.com/b2b-b2c-cozumleri"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/b2b-b2c-cozumleri"
  }
 }
 </script>

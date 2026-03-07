@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://example.com/ozel-web-gelistirme"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/ozel-web-gelistirme"
  }
 }
 </script>

@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://example.com/api-gelistirme"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/api-gelistirme"
  }
 }
 </script>

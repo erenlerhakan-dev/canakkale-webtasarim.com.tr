@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://example.com/e-ticaret-cozumleri"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/e-ticaret-cozumleri"
  }
 }
 </script>

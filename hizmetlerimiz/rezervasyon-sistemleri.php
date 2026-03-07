@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://example.com/rezervasyon-sistemleri"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/rezervasyon-sistemleri"
  }
 }
 </script>

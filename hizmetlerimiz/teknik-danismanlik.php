@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
  "@type": "WebPage",
- "@id": "https://example.com/teknik-danismanlik"
+ "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/teknik-danismanlik"
  }
 }
 </script>

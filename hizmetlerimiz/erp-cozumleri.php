@@ -24,7 +24,7 @@
  },
  "mainEntityOfPage": {
    "@type": "WebPage",
-   "@id": "https://example.com/erp-cozumleri"
+   "@id": "https://www.canakkale-webtasarim.com.tr/hizmetlerimiz/erp-cozumleri"
  }
 }
 </script>
