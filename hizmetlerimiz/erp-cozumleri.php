@@ -2,10 +2,73 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<title>ERP Çözümleri | Kurumsal İş Süreçleri Yönetimi</title>
+<meta name="description" content="ERP çözümleri ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
+<meta name="keywords" content="ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
 
 <?php include_once('../head_meta.php'); ?>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BlogPosting",
+ "headline": "ERP Çözümleri ile İş Süreçlerinizi Yönetin",
+ "description": "Kurumsal ERP çözümleri ile finans, üretim, insan kaynakları ve lojistik süreçlerinizi tek bir sistemde yönetin.",
+ "author": {
+   "@type": "Organization",
+   "name": "IT Solutions"
+ },
+ "publisher": {
+   "@type": "Organization",
+   "name": "IT Solutions"
+ },
+ "mainEntityOfPage": {
+   "@type": "WebPage",
+   "@id": "https://example.com/erp-cozumleri"
+ }
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+    "@type": "Question",
+    "name": "ERP nedir?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ERP (Enterprise Resource Planning), işletmenizin tüm iş süreçlerini tek bir sistemde entegre eden yazılım çözümüdür."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "ERP çözümleri hangi süreçleri kapsar?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "ERP çözümlerinin avantajları nelerdir?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "ERP kurulum süreci nasıl işler?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir."
+    }
+  }
+ ]
+}
+</script>
 
 </head>
 
@@ -37,14 +100,14 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Learn More About Our <span class="text-color-primary"> Success <br> Stories</span></h3>
+<h3 class="heading mt-30">İşletmenize <span class="text-color-primary"> ERP <br> Çözümleri</span></h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Mitech specializes in <span class="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+<h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP çözümleri</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
 
-<div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+<div class="sub-heading">ERP çözümleri ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek hizmetleri sağlıyoruz.</div>
 </div>
 </div>
 </div>
@@ -65,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-New multiple site connectivity <span>
+ERP Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -73,7 +136,7 @@ New multiple site connectivity <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering. </p>
+<p>ERP, işletmenizin tüm iş süreçlerini merkezi bir yazılım platformunda entegre eden çözümdür. Finans, üretim, lojistik ve insan kaynakları süreçlerinin dijitalleşmesini sağlar.</p>
 </div>
 </div>
 </div>
@@ -82,7 +145,7 @@ New multiple site connectivity <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-IT Security & Software<span>
+Avantajları Nelerdir?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -90,7 +153,7 @@ IT Security & Software<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system. </p>
+<p>ERP çözümleri ile iş süreçleriniz daha hızlı, şeffaf ve verimli hale gelir. Veri bütünlüğü sağlanır, maliyetler optimize edilir ve karar alma süreçleri iyileştirilir.</p>
 </div>
 </div>
 </div>
@@ -99,14 +162,14 @@ IT Security & Software<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
+Hangi Süreçleri Kapsar?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security. </p>
+<p>ERP çözümleri; finans yönetimi, üretim yönetimi, lojistik, insan kaynakları, satış ve pazarlama süreçlerini kapsar ve tüm süreçlerin merkezi olarak yönetilmesini sağlar.</p>
 </div>
 </div>
 </div>
@@ -115,14 +178,14 @@ Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Build internal network <span><i class="fas fa-chevron-circle-down"></i>
+Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong. </p>
+<p>ERP kurulumu; analiz ve planlama, yazılım yapılandırma, veri entegrasyonu, kullanıcı eğitimi, test ve yayına alma adımlarını içerir. Böylece işletmenize uygun merkezi yönetim sistemi sağlanır.</p>
 </div>
 </div>
 </div>
@@ -132,30 +195,14 @@ Build internal network <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" Çanakkale Web Tasarım class="img-fluid">
+<img src="" alt="ERP Çözümleri" class="img-fluid">
 </div>
 
 </div>
 </div>
 </div>
 
-<div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
-<div class="container">
-<div class="row align-items-center">
-<div class="col-xl-8 col-lg-7">
-<div class="cta-content md-text-center">
-<h3 class="heading text-white">We run all kinds of IT services that vow your <span class="text-color-secondary"> success</span></h3>
-</div>
-</div>
-<div class="col-xl-4 col-lg-5">
-<div class="cta-button-group--one text-center">
-<a href="#" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-comment-alt"></i></span> Let's talk</a>
-<a href="#" class="btn btn--secondary btn-two"><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Get info</a>
-</div>
-</div>
-</div>
-</div>
-</div>
+<?php include_once('divider.php'); ?>
 
 </div>
 

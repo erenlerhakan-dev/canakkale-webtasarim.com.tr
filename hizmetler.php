@@ -180,7 +180,7 @@
 <div class="content">
 <h5 class="heading">B2B & B2C Çözümleri</h5>
 <div class="text">Gelişmiş özelliklerle işletmeden işletmeye ve işletmeden tüketiciye işlemler için özel platformlar.</div>
-<div class="feature-btn"><a href="/hizmetlerimiz/b2b-and-b2c-cozumleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<div class="feature-btn"><a href="/hizmetlerimiz/b2b-ve-b2c-cozumleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -223,9 +223,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zap h-16 w-16 text-primary"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg>
 </div>
 <div class="content">
-<h5 class="heading">Performans Optimizasyonu</h5>
-<div class="text">Performans optimizasyonu, kod yeniden düzenleme ve altyapı iyileştirmeleriyle mevcut uygulamalarınızı geliştirin.</div>
-<div class="feature-btn"><a href="/hizmetlerimiz/performans-optimizasyonu.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
+<h5 class="heading">Yazılım Performans Optimizasyonu</h5>
+<div class="text">Yazılım  performans optimizasyonu, kod yeniden düzenleme ve altyapı iyileştirmeleriyle mevcut uygulamalarınızı geliştirin.</div>
+<div class="feature-btn"><a href="/hizmetlerimiz/yazilim-performans-optimizasyonu.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>
 </div>

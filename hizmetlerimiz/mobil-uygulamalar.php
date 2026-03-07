@@ -2,10 +2,73 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<title>Mobil Uygulama Geliştirme | iOS & Android Özel Uygulamalar</title>
+<meta name="description" content="Mobil uygulama geliştirme hizmetleri ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
+<meta name="keywords" content="mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme">
 
 <?php include_once('../head_meta.php'); ?>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BlogPosting",
+ "headline": "Mobil Uygulama Geliştirme",
+ "description": "iOS ve Android platformlarına özel mobil uygulama geliştirme hizmetleri ile işletmenize özel çözümler sunuyoruz.",
+ "author": {
+   "@type": "Organization",
+   "name": "IT Solutions"
+ },
+ "publisher": {
+   "@type": "Organization",
+   "name": "IT Solutions"
+ },
+ "mainEntityOfPage": {
+   "@type": "WebPage",
+   "@id": "https://example.com/mobil-uygulama-gelistirme"
+ }
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+    "@type": "Question",
+    "name": "Mobil uygulama geliştirme nedir?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Mobil uygulama geliştirme, iOS ve Android platformları için özel, performanslı ve kullanıcı dostu uygulamalar tasarlama ve geliştirme sürecidir."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "Hangi platformlar için geliştirme yapılır?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile mobil uygulamalar geliştirilir."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "Mobil uygulama geliştirme avantajları nelerdir?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Kullanıcı deneyimi iyileşir, marka değeri artar, iş süreçleri dijitalleşir, veri toplama ve analiz daha etkin yapılabilir."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "Geliştirme süreci nasıl işler?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "İhtiyaç analizi ve planlama, prototip ve tasarım, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur."
+    }
+  }
+ ]
+}
+</script>
 
 </head>
 
@@ -37,14 +100,14 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Learn More About Our <span class="text-color-primary"> Success <br> Stories</span></h3>
+<h3 class="heading mt-30">İşletmeniz için <span class="text-color-primary"> Mobil <br> Uygulamalar</span></h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Mitech specializes in <span class="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> hizmetleri sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
 
-<div class="sub-heading">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+<div class="sub-heading">İşletmenize özel mobil uygulamalar ile kullanıcı deneyimini artırın. Projeniz için detaylı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
 </div>
 </div>
 </div>
@@ -65,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-New multiple site connectivity <span>
+Mobil Uygulama Geliştirme Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -73,7 +136,7 @@ New multiple site connectivity <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering. </p>
+<p>Mobil uygulama geliştirme, işletmelere özel iOS ve Android platformları için tasarlanan performanslı ve kullanıcı dostu uygulamaları kapsar. Uygulamalar tamamen işletme ihtiyaçlarına göre optimize edilir.</p>
 </div>
 </div>
 </div>
@@ -82,7 +145,7 @@ New multiple site connectivity <span>
 <div class="card-header" id="heading__11">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__11" aria-expanded="false" aria-controls="collapse__11">
-IT Security & Software<span>
+Avantajları Nelerdir?<span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -90,7 +153,7 @@ IT Security & Software<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system. </p>
+<p>Mobil uygulamalar işletmenizin dijital görünürlüğünü artırır, kullanıcı deneyimini iyileştirir ve iş süreçlerini daha etkin yönetmenizi sağlar. Ayrıca veri toplama ve analiz süreçlerini kolaylaştırır.</p>
 </div>
 </div>
 </div>
@@ -99,14 +162,14 @@ IT Security & Software<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
+Hangi Platformlar Desteklenir?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security. </p>
+<p>Mobil uygulama geliştirme iOS, Android ve cross-platform çözümlerle sunulur. İhtiyaçlara göre native veya hibrit uygulamalar tasarlanabilir.</p>
 </div>
 </div>
 </div>
@@ -115,14 +178,14 @@ Weak hosted capability<span><i class="fas fa-chevron-circle-down"></i>
 <div class="card-header" id="heading__13">
 <h5 class="mb-0">
 <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__13" aria-expanded="false" aria-controls="collapse__13">
-Build internal network <span><i class="fas fa-chevron-circle-down"></i>
+Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong. </p>
+<p>Geliştirme süreci, analiz ve planlama, tasarım ve prototip, uygulama geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize uygun mobil çözüm sağlanır.</p>
 </div>
 </div>
 </div>
@@ -132,30 +195,14 @@ Build internal network <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="" Çanakkale Web Tasarım class="img-fluid">
+<img src="" alt="Mobil Uygulama Geliştirme" class="img-fluid">
 </div>
 
 </div>
 </div>
 </div>
 
-<div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
-<div class="container">
-<div class="row align-items-center">
-<div class="col-xl-8 col-lg-7">
-<div class="cta-content md-text-center">
-<h3 class="heading text-white">We run all kinds of IT services that vow your <span class="text-color-secondary"> success</span></h3>
-</div>
-</div>
-<div class="col-xl-4 col-lg-5">
-<div class="cta-button-group--one text-center">
-<a href="#" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-comment-alt"></i></span> Let's talk</a>
-<a href="#" class="btn btn--secondary btn-two"><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Get info</a>
-</div>
-</div>
-</div>
-</div>
-</div>
+<?php include_once('divider.php'); ?>
 
 </div>
 

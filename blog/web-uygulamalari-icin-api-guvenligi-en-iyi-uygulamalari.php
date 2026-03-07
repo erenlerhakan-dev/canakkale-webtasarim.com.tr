@@ -10,7 +10,7 @@
 <meta property="og:title" content="Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları">
 <meta property="og:description" content="API güvenliği ile web uygulamalarınızı koruyun. Güvenli entegrasyon ve veri koruma stratejileri ile modern web uygulamalarını güçlendirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/assets/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp">
-<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
+<meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Çanakkale Web Yazılım">
@@ -26,9 +26,9 @@
 {
 "@context": "https://schema.org",
 "@type": "Article",
-"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
-"description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
-"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
+"headline": "Web Uygulamaları İçin API Güvenliği En İyi Uygulamaları | Çanakkale Web Yazılım",
+"description": "Web uygulamalarında API güvenliği için en iyi uygulamaları keşfedin. Çanakkale web yazılım çözümleri ile güvenli ve ölçeklenebilir API entegrasyonları oluşturun.",
+"image": "https://canakkale-webtasarim.com.tr/assets/images/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari.webp",
 "author": {
 "@type": "Person",
 "name": "Çanakkale Web Yazılım"
@@ -41,11 +41,11 @@
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-01",
+"dateModified": "2026-01-01",
 "mainEntityOfPage": {
 "@type": "WebPage",
-"@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
+"@id": "https://canakkale-webtasarim.com.tr/blog/web-uygulamalari-icin-api-guvenligi-en-iyi-uygulamalari"
 }
 }
 </script>

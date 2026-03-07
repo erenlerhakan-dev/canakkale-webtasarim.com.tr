@@ -26,7 +26,7 @@
 {
 "@context": "https://schema.org",
 "@type": "Article",
-"headline": "2026’ta Modern Web Geliştirme Trendleri: Çanakkale Web Tasarım Dünyasında Yeni Teknolojiler",
+"headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
 "image": "https://canakkale-webtasarim.com.tr/assets/images/blog/blog-05-1170x570.webp",
 "author": {
@@ -41,8 +41,8 @@
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
 }
 },
-"datePublished": "2026-03-05",
-"dateModified": "2026-03-05",
+"datePublished": "2026-01-05",
+"dateModified": "2026-01-05",
 "mainEntityOfPage": {
 "@type": "WebPage",
 "@id": "https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri"
