@@ -177,6 +177,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="d-flex flex-column gap-4">
 <div class="d-flex gap-3">
 <div class="flex-shrink-0 rounded-circle bg-primary text-white d-flex align-items-center justify-content-center fw-bold" style="width: 2.5rem; height: 2.5rem;">
+1
 </div>
 <div>
 <h3 class="fs-5 fw-semibold mb-2">Yerel Uzmanlık</h3>
