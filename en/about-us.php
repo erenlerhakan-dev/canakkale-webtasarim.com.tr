@@ -2,20 +2,20 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<title>Çanakkale Web Development - Professional Web Development and Software Solutions</title>
+<meta name="description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
 
 <?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr/en/">
-<meta property="og:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta property="og:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta property="og:title" content="Çanakkale Web Development - Professional Web Development and Software Solutions">
+<meta property="og:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
 <meta property="og:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="twitter:title" content="Çanakkale Web Development - Professional Web Development and Software Solutions">
+<meta name="twitter:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
 <meta name="twitter:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Canakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webtasarim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -38,16 +38,15 @@
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">Çanakkale'de yazılım geliştirme için güvenilir ortağınız</h3>
-<h6 class="section-sub-title mb-20">Canakkale Web Development Hakkında</h6>
+<h3 class="heading mb-20">Your reliable partner for software development in Çanakkale.</h3>
+<h6 class="section-sub-title mb-20">About Çanakkale Web Development</h6>
 </div>
-<h6 class="mb-20">Biz Kimiz</h6>
-<p>Canakkale Web Development, Çanakkale, Türkiye merkezli profesyonel bir yazılım geliştirme şirketidir. Her büyüklükteki işletme için özel web uygulamaları, CRM sistemleri, ERP çözümleri, e-ticaret platformları ve mobil uygulamalar oluşturma konusunda uzmanız.
-<br><br>
-Sektörde on yılı aşkın deneyimimizle, Türkiye ve uluslararası müşterilere yüzlerce projeyi başarıyla teslim ettik. Yetenekli geliştiriciler, tasarımcılar ve proje yöneticilerinden oluşan ekibimiz, vizyonunuzu gerçeğe dönüştürmek için birlikte çalışıyor.
-<br><br>
-En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyuyoruz. PHP ve Laravel gibi geleneksel web teknolojilerinden React ve Django gibi modern çerçevelere kadar, özel gereksinimlerinizi karşılayan çözümler oluşturma uzmanlığına sahibiz.
-</p>
+<h6 class="mb-20">Who We Are</h6>
+<p>Canakkale Web Development is a professional software development company based in Çanakkale, Turkey. We specialize in creating custom web applications, CRM systems, ERP solutions, e-commerce platforms, and mobile applications for businesses of all sizes. <br><br>
+
+With over ten years of experience in the industry, we have successfully delivered hundreds of projects to Turkish and international clients. Our team of talented developers, designers, and project managers works together to bring your vision to life. <br><br>
+
+We pride ourselves on staying up-to-date with the latest technologies and development practices. From traditional web technologies like PHP and Laravel to modern frameworks like React and Django, we have the expertise to create solutions that meet your specific requirements.</p>
 </div>
 </div>
 
@@ -60,7 +59,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="col-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">Temel Değerlerimiz</h3>
+<h3 class="heading mb-20">Our Core Values</h3>
 </div>
 
 <div class="feature-list__three">
@@ -74,10 +73,10 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="icon">
 <i class="fa fa-users"></i>
 </div>
-<h5 class="heading">Müşteri Odaklı</h5>
+<h5 class="heading">Customer-focused</h5>
 </div>
 <div class="content">
-<div class="text">Başarınız bizim önceliğimizdir. Dinliyor, anlıyor ve beklentileri aşan çözümler sunuyoruz.</div>
+<div class="text">Customer-focused success is our priority. We listen, understand, and deliver solutions that exceed expectations.</div>
 </div>
 </div>
 </div>
@@ -92,10 +91,10 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="icon">
 <i class="fa fa-life-ring"></i>
 </div>
-<h5 class="heading">Sonuç Odaklı</h5>
+<h5 class="heading">Results-oriented</h5>
 </div>
 <div class="content">
-<div class="text">İşletme büyümenizi olumlu etkileyen ölçülebilir sonuçlar sunmaya odaklanıyoruz.</div>
+<div class="text">We focus on delivering measurable results that positively impact business growth.</div>
 </div>
 </div>
 </div>
@@ -110,10 +109,10 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="icon">
 <i class="fas fa-medal"></i>
 </div>
-<h5 class="heading">Kalite Öncelikli</h5>
+<h5 class="heading">Quality First</h5>
 </div>
 <div class="content">
-<div class="text">Her projede en yüksek kod kalitesi, güvenlik ve performans standartlarını koruyoruz.</div>
+<div class="text">We maintain the highest standards of code quality, security, and performance in every project.</div>
 </div>
 </div>
 </div>
@@ -128,10 +127,10 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="icon">
 <i class="fas fa-heart"></i>
 </div>
-<h5 class="heading">Tutkulu Ekip</h5>
+<h5 class="heading">Passionate Team</h5>
 </div>
 <div class="content">
-<div class="text">Ekibimiz teknoloji konusunda tutkuludur ve sürekli öğrenmeye ve gelişmeye kararlıdır.</div>
+<div class="text">Our team is passionate about technology and committed to continuous learning and improvement.</div>
 </div>
 </div>
 </div>
@@ -153,10 +152,10 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">Misyonumuz</h3>
+<h3 class="heading mb-20">Our Mission</h3>
 </div>
 <h6 class="mb-20">Biz Kimiz</h6>
-<p>Misyonumuz, Çanakkale ve çevre bölgelerdeki işletmeleri büyümeyi artıran, verimliliği artıran ve dijital pazarda rekabet avantajı yaratan yenilikçi yazılım çözümleriyle güçlendirmektir. İşletmelerin operasyonlarını özel yazılım geliştirme yoluyla dönüştürmek isteyen en güvenilir teknoloji ortağı olmaya çalışıyoruz.</p>
+<p>Our mission is to empower businesses in Çanakkale and surrounding regions with innovative software solutions that boost growth, increase efficiency, and create a competitive advantage in the digital market. We strive to be the most reliable technology partner for businesses seeking to transform their operations through custom software development.</p>
 </div>
 </div>
 
@@ -169,7 +168,7 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 <div class="col-12">
 
 <div class="section-title-wrap text-center section-space--mb_60">
-<h3 class="heading mb-20">Neden Bizi Seçmelisiniz?</h3>
+<h3 class="heading mb-20">Why Choose Us?</h3>
 </div>
 
 <div class="row justify-content-center">
@@ -180,8 +179,8 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 1
 </div>
 <div>
-<h3 class="fs-5 fw-semibold mb-2">Yerel Uzmanlık</h3>
-<p class="text-muted">Çanakkale merkezli olarak, yerel pazarı ve iş ortamını anlıyor, bölgesel ihtiyaçlara göre uyarlanmış çözümler sağlıyoruz.</p>
+<h3 class="fs-5 fw-semibold mb-2">Local Expertise</h3>
+<p class="text-muted">Based in Çanakkale, we understand the local market and business environment, and provide solutions tailored to regional needs.</p>
 </div>
 </div>
 <div class="d-flex gap-3">
@@ -189,8 +188,8 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 2
 </div>
 <div>
-<h3 class="fs-5 fw-semibold mb-2">Teknik Mükemmellik</h3>
-<p class="text-muted">Ekibimiz Laravel, React, Django, Angular ve daha fazlası dahil olmak üzere geniş bir teknoloji yelpazesinde ustadır ve projeniz için doğru araçları kullanmamızı sağlar.</p>
+<h3 class="fs-5 fw-semibold mb-2">Technical Excellence</h3>
+<p class="text-muted">Our team is proficient in a wide range of technologies, including Laravel, React, Django, Angular, and more, ensuring we use the right tools for your project.</p>
 </div>
 </div>
 <div class="d-flex gap-3">
@@ -198,8 +197,8 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 3
 </div>
 <div>
-<h3 class="fs-5 fw-semibold mb-2">Kapsamlı Destek</h3>
-<p class="text-muted">Proje tamamlandıktan sonra sürekli bakım ve destek sağlıyor, uygulamalarınızın optimal performans göstermeye devam etmesini sağlıyoruz.</p>
+<h3 class="fs-5 fw-semibold mb-2">Comprehensive Support</h3>
+<p class="text-muted">After the project is complete, we provide ongoing maintenance and support, ensuring your applications continue to perform optimally.</p>
 </div>
 </div>
 <div class="d-flex gap-3">
@@ -207,8 +206,8 @@ En son teknolojiler ve geliştirme uygulamalarıyla güncel kalmaktan gurur duyu
 4
 </div>
 <div>
-<h3 class="fs-5 fw-semibold mb-2">Şeffaf İletişim</h3>
-<p class="text-muted">Düzenli güncellemeler ve proje ilerlemesi hakkında net iletişimle geliştirme süreci boyunca sizi bilgilendiriyoruz.</p>
+<h3 class="fs-5 fw-semibold mb-2">Transparent Communication</h3>
+<p class="text-muted">We keep you informed throughout the development process with regular updates and clear communication about project progress.</p>
 </div>
 </div>
 </div>
