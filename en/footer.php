@@ -21,7 +21,7 @@
 <li><a href="https://canakkale-webtasarim.com.tr/en/about-us.php" class="hover-style-link">About Us</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/en/services.php" class="hover-style-link">Services</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/en/blog/index.php" class="hover-style-link">Technologies</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/contact-us.php" class="hover-style-link">İletişim</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/contact-us.php" class="hover-style-link">Contact Us</a></li>
 </ul>
 </div>
 
