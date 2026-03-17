@@ -115,7 +115,7 @@
 <li><a href="https://canakkale-webtasarim.com.tr/en/about-us.php">About Us</a></li>
 
 <li class="has-children has-children--multilevel-submenu">
-<a href="https://canakkale-webtasarim.com.tr/en/en/services.php">Services</a>
+<a href="https://canakkale-webtasarim.com.tr/en/services.php">Services</a>
 <ul class="submenu">
 <li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php"><span>Özel Web Geliştirme</span></a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php"><span>CRM Sistemleri</span></a></li>
@@ -132,8 +132,8 @@
 </ul>
 </li>
 
-<li><a href="https://canakkale-webtasarim.com.tr/en/blog/index.php">Teknolojiler</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/iletisim.php">İletişim</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/blog/index.php">Technologies</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/contact-us.php">İletişim</a></li>
 
 <li class="has-children has-children--multilevel-submenu">
 <a href="#"><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe h-4 w-4"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg> EN</span></a>

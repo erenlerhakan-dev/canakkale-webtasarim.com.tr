@@ -12,7 +12,7 @@
 
 <div class="row">
 <div class="col-4">
-<a class="btn btn--white" href="https://canakkale-webtasarim.com.tr/en/iletisim.php" style="width: 90%;">İletişim</a>
+<a class="btn btn--white" href="https://canakkale-webtasarim.com.tr/en/contact-us.php" style="width: 90%;">İletişim</a>
 </div>
 <div class="col-4">
 <a class="btn btn--secondary" href="https://canakkale-webtasarim.com.tr/en/services.php" style="width: 90%;">Services</a>
