@@ -39,7 +39,7 @@
     "name": "E-ticaret çözümleri nedir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve hizmetlerdir."
+      "text": "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir."
     }
   },
   {
@@ -136,7 +136,7 @@ E-Ticaret Çözümleri Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli platformları, ödeme sistemlerini ve satış yönetimi araçlarını kapsayan yazılım ve hizmetlerdir.</p>
+<p>E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli platformları, ödeme sistemlerini ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir.</p>
 </div>
 </div>
 </div>

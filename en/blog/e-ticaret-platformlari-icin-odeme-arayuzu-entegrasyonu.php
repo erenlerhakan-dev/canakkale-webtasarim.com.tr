@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="E-Ticaret Platformları İçin Ödeme Arayüzü Entegrasyonu">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile e-ticaret sitenizde güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile e-ticaret sitenizde güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp">
 
 <?php include_once('../head_meta.php'); ?>

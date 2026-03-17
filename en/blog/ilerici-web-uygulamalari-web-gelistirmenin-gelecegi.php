@@ -8,7 +8,7 @@
 <meta name="description" content="İlerici web uygulamaları (Progressive Web Apps) ile modern web geliştirme trendlerini keşfedin. Çanakkale web yazılım çözümleri ile geleceğe uygun web uygulamaları oluşturun.">
 
 <meta property="og:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
-<meta property="og:description" content="Progressive Web Apps ile kullanıcı deneyimini artırın. Çanakkale web yazılım hizmetleri ile modern web uygulamalarınızı geleceğe taşıyın.">
+<meta property="og:description" content="Progressive Web Apps ile kullanıcı deneyimini artırın. Çanakkale web yazılım Servicesi ile modern web uygulamalarınızı geleceğe taşıyın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İlerici Web Uygulamaları: Web Geliştirmenin Geleceği">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile modern ve ilerici web uygulamaları geliştirin. Progressive Web Apps trendlerini öğrenin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile modern ve ilerici web uygulamaları geliştirin. Progressive Web Apps trendlerini öğrenin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/ilerici-web-uygulamalari-web-gelistirmenin-gelecegi.webp">
 
 <?php include_once('../head_meta.php'); ?>

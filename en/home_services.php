@@ -4,7 +4,7 @@
 <div class="row">
 <div class="col-lg-12">
 <div class="section-title-wrap text-center section-space--mb_40">
-<h6 class="section-sub-title mb-20">Hizmetlerimiz</h6>
+<h6 class="section-sub-title mb-20">Servicesimiz</h6>
 <h3 class="heading"><span class="text-color-primary"> İş ihtiyaçlarınıza</span> göre uyarlanmış kapsamlı yazılım geliştirme ve bilişim çözümleri</h3>
 </div>
 </div>
@@ -99,7 +99,7 @@
 </div>
 <div class="content">
 <h5 class="heading">Rezervasyon Sistemleri</h5>
-<div class="text">Oteller, restoranlar, hizmetler ve etkinlik yönetimi için özel rezervasyon ve randevu sistemleri.</div>
+<div class="text">Oteller, restoranlar, Services ve etkinlik yönetimi için özel rezervasyon ve randevu sistemleri.</div>
 <div class="feature-btn"><a href="/en/services/rezervasyon-sistemleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>

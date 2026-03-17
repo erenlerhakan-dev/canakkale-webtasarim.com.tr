@@ -2,8 +2,8 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>API Geliştirme Hizmetleri | Modern ve Güvenli API Çözümleri</title>
-<meta name="description" content="API geliştirme hizmetleri ile uygulamalarınızı entegre edin. Güvenli, hızlı ve ölçeklenebilir API çözümleri ile yazılım sistemlerinizi modern teknolojilerle güçlendirin.">
+<title>API Geliştirme Servicesi | Modern ve Güvenli API Çözümleri</title>
+<meta name="description" content="API geliştirme Servicesi ile uygulamalarınızı entegre edin. Güvenli, hızlı ve ölçeklenebilir API çözümleri ile yazılım sistemlerinizi modern teknolojilerle güçlendirin.">
 <meta name="keywords" content="API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme">
 
 <?php include_once('../head_meta.php'); ?>
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "API Geliştirme Hizmetleri ve Yazılım Entegrasyonu",
- "description": "API geliştirme hizmetleri ile farklı yazılım sistemlerini entegre ederek modern, güvenli ve ölçeklenebilir çözümler oluşturma hakkında bilgiler.",
+ "headline": "API Geliştirme Servicesi ve Yazılım Entegrasyonu",
+ "description": "API geliştirme Servicesi ile farklı yazılım sistemlerini entegre ederek modern, güvenli ve ölçeklenebilir çözümler oluşturma hakkında bilgiler.",
  "author": {
  "@type": "Organization",
  "name": "Software Development Services"
@@ -81,7 +81,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">API Geliştirme Hizmetleri</h1>
+<h1 class="mb-15 text-white">API Geliştirme Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -95,12 +95,12 @@
 <div class="row">
 <div class="col-lg-4">
 <div class="modern-number-01">
-<h3 class="heading mt-30">Profesyonel <span class="text-color-primary"> API <br> Geliştirme</span> Hizmetleri</h3>
+<h3 class="heading mt-30">Profesyonel <span class="text-color-primary"> API <br> Geliştirme</span> Servicesi</h3>
 </div>
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API geliştirme hizmetleri</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
+<h5 class="heading ">Modern yazılım sistemleri için <span class="text-color-primary"> API geliştirme Servicesi</span> sunuyoruz. Farklı platformlar ve uygulamalar arasında güvenli veri iletişimi sağlayan güçlü API çözümleri geliştiriyoruz.</h5>
 
 <div class="sub-heading">API entegrasyonları sayesinde yazılım sistemlerinizi daha verimli hale getirebilir, uygulamalarınız arasında hızlı ve güvenli veri akışı sağlayabilirsiniz. Projeniz için detaylı analiz ve teknik değerlendirme almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
@@ -190,7 +190,7 @@ API Entegrasyonunun Avantajları <span><i class="fas fa-chevron-circle-down"></i
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/api-gelistirme.webp" alt="API Geliştirme Hizmetleri" class="img-fluid">
+<img src="/images/services/api-gelistirme.webp" alt="API Geliştirme Servicesi" class="img-fluid">
 </div>
 
 </div>

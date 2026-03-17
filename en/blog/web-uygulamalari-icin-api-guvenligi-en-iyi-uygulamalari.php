@@ -137,7 +137,7 @@ Her uygulama ve kullanıcı yalnızca ihtiyacı olan verilere erişmelidir. Gere
 <h4>Sonuç</h4>
 
 <p>
-Güvenli bir API tasarımı, modern web uygulamalarının güvenilirliğini artırır ve kullanıcı güvenini sağlar. Çanakkale web yazılım hizmetleri kapsamında, uygulamalarınız için güçlü kimlik doğrulama, HTTPS, rate limiting ve sürekli izleme gibi güvenlik önlemleri uygulanmalıdır. Bu sayede hem veri güvenliği sağlanır hem de uygulamanız uzun vadede stabil ve güvenli çalışır.
+Güvenli bir API tasarımı, modern web uygulamalarının güvenilirliğini artırır ve kullanıcı güvenini sağlar. Çanakkale web yazılım Servicesi kapsamında, uygulamalarınız için güçlü kimlik doğrulama, HTTPS, rate limiting ve sürekli izleme gibi güvenlik önlemleri uygulanmalıdır. Bu sayede hem veri güvenliği sağlanır hem de uygulamanız uzun vadede stabil ve güvenli çalışır.
 </p>
 
 </div>

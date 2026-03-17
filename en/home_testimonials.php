@@ -48,7 +48,7 @@
 </div>
 </div>
 </div>
-<div class="testimonial-slider__text">"Özel CRM sistemimiz iş operasyonlarımızı dönüştürdü. Hizmetlerini şiddetle tavsiye ediyorum."</div>
+<div class="testimonial-slider__text">"Özel CRM sistemimiz iş operasyonlarımızı dönüştürdü. Servicesini şiddetle tavsiye ediyorum."</div>
 <div class="author-info">
 <h6 class="name">Ayşe Korkmaz</h6>
 <span class="designation">Biga Tekstil Ltd.</span>

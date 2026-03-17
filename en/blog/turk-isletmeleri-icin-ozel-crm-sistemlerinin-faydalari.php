@@ -119,7 +119,7 @@ Bu sistemler sayesinde işletmeler hangi müşteri adaylarının satışa daha y
 <h2>Daha Güçlü Müşteri İlişkileri</h2>
 
 <p>
-CRM sistemleri işletmelerin müşterilerini daha iyi tanımasına yardımcı olur. Müşteri tercihleri ve davranışları analiz edilerek daha kişiselleştirilmiş hizmetler sunulabilir.
+CRM sistemleri işletmelerin müşterilerini daha iyi tanımasına yardımcı olur. Müşteri tercihleri ve davranışları analiz edilerek daha kişiselleştirilmiş Services sunulabilir.
 </p>
 
 <p>

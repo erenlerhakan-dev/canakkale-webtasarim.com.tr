@@ -3,7 +3,7 @@
 
 <head>
 <title>Mobil Uygulama Geliştirme | iOS & Android Özel Uygulamalar</title>
-<meta name="description" content="Mobil uygulama geliştirme hizmetleri ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
+<meta name="description" content="Mobil uygulama geliştirme Servicesi ile iOS ve Android platformları için işletmenize özel uygulamalar oluşturun. Performanslı, güvenli ve kullanıcı dostu mobil çözümler.">
 <meta name="keywords" content="mobil uygulama geliştirme, iOS uygulama, Android uygulama, özel mobil uygulama, kurumsal mobil uygulama, mobil yazılım geliştirme">
 
 <?php include_once('../head_meta.php'); ?>
@@ -13,7 +13,7 @@
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
  "headline": "Mobil Uygulama Geliştirme",
- "description": "iOS ve Android platformlarına özel mobil uygulama geliştirme hizmetleri ile işletmenize özel çözümler sunuyoruz.",
+ "description": "iOS ve Android platformlarına özel mobil uygulama geliştirme Servicesi ile işletmenize özel çözümler sunuyoruz.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -105,7 +105,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> hizmetleri sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
+<h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> Servicesi sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
 
 <div class="sub-heading">İşletmenize özel mobil uygulamalar ile kullanıcı deneyimini artırın. Projeniz için detaylı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
 </div>

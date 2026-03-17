@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -133,7 +133,7 @@ Veritabanı optimizasyonu tek seferlik bir işlem değildir. Zaman içinde büy�
 </p>
 
 <p>
-Profesyonel <strong>Çanakkale web yazılım hizmetleri</strong> sunan firmalar, yüksek performanslı uygulamalar geliştirmek için güçlü veritabanı mimarileri kullanır. Doğru optimizasyon teknikleri sayesinde hem kullanıcı deneyimi iyileşir hem de sistem kaynakları daha verimli kullanılır.
+Profesyonel <strong>Çanakkale web yazılım Servicesi</strong> sunan firmalar, yüksek performanslı uygulamalar geliştirmek için güçlü veritabanı mimarileri kullanır. Doğru optimizasyon teknikleri sayesinde hem kullanıcı deneyimi iyileşir hem de sistem kaynakları daha verimli kullanılır.
 </p>
 
 <p>

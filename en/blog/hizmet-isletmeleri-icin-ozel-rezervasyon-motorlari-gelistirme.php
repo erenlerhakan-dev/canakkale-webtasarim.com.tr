@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Hizmet İşletmeleri İçin Özel Rezervasyon Motorları Geliştirme">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile online rezervasyon süreçlerini hızlandıracak özel rezervasyon motorları geliştirin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile online rezervasyon süreçlerini hızlandıracak özel rezervasyon motorları geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -111,7 +111,7 @@ Rezervasyon motoru, müşterilerin online olarak hizmet seçimi yapabileceği, t
 <h4>3. Özelleştirme Seçenekleri</h4>
 
 <p>
-Çanakkale’deki web yazılım hizmetleri, rezervasyon motorlarını işletmenin marka kimliği ve hizmet yapısına uygun şekilde özelleştirir. Modüller, takvim senkronizasyonu, kupon ve indirim yönetimi gibi işlevler eklenebilir.
+Çanakkale’deki web yazılım Servicesi, rezervasyon motorlarını işletmenin marka kimliği ve hizmet yapısına uygun şekilde özelleştirir. Modüller, takvim senkronizasyonu, kupon ve indirim yönetimi gibi işlevler eklenebilir.
 </p>
 
 <h4>4. Entegrasyonlar</h4>

@@ -149,7 +149,7 @@
 </div>
 <div class="content">
 <h5 class="heading">Rezervasyon Sistemleri</h5>
-<div class="text">Oteller, restoranlar, hizmetler ve etkinlik yönetimi için özel rezervasyon ve randevu sistemleri.</div>
+<div class="text">Oteller, restoranlar, Services ve etkinlik yönetimi için özel rezervasyon ve randevu sistemleri.</div>
 <div class="feature-btn"><a href="/en/services/rezervasyon-sistemleri.php"><span class="button-text">Detay</span><i class="fas fa-arrow-right"></i></a></div>
 </div>
 </div>

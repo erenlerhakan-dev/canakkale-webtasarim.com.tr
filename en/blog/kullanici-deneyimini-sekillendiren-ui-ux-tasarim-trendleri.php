@@ -8,7 +8,7 @@
 <meta name="description" content="2026 yılında UI/UX tasarım trendlerini keşfedin. Çanakkale web yazılım çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.">
 
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
-<meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım hizmetleri ile kullanıcı odaklı web siteleri geliştirin.">
+<meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım Servicesi ile kullanıcı odaklı web siteleri geliştirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -119,7 +119,7 @@ Kullanıcıların tercihine göre karanlık veya açık mod seçenekleri sunmak,
 <h4>5. Veri Odaklı Tasarım</h4>
 
 <p>
-Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Çanakkale web yazılım hizmetleri ile veriye dayalı UI/UX stratejileri uygulanabilir.
+Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Çanakkale web yazılım Servicesi ile veriye dayalı UI/UX stratejileri uygulanabilir.
 </p>
 
 <h4>6. Erişilebilirlik ve Kullanılabilirlik</h4>

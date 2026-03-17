@@ -107,7 +107,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP çözümleri</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
 
-<div class="sub-heading">ERP çözümleri ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek hizmetleri sağlıyoruz.</div>
+<div class="sub-heading">ERP çözümleri ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek Servicesi sağlıyoruz.</div>
 </div>
 </div>
 </div>

@@ -100,7 +100,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> CRM sistemleri</span> geliştiriyoruz. Müşteri ilişkilerini yönetmenizi sağlayan yazılım çözümleri ile satış, pazarlama ve müşteri hizmetleri süreçlerinizi daha verimli hale getiriyoruz.</h5>
+<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> CRM sistemleri</span> geliştiriyoruz. Müşteri ilişkilerini yönetmenizi sağlayan yazılım çözümleri ile satış, pazarlama ve müşteri Servicesi süreçlerinizi daha verimli hale getiriyoruz.</h5>
 
 <div class="sub-heading">CRM yazılım çözümleri sayesinde müşteri verilerinizi tek bir platformda yönetebilir, satış fırsatlarını takip edebilir ve işletmenizin büyümesini destekleyebilirsiniz. Detaylı analiz ve sistem planlaması için bizimle iletişime geçebilirsiniz.</div>
 </div>

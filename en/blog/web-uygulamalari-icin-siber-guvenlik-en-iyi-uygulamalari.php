@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Web Uygulamaları İçin Siber Güvenlik En İyi Uygulamaları">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile web uygulamalarınızı güvenli hale getirin ve siber saldırılara karşı koruyun.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile web uygulamalarınızı güvenli hale getirin ve siber saldırılara karşı koruyun.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-uygulamalari-icin-siber-guvenlik-en-iyi-uygulamalari.webp">
 
 <?php include_once('../head_meta.php'); ?>

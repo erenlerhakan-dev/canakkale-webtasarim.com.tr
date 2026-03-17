@@ -111,11 +111,11 @@
 <nav class="navigation-menu navigation-menu--text_white">
 
 <ul>
-<li><a href="https://canakkale-webtasarim.com.tr/">Ana Sayfa</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/">Home</a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/about-us.php">About Us</a></li>
 
 <li class="has-children has-children--multilevel-submenu">
-<a href="https://canakkale-webtasarim.com.tr/en/services.php">Hizmetler</a>
+<a href="https://canakkale-webtasarim.com.tr/en/services.php">Services</a>
 <ul class="submenu">
 <li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php"><span>Özel Web Geliştirme</span></a></li>
 <li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php"><span>CRM Sistemleri</span></a></li>

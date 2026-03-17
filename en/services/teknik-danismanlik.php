@@ -2,9 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Teknik Danışmanlık Hizmetleri | Yazılım, Server ve Hosting Çözümleri</title>
-<meta name="description" content="Yazılım, server, hosting ve bilişim alanlarında profesyonel teknik danışmanlık hizmetleri. İşletmeniz için güvenli ve ölçeklenebilir IT çözümleri.">
-<meta name="keywords" content="teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık hizmetleri">
+<title>Teknik Danışmanlık Servicesi | Yazılım, Server ve Hosting Çözümleri</title>
+<meta name="description" content="Yazılım, server, hosting ve bilişim alanlarında profesyonel teknik danışmanlık Servicesi. İşletmeniz için güvenli ve ölçeklenebilir IT çözümleri.">
+<meta name="keywords" content="teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık Servicesi">
 
 <?php include_once('../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Teknik Danışmanlık Hizmetleri",
- "description": "Yazılım, server yönetimi, hosting altyapısı ve bilişim çözümleri için profesyonel teknik danışmanlık hizmetleri hakkında bilgiler.",
+ "headline": "Teknik Danışmanlık Servicesi",
+ "description": "Yazılım, server yönetimi, hosting altyapısı ve bilişim çözümleri için profesyonel teknik danışmanlık Servicesi hakkında bilgiler.",
  "author": {
  "@type": "Organization",
  "name": "IT Consulting Services"
@@ -81,7 +81,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Teknik Danışmanlık Hizmetleri</h1>
+<h1 class="mb-15 text-white">Teknik Danışmanlık Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -100,9 +100,9 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> hizmetleri sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
+<h5 class="heading ">İşletmeler için kapsamlı <span class="text-color-primary"> yazılım, server, hosting ve bilişim danışmanlığı</span> Servicesi sunuyoruz. Dijital altyapınızı güvenli, hızlı ve ölçeklenebilir hale getirmenize yardımcı oluyoruz.</h5>
 
-<div class="sub-heading">Teknik danışmanlık hizmetleri sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için detaylı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
+<div class="sub-heading">Teknik danışmanlık Servicesi sayesinde yazılım projelerinizin doğru mimari ile geliştirilmesini sağlayabilir, server altyapınızı optimize edebilir ve hosting performansınızı artırabilirsiniz. Projeniz için detaylı analiz ve değerlendirme hizmeti almak için bizimle iletişime geçebilirsiniz.</div>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ Bilişim Danışmanlığının Önemi <span><i class="fas fa-chevron-circle-down
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/teknik-danismanlik.webp" alt="Teknik Danışmanlık Hizmetleri" class="img-fluid">
+<img src="/images/services/teknik-danismanlik.webp" alt="Teknik Danışmanlık Servicesi" class="img-fluid">
 </div>
 
 </div>

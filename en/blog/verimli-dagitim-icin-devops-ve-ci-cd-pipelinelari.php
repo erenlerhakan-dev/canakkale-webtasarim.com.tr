@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
 
 <?php include_once('../head_meta.php'); ?>

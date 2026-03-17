@@ -10,7 +10,7 @@
 
 <div class="section-elements-title mb-30 text-center">
 <h4>Sık Sorulan Sorular</h4>
-<p>Hizmetlerimiz ve süreçlerimiz hakkında yaygın sorular</p>
+<p>Servicesimiz ve süreçlerimiz hakkında yaygın sorular</p>
 </div>
 
 <div id="faq-toggles">
@@ -74,7 +74,7 @@ Mevcut sistemlerle entegrasyon yapabiliyor musunuz? <span> <i class="fas fa-chev
 </div>
 <div id="faq_four" class="collapse" aria-labelledby="faq_4" data-bs-parent="#faq-toggles">
 <div class="card-body">
-<p>Kesinlikle. API'ler ve özel bağlayıcılar aracılığıyla yeni çözümleri mevcut sistemler, veritabanları ve üçüncü taraf hizmetlerle entegre etme konusunda geniş deneyime sahibiz.</p>
+<p>Kesinlikle. API'ler ve özel bağlayıcılar aracılığıyla yeni çözümleri mevcut sistemler, veritabanları ve üçüncü taraf Servicesle entegre etme konusunda geniş deneyime sahibiz.</p>
 </div>
 </div>
 </div>

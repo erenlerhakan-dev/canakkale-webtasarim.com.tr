@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp">
 
 <?php include_once('../head_meta.php'); ?>

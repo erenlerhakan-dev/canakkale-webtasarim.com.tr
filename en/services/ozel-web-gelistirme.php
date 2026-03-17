@@ -3,7 +3,7 @@
 
 <head>
 <title>Özel Web Geliştirme | Kurumsal ve Kişiye Özel Web Çözümleri</title>
-<meta name="description" content="Özel web geliştirme hizmetleri ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme hizmetleri.">
+<meta name="description" content="Özel web geliştirme Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
 <meta name="keywords" content="özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
 
 <?php include_once('../head_meta.php'); ?>
@@ -12,7 +12,7 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Özel Web Geliştirme Hizmetleri",
+ "headline": "Özel Web Geliştirme Servicesi",
  "description": "İşletmelere ve projelere özel web geliştirme çözümleri ile modern, hızlı ve ölçeklenebilir web siteleri oluşturun.",
  "author": {
    "@type": "Organization",
@@ -86,7 +86,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Özel Web Geliştirme Hizmetleri</h1>
+<h1 class="mb-15 text-white">Özel Web Geliştirme Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -105,7 +105,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> özel web geliştirme</span> hizmetleri sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
+<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> özel web geliştirme</span> Servicesi sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
 
 <div class="sub-heading">Web projeleriniz için özel tasarım ve geliştirme çözümleri ile hızlı, SEO uyumlu ve kullanıcı dostu web siteleri oluşturuyoruz. Projenize özel danışmanlık ve teknik destek sağlıyoruz.</div>
 </div>
@@ -169,7 +169,7 @@ Hangi Sektörler Kullanabilir?<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler özel web geliştirme hizmetlerinden faydalanabilir.</p>
+<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler özel web geliştirme Servicesinden faydalanabilir.</p>
 </div>
 </div>
 </div>

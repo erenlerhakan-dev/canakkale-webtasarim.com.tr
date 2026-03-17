@@ -164,7 +164,7 @@ Rezervasyon Sistemlerinin Avantajları<span><i class="fas fa-chevron-circle-down
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Rezervasyon sistemleri işletmelerin booking süreçlerini otomatikleştirir ve müşteri deneyimini geliştirir. Online rezervasyon sayesinde müşteriler 7/24 hizmetlere erişebilir ve işletmeler rezervasyonlarını daha kolay yönetebilir.</p>
+<p>Rezervasyon sistemleri işletmelerin booking süreçlerini otomatikleştirir ve müşteri deneyimini geliştirir. Online rezervasyon sayesinde müşteriler 7/24 Servicese erişebilir ve işletmeler rezervasyonlarını daha kolay yönetebilir.</p>
 </div>
 </div>
 </div>
@@ -180,7 +180,7 @@ Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Rezervasyon yazılımları oteller, turizm şirketleri, restoranlar, sağlık hizmetleri, araç kiralama firmaları ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır. Bu sistemler rezervasyon yönetimini kolaylaştırarak işletmelerin daha verimli çalışmasını sağlar.</p>
+<p>Rezervasyon yazılımları oteller, turizm şirketleri, restoranlar, sağlık Servicesi, araç kiralama firmaları ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır. Bu sistemler rezervasyon yönetimini kolaylaştırarak işletmelerin daha verimli çalışmasını sağlar.</p>
 </div>
 </div>
 </div>

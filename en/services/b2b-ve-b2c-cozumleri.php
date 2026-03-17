@@ -2,7 +2,7 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>B2B ve B2C Çözümleri | Dijital İş Platformları ve Entegrasyon Hizmetleri</title>
+<title>B2B ve B2C Çözümleri | Dijital İş Platformları ve Entegrasyon Servicesi</title>
 <meta name="description" content="B2B ve B2C çözümleri ile işletmenizi dijital dünyada büyütün. Kurumsal yazılım, e-ticaret ve entegrasyon sistemleri ile iş süreçlerinizi optimize edin.">
 <meta name="keywords" content="B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu">
 
@@ -45,7 +45,7 @@
  "name": "B2C çözümleri nedir?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "B2C çözümleri, işletmelerin ürün veya hizmetlerini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır."
+ "text": "B2C çözümleri, işletmelerin ürün veya Servicesini doğrudan son kullanıcıya satmasını sağlayan e-ticaret ve dijital satış platformlarıdır."
  }
  },{
  "@type": "Question",
@@ -148,7 +148,7 @@ B2C Çözümleri<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>B2C (Business to Consumer) çözümleri, işletmelerin ürün ve hizmetlerini doğrudan son kullanıcılara sunmasını sağlayan dijital satış platformlarıdır. E-ticaret siteleri, mobil alışveriş uygulamaları ve online ödeme sistemleri B2C çözümlerinin önemli parçalarıdır.</p>
+<p>B2C (Business to Consumer) çözümleri, işletmelerin ürün ve Servicesini doğrudan son kullanıcılara sunmasını sağlayan dijital satış platformlarıdır. E-ticaret siteleri, mobil alışveriş uygulamaları ve online ödeme sistemleri B2C çözümlerinin önemli parçalarıdır.</p>
 </div>
 </div>
 </div>

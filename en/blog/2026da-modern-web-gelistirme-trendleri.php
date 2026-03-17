@@ -92,7 +92,7 @@
 <div class="post-excerpt mt-15">
 
 <p>
-Web geliştirme dünyası her yıl hızla değişmeye devam ediyor. 2026 yılında <strong>yapay zeka destekli web siteleri</strong>, <strong>mobil öncelikli tasarım</strong>, <strong>performans odaklı geliştirme</strong> ve <strong>progressive web uygulamaları (PWA)</strong> gibi teknolojiler ön plana çıkıyor. Özellikle yerel işletmeler için profesyonel <strong>Çanakkale web tasarım</strong> hizmetleri, dijital dünyada rekabet avantajı elde etmenin en önemli yollarından biri haline gelmiştir.
+Web geliştirme dünyası her yıl hızla değişmeye devam ediyor. 2026 yılında <strong>yapay zeka destekli web siteleri</strong>, <strong>mobil öncelikli tasarım</strong>, <strong>performans odaklı geliştirme</strong> ve <strong>progressive web uygulamaları (PWA)</strong> gibi teknolojiler ön plana çıkıyor. Özellikle yerel işletmeler için profesyonel <strong>Çanakkale web tasarım</strong> Servicesi, dijital dünyada rekabet avantajı elde etmenin en önemli yollarından biri haline gelmiştir.
 </p>
 
 <p>

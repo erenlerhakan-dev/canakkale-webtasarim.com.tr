@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
 
 <?php include_once('../head_meta.php'); ?>

@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="2026 İçin Gelişmiş SEO Optimizasyon Stratejileri">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile 2026 SEO trendlerini uygulayarak web sitenizin görünürlüğünü artırın.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile 2026 SEO trendlerini uygulayarak web sitenizin görünürlüğünü artırın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/2026-icin-gelismis-seo-optimizasyon-stratejileri.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -107,7 +107,7 @@ Web sitelerinin hızı ve teknik yapısı arama motoru sıralamalarını doğrud
 <h4>3. Yapay Zeka ve SEO Analizi</h4>
 
 <p>
-AI destekli SEO araçları ile içerik analizi, anahtar kelime araştırması ve rakip analizi çok daha hızlı ve doğru yapılabilir. Çanakkale web yazılım hizmetleri, AI tabanlı optimizasyon stratejilerini projelerde uygular.
+AI destekli SEO araçları ile içerik analizi, anahtar kelime araştırması ve rakip analizi çok daha hızlı ve doğru yapılabilir. Çanakkale web yazılım Servicesi, AI tabanlı optimizasyon stratejilerini projelerde uygular.
 </p>
 
 <h4>4. Backlink ve Otorite Yönetimi</h4>

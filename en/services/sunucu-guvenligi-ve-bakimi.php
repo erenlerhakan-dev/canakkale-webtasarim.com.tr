@@ -3,7 +3,7 @@
 
 <head>
 <title>Sunucu Güvenliği ve Bakımı | Server Yönetimi ve Destek</title>
-<meta name="description" content="Sunucu güvenliği ve bakım hizmetleri ile sunucularınızı koruyun. Server yönetimi, performans optimizasyonu ve 7/24 teknik destek ile güvenli altyapılar oluşturun.">
+<meta name="description" content="Sunucu güvenliği ve bakım Servicesi ile sunucularınızı koruyun. Server yönetimi, performans optimizasyonu ve 7/24 teknik destek ile güvenli altyapılar oluşturun.">
 <meta name="keywords" content="sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri">
 
 <?php include_once('../head_meta.php'); ?>
@@ -13,7 +13,7 @@
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
  "headline": "Sunucu Güvenliği ve Bakımı",
- "description": "Server güvenliği ve bakım hizmetleri ile sunucularınızın performansını ve güvenliğini artırın. 7/24 destek ile kesintisiz altyapı sağlayın.",
+ "description": "Server güvenliği ve bakım Servicesi ile sunucularınızın performansını ve güvenliğini artırın. 7/24 destek ile kesintisiz altyapı sağlayın.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -52,10 +52,10 @@
   },
   {
     "@type": "Question",
-    "name": "Hangi hizmetleri sunuyorsunuz?",
+    "name": "Hangi Servicesi sunuyorsunuz?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek hizmetleri sunuyoruz."
+      "text": "Sunucu güvenliği, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme, firewall yönetimi ve 7/24 teknik destek Servicesi sunuyoruz."
     }
   },
   {
@@ -105,7 +105,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Sunucularınızın güvenliği ve performansı için <span class="text-color-primary"> profesyonel bakım ve yönetim hizmetleri</span> sunuyoruz.</h5>
+<h5 class="heading ">Sunucularınızın güvenliği ve performansı için <span class="text-color-primary"> profesyonel bakım ve yönetim Servicesi</span> sunuyoruz.</h5>
 
 <div class="sub-heading">Server güvenliği, bakım ve optimizasyon süreçleri ile sunucularınız kesintisiz ve güvenli çalışır. 7/24 teknik destek ile altyapınızı kontrol altında tutuyoruz.</div>
 </div>
@@ -162,14 +162,14 @@ Avantajları Nelerdir?<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Hangi Hizmetler Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
+Hangi Services Sunulur?<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Server bakımı hizmetleri; güvenlik kontrolleri, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme ve 7/24 teknik destek içerir.</p>
+<p>Server bakımı Servicesi; güvenlik kontrolleri, yazılım ve donanım güncellemeleri, performans optimizasyonu, veri yedekleme ve 7/24 teknik destek içerir.</p>
 </div>
 </div>
 </div>

@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mobil Uygulama Geliştirme: Native vs Cross-Platform">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırarak işletmeniz için en uygun çözümü belirleyin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile Native ve Cross-Platform mobil uygulama geliştirme yöntemlerini karşılaştırarak işletmeniz için en uygun çözümü belirleyin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/mobil-uygulama-gelistirme-native-vs-cross-platform.webp">
 
 <?php include_once('../head_meta.php'); ?>

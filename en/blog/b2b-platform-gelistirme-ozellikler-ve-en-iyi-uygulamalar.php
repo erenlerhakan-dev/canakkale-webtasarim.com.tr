@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp">
 
 <?php include_once('../head_meta.php'); ?>

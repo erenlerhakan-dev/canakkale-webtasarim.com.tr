@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -117,7 +117,7 @@ WCAG, web içeriğinin erişilebilirliğini artırmak için oluşturulmuş ulusl
 <h4>4. SEO ve Erişilebilirlik İlişkisi</h4>
 
 <p>
-WCAG standartlarına uygun web siteleri, arama motorları tarafından daha iyi taranabilir. Bu sayede SEO performansı yükselir ve Çanakkale web tasarım hizmetlerinde rakiplerinizin önüne geçebilirsiniz.
+WCAG standartlarına uygun web siteleri, arama motorları tarafından daha iyi taranabilir. Bu sayede SEO performansı yükselir ve Çanakkale web tasarım Servicesinde rakiplerinizin önüne geçebilirsiniz.
 </p>
 
 <h4>Sonuç</h4>

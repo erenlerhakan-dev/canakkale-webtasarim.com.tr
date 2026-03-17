@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
 
 <?php include_once('../head_meta.php'); ?>

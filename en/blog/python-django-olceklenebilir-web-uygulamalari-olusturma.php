@@ -8,7 +8,7 @@
 <meta name="description" content="Python Django ile ölçeklenebilir web uygulamaları geliştirme rehberi. Çanakkale web yazılım çözümleri ile güvenli, hızlı ve performanslı projeler oluşturun.">
 
 <meta property="og:title" content="Python Django: Ölçeklenebilir Web Uygulamaları Oluşturma">
-<meta property="og:description" content="Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım hizmetleri ile modern projeler oluşturun.">
+<meta property="og:description" content="Django framework ile ölçeklenebilir ve güvenli web uygulamaları geliştirin. Çanakkale web yazılım Servicesi ile modern projeler oluşturun.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
@@ -107,7 +107,7 @@ Django’nun yapısı, büyük veri ve kullanıcı trafiğini sorunsuz yönetmek
 <h4>3. Güvenlik ve Veri Koruma</h4>
 
 <p>
-Django, SQL injection, XSS, CSRF ve clickjacking gibi yaygın web saldırılarına karşı güçlü önlemler sunar. Çanakkale web yazılım hizmetleri kapsamında bu güvenlik önlemleri, işletmelerin veri güvenliğini garanti eder.
+Django, SQL injection, XSS, CSRF ve clickjacking gibi yaygın web saldırılarına karşı güçlü önlemler sunar. Çanakkale web yazılım Servicesi kapsamında bu güvenlik önlemleri, işletmelerin veri güvenliğini garanti eder.
 </p>
 
 <h4>4. RESTful API ve Mikroservis Desteği</h4>
@@ -131,7 +131,7 @@ Django ORM (Object-Relational Mapping), veritabanı işlemlerini kolaylaştırı
 <h4>Sonuç</h4>
 
 <p>
-Python Django, ölçeklenebilir web uygulamaları geliştirmek için ideal bir platformdur. Çanakkale web yazılım hizmetleri ile Django kullanarak güvenli, performanslı ve özelleştirilebilir web çözümleri oluşturabilirsiniz. Bu sayede işletmenizin dijital varlığı güçlü ve geleceğe hazır olur.
+Python Django, ölçeklenebilir web uygulamaları geliştirmek için ideal bir platformdur. Çanakkale web yazılım Servicesi ile Django kullanarak güvenli, performanslı ve özelleştirilebilir web çözümleri oluşturabilirsiniz. Bu sayede işletmenizin dijital varlığı güçlü ve geleceğe hazır olur.
 </p>
 
 </div>

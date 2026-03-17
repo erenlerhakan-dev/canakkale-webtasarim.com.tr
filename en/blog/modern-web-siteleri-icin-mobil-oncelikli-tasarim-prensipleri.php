@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
-<meta name="twitter:description" content="Çanakkale web tasarım hizmetleri ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
+<meta name="twitter:description" content="Çanakkale web tasarım Servicesi ile mobil öncelikli web sitesi tasarım prensiplerini keşfedin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -93,7 +93,7 @@ Günümüzde internet kullanıcılarının büyük çoğunluğu mobil cihazlar �
 </p>
 
 <p>
-<strong>Çanakkale web tasarım hizmetleri</strong> sunan firmalar, mobil öncelikli tasarım prensiplerini uygulayarak kullanıcı deneyimini artırır ve SEO performansını yükseltir.
+<strong>Çanakkale web tasarım Servicesi</strong> sunan firmalar, mobil öncelikli tasarım prensiplerini uygulayarak kullanıcı deneyimini artırır ve SEO performansını yükseltir.
 </p>
 
 <h4>1. Basit ve Temiz Tasarım</h4>

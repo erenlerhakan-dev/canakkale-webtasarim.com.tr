@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
 
 <?php include_once('../head_meta.php'); ?>

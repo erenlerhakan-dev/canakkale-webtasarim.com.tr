@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp">
 
 <?php include_once('../head_meta.php'); ?>

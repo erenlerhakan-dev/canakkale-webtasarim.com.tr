@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
 
 <?php include_once('../head_meta.php'); ?>

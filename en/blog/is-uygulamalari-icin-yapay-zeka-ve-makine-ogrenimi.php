@@ -17,7 +17,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
-<meta name="twitter:description" content="Çanakkale web yazılım hizmetleri ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
+<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
 
 <?php include_once('../head_meta.php'); ?>
@@ -95,7 +95,7 @@ Yapay zeka (AI) ve makine öğrenimi (ML), modern iş uygulamalarının verimlil
 <h4>1. İş Süreçlerinde Yapay Zeka Kullanımı</h4>
 
 <p>
-AI, rutin iş süreçlerini otomatikleştirir, müşteri destek hizmetlerini iyileştirir ve veri analitiği ile daha doğru karar alınmasını sağlar. Örneğin; chatbotlar, akıllı öneri sistemleri ve tahmine dayalı analizler işletmelere zaman ve maliyet tasarrufu sağlar.
+AI, rutin iş süreçlerini otomatikleştirir, müşteri destek Servicesini iyileştirir ve veri analitiği ile daha doğru karar alınmasını sağlar. Örneğin; chatbotlar, akıllı öneri sistemleri ve tahmine dayalı analizler işletmelere zaman ve maliyet tasarrufu sağlar.
 </p>
 
 <h4>2. Makine Öğrenimi ile Veri Analizi</h4>
