@@ -20,7 +20,7 @@
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Ad Soyad *">
+<input name="con_name" type="text" placeholder="Name Surname *">
 </div>
 
 <div class="contact-inner">
@@ -32,14 +32,14 @@
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Telefon *">
+<input name="con_name" type="text" placeholder="Phone *">
 </div>
 
 <div class="contact-select">
 <div class="form-item contact-inner">
 <span class="inquiry">
 <select name="Visiting" class="nicesel">
-<option disabled selected>Konu *</option>
+<option disabled selected>Subject *</option>
 <option value="Genel">Genel</option>
 <option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
 <option value="CRM Sistemleri">CRM Sistemleri</option>
@@ -61,11 +61,11 @@
 </div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Talebiniz, mesajınız"></textarea>
+<textarea name="con_message" placeholder="Your request / message"></textarea>
 </div>
 
 <div class="comment-submit-btn">
-<button class="ht-btn ht-btn-md" type="submit">Gönder</button>
+<button class="ht-btn ht-btn-md" type="submit">Send</button>
 </div>
 
 </div>
@@ -76,11 +76,11 @@
 
 <div class="col-lg-5 ms-auto">
 <div class="contact-info-three text-left">
-<h6 class="heading font-weight--reguler">Bize Ulaşın !</h6>
+<h6 class="heading font-weight--reguler">Contact us !</h6>
 <h3 class="call-us"><a href="tel:+905347922531">(+90) 534 792 25 31</a></h3>
 <div class="text">İhtiyaçlarınıza en uygun çözümü bulmak için bizimle iş birliğine başlayın.</div>
 <div class="location-button mt-20">
-<a href="https:/share.google/5qKjOnp1q0aPwJL0K" class="location-text-button" target="_blank"><span class="button-icon"></span> <span class="button-text">Google İşletme Kaydımız</span></a>
+<a href="https:/share.google/5qKjOnp1q0aPwJL0K" class="location-text-button" target="_blank"><span class="button-icon"></span> <span class="button-text">Our Google Business Listing</span></a>
 </div>
 </div>
 </div>

@@ -5,8 +5,8 @@
 <div class="col-lg-6 col-md-6">
 <div class="appointment-hero-wrap wow move-up">
 <div class="appointment-hero-text">
-<h1 class="font-weight--reguler text-white mb-20 homewelcome1">İşinizi Profesyonel Yazılım Çözümleriyle Dönüştürün</h1>
-<h6 class="text-white homewelcome2 mb-10">Çanakkale'de lider web geliştirme şirketi <span class="text-line">Modern Teknolojilerle Oluşturulmuş Özel CRM, ERP, E-Ticaret ve Web Uygulamaları</span></h6>
+<h1 class="font-weight--reguler text-white mb-20 homewelcome1">Transform your business with professional software solutions.</h1>
+<h6 class="text-white homewelcome2 mb-10">Leading web development company in Çanakkale: <span class="text-line">Custom CRM, ERP, E-commerce and Web Applications Built with Modern Technologies.</span></h6>
 </div>
 </div>
 
@@ -25,30 +25,30 @@
 <div class="business-solution-form-wrap me-auto ms-auto">
 
 <div class="contact-title text-center section-space--mb_20">
-<h5 class="mb-10">Ücretsiz Teklif / Bilgi Alın</h5>
-<p class="text">İhtiyacınız olan yazılım ve ya bilişim desteği için bizden teklif almayı unutmayın.</p>
+<h5 class="mb-10">Get a Free Quote / Information</h5>
+<p class="text">Don't forget to get a quote from us for any software or IT support you need.</p>
 </div>
 
 <form id="contact-form" action="" method="post">
 <div class="contact-form__two">
 
 <div class="contact-inner contact-inner-home">
-<input name="con_name" type="text" placeholder="Ad Soyad *">
+<input name="con_name" type="text" placeholder="Name Surname *">
 </div>
 
 <div class="contact-inner contact-inner-home">
-<input name="con_email" type="email" placeholder="E-posta *">
+<input name="con_email" type="email" placeholder="E-mail *">
 </div>
 
 <div class="contact-inner contact-inner-home">
-<input name="con_email" type="text" placeholder="Telefon *">
+<input name="con_email" type="text" placeholder="Phone *">
 </div>
 
 <div class="contact-select">
 <div class="form-item contact-inner contact-inner-home">
 <span class="inquiry">
 <select name="Visiting" class="nicesel">
-<option disabled selected>Konu *</option>
+<option disabled selected>Subject *</option>
 <option value="Genel">Genel</option>
 <option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
 <option value="CRM Sistemleri">CRM Sistemleri</option>
@@ -68,11 +68,11 @@
 </div>
 
 <div class="contact-inner contact-inner-home contact-message">
-<textarea name="con_message" placeholder="Talebiniz, mesajınız." style="height: 100px"></textarea>
+<textarea name="con_message" placeholder="Your request / message." style="height: 100px"></textarea>
 </div>
 
 <div class="comment-submit-btn text-center">
-<button class="ht-btn ht-btn-md" type="submit">Gönder</button>
+<button class="ht-btn ht-btn-md" type="submit">Sen d</button>
 <p class="form-messege"></p>
 </div>
 

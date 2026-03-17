@@ -5,8 +5,8 @@
 <div class="col-lg-12">
 
 <div class="section-title-wrap text-center section-space--mb_40">
-<h6 class="section-sub-title mb-20">Müşteri Görüşleri</h6>
-<h3 class="heading"><span class="text-color-primary">Müşterilerimizin</span> bizimle çalışmaları hakkında söylediklerini görün.</h3>
+<h6 class="section-sub-title mb-20">Customer Testimonials</h6>
+<h3 class="heading"><span class="text-color-primary">See what our customers say</span> about working with us.</h3>
 </div>
 
 <div class="testimonial-slider">
@@ -27,10 +27,10 @@
 </div>
 </div>
 </div>
-<div class="testimonial-slider__text">"Olağanüstü hizmet! Rezervasyon sistemimizi tam ihtiyacımıza göre geliştirdiler. Profesyonel ekip ve harika iletişim."</div>
+<div class="testimonial-slider__text">"Exceptional service! They improved our booking system to perfectly meet our needs. Professional team and great communication.."</div>
 <div class="author-info">
 <h6 class="name">Mehmet Aydın</h6>
-<span class="designation">Çanakkale Turizm Acentesi</span>
+<span class="designation">Canakkale Tourism Agency</span>
 </div>
 </div>
 </div>
@@ -48,7 +48,7 @@
 </div>
 </div>
 </div>
-<div class="testimonial-slider__text">"Özel CRM sistemimiz iş operasyonlarımızı dönüştürdü. Servicesini şiddetle tavsiye ediyorum."</div>
+<div class="testimonial-slider__text">"Our custom CRM system transformed our business operations. I highly recommend their service."</div>
 <div class="author-info">
 <h6 class="name">Ayşe Korkmaz</h6>
 <span class="designation">Biga Tekstil Ltd.</span>
@@ -69,10 +69,10 @@
 </div>
 </div>
 </div>
-<div class="testimonial-slider__text">"E-ticaret platformumuzu sıfırdan inşa ettiler. Lansmandan bu yana satışlarımız %40 arttı!"</div>
+<div class="testimonial-slider__text">"They built our e-commerce platform from scratch. Our sales have increased by 40% since launch!"</div>
 <div class="author-info">
 <h6 class="name">Can Yılmaz</h6>
-<span class="designation">Çanakkale E-ticaret</span>
+<span class="designation">E-commerce in Çanakkale</span>
 </div>
 </div>
 </div>

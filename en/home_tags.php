@@ -4,8 +4,8 @@
 <div class="col-lg-8 align-self-center">
 
 <div class="section-elements-title mb-30 text-center">
-<h4>Kullandığımız Teknolojiler</h4>
-<p>Son teknoloji çözümler için modern teknoloji altyapıları</p>
+<h4>Technologies We Use</h4>
+<p>Modern technology infrastructures for cutting-edge solutions.</p>
 </div>
 
 <a href="#" class="ht-btn ht-btn-sm ht-btn--outline hometags">HTML5 & CSS3</a>
