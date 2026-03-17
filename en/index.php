@@ -58,7 +58,7 @@
 
 <?php include_once('mobile_menu.php'); ?>
 
-<?php include_once('footer_scripts.php'); ?>
+<?php include_once('../footer_scripts.php'); ?>
 
 <script>
 $(document).ready(function() {
