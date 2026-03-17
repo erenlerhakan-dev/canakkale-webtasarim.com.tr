@@ -154,7 +154,7 @@ We pride ourselves on staying up-to-date with the latest technologies and develo
 <div class="section-title-wrap text-center section-space--mb_60">
 <h3 class="heading mb-20">Our Mission</h3>
 </div>
-<h6 class="mb-20">Biz Kimiz</h6>
+<h6 class="mb-20">Who are we?</h6>
 <p>Our mission is to empower businesses in Çanakkale and surrounding regions with innovative software solutions that boost growth, increase efficiency, and create a competitive advantage in the digital market. We strive to be the most reliable technology partner for businesses seeking to transform their operations through custom software development.</p>
 </div>
 </div>

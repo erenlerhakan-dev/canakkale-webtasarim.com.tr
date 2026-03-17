@@ -2,20 +2,20 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
+<title>Canakkale Web Development - Professional Web Development and Software Solutions</title>
+<meta name="description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Canakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 
 <?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr">
-<meta property="og:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta property="og:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
+<meta property="og:title" content="Canakkale Web Development - Professional Web Development and Software Solutions">
+<meta property="og:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Canakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 <meta property="og:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
+<meta name="twitter:title" content="Canakkale Web Development - Professional Web Development and Software Solutions">
+<meta name="twitter:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Canakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and Custom Software Development with Laravel, React, Django and more.">
 <meta name="twitter:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Canakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webtasarim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -39,16 +39,16 @@
 <div class="col-lg-6 col-lg-6">
 <div class="conact-us-wrap-one mb-30">
 <h3 class="heading"><span class="text-color-primary">Contact Us</span></h3>
-<div class="sub-heading">Proje gereksinimlerinizi görüşmek için bizimle iletişime geçin</div>
+<div class="sub-heading">Contact us to discuss your project requirements.</div>
 <hr>
-<p>Çözüm Cloud olarak, sadece bir yazılım firması değil, dijital çözüm ortağınız olmayı hedefliyoruz. Çanakkale'nin yerel gücüyle küresel teknoloji standartlarını birleştirerek; <strong>Laravel'den React'e, bulut sistemlerden Mobile Applicationsa</strong> kadar geniş bir yelpazede işinizi büyütüyoruz. İster bir başlangıç (startup) olun, ister köklü bir kuruluş; ihtiyaçlarınıza özel, ölçeklenebilir ve sürdürülebilir çözümler için bir kahve içmeye her zaman bekleriz.</p>
+<p>At Çözüm Cloud, we aim to be more than just a software company; we strive to be your digital solutions partner. We combine the local strengths of Çanakkale with global technology standards.<strong>From Laravel to React, from cloud systems to mobile applications.</strong> We grow your business across a wide range of sectors. Whether you're a startup or an established organization, we're always open to chat with you over for a coffee to discuss scalable and sustainable solutions tailored to your needs.</p>
 </div>
 </div>
 
 <div class="col-lg-6 col-lg-6">
 <div class="contact-form-wrap">
 
-<h4>Bize Mesaj Gönderin</h4>
+<h4>Send us a message.</h4>
 
 <form id="contact-form" method="post">
 
@@ -57,27 +57,27 @@
 <div class="contact-input">
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Ad Soyad *" required>
+<input name="con_name" type="text" placeholder="Name Surname *" required>
 </div>
 
 <div class="contact-inner">
-<input name="con_email" type="email" placeholder="E-posta Adresi *" required>
+<input name="con_email" type="email" placeholder="E-mail *" required>
 </div>
 
 </div>
 
 <div class="contact-inner">
-<input name="con_name" type="text" placeholder="Telefon Numarası *" required>
+<input name="con_name" type="text" placeholder="Phone *" required>
 </div>
 
 </div>
 
 <div class="contact-inner contact-message">
-<textarea name="con_message" placeholder="Mesaj *" required></textarea>
+<textarea name="con_message" placeholder="Message *" required></textarea>
 </div>
 
 <div class="submit-btn mt-20">
-<button class="ht-btn ht-btn-md" type="submit">Mesaj Gönder</button>
+<button class="ht-btn ht-btn-md" type="submit">Send</button>
 <p class="form-messege"></p>
 </div>
 
@@ -96,7 +96,7 @@
 
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30 contact-boxes">
-<h5 class="heading mb-20">Adres</h5>
+<h5 class="heading mb-20">Address</h5>
 <ul class="conact-info__list">
 <li>Esenler Mh. Ahmet P. Cd. No:19/17 Çanakkale</li>
 </ul>
@@ -105,7 +105,7 @@
 
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30 contact-boxes">
-<h5 class="heading mb-20">Telefon</h5>
+<h5 class="heading mb-20">Phone</h5>
 <ul class="conact-info__list">
 <li>+90 534 792 25 31</li>
 </ul>
@@ -114,7 +114,7 @@
 
 <div class="col-lg-4 col-md-6">
 <div class="conact-info-wrap mt-30 contact-boxes">
-<h5 class="heading mb-20">E-posta</h5>
+<h5 class="heading mb-20">E-mail</h5>
 <ul class="conact-info__list">
 <li>info@cozumcloud.com.tr</li>
 </ul>
