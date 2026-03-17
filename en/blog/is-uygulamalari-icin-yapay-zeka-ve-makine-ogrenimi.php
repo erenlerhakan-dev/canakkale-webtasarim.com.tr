@@ -3,21 +3,21 @@
 
 <head>
 
-<title>İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi | Çanakkale Web Yazılım</title>
+<title>İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi | Canakkale Web Development</title>
 
-<meta name="description" content="İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Çanakkale web yazılım çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.">
+<meta name="description" content="İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı rehberi. Canakkale Web Development çözümleri ile işletmenizde verimlilik ve otomasyon sağlayın.">
 
 <meta property="og:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
-<meta property="og:description" content="Çanakkale web yazılım çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.">
+<meta property="og:description" content="Canakkale Web Development çözümleri ile iş uygulamalarınızda yapay zeka ve makine öğrenimi teknolojilerini kullanarak verimliliği artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İş Uygulamaları İçin Yapay Zeka ve Makine Öğrenimi">
-<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
+<meta name="twitter:description" content="Canakkale Web Development Servicesi ile işletmenizde yapay zeka ve makine öğrenimi uygulamaları geliştirerek iş süreçlerini optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-yapay-zeka-ve-makine-ogrenimi.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -77,7 +77,7 @@
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center">
-<a href="javascript:void(0);">Yapay Zeka, Makine Öğrenimi, İş Uygulamaları, Çanakkale Web Yazılım</a>
+<a href="javascript:void(0);">Yapay Zeka, Makine Öğrenimi, İş Uygulamaları, Canakkale Web Development</a>
 </div>
 
 <h3 class="post-title text-center">
@@ -89,7 +89,7 @@
 <div class="post-excerpt mt-15">
 
 <p>
-Yapay zeka (AI) ve makine öğrenimi (ML), modern iş uygulamalarının verimliliğini artırmak, veri odaklı kararlar almak ve otomasyonu güçlendirmek için vazgeçilmez teknolojilerdir. <strong>Çanakkale web yazılım çözümleri</strong>, işletmelerin iş süreçlerine özel AI ve ML uygulamaları geliştirerek rekabet avantajı sağlar.
+Yapay zeka (AI) ve makine öğrenimi (ML), modern iş uygulamalarının verimliliğini artırmak, veri odaklı kararlar almak ve otomasyonu güçlendirmek için vazgeçilmez teknolojilerdir. <strong>Canakkale Web Development çözümleri</strong>, işletmelerin iş süreçlerine özel AI ve ML uygulamaları geliştirerek rekabet avantajı sağlar.
 </p>
 
 <h4>1. İş Süreçlerinde Yapay Zeka Kullanımı</h4>
@@ -114,7 +114,7 @@ ML algoritmaları, büyük veri setlerini işleyerek trendleri ve örüntüleri 
 <li>Rekabet avantajı ve inovasyon fırsatları</li>
 </ul>
 
-<h4>4. Çanakkale Web Yazılım ile Entegrasyon</h4>
+<h4>4. Canakkale Web Development ile Entegrasyon</h4>
 
 <p>
 Çanakkale’deki işletmeler, AI ve ML teknolojilerini iş uygulamalarına entegre ederek operasyonel verimlilik ve iş zekası kazanabilir. Uzman ekipler, işletmenin ihtiyaçlarını analiz eder, uygun algoritmaları seçer ve uygulamaları ölçeklenebilir bir şekilde geliştirir.
@@ -132,7 +132,7 @@ ML algoritmaları, büyük veri setlerini işleyerek trendleri ve örüntüleri 
 <h4>Sonuç</h4>
 
 <p>
-İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı, işletmelerin verimliliğini artırır, daha iyi kararlar alınmasını sağlar ve rekabet avantajı kazandırır. <strong>Çanakkale web yazılım çözümleri</strong> ile AI ve ML uygulamalarını iş süreçlerinize entegre ederek dijital dönüşümünüzü hızlandırabilirsiniz.
+İş uygulamalarında yapay zeka ve makine öğrenimi kullanımı, işletmelerin verimliliğini artırır, daha iyi kararlar alınmasını sağlar ve rekabet avantajı kazandırır. <strong>Canakkale Web Development çözümleri</strong> ile AI ve ML uygulamalarını iş süreçlerinize entegre ederek dijital dönüşümünüzü hızlandırabilirsiniz.
 </p>
 
 </div>

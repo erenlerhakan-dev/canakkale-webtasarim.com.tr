@@ -3,21 +3,21 @@
 
 <head>
 
-<title>İşletmeniz İçin Doğru CMS Platformunu Seçmek | Çanakkale Web Yazılım</title>
+<title>İşletmeniz İçin Doğru CMS Platformunu Seçmek | Canakkale Web Development</title>
 
-<meta name="description" content="Doğru CMS platformu seçimi rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.">
+<meta name="description" content="Doğru CMS platformu seçimi rehberi. Canakkale Web Development çözümleri ile işletmeniz için en uygun içerik yönetim sistemini belirleyin ve verimli web siteleri oluşturun.">
 
 <meta property="og:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
-<meta property="og:description" content="Çanakkale web yazılım çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
+<meta property="og:description" content="Canakkale Web Development çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
-<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
+<meta name="twitter:description" content="Canakkale Web Development Servicesi ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/isletmeniz-icin-dogru-cms-platformunu-secmek.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@
 <div class="post-excerpt mt-15">
 
 <p>
-Doğru CMS (İçerik Yönetim Sistemi) platformunu seçmek, web sitenizin yönetimi ve işletmenizin dijital başarısı için kritik bir adımdır. <strong>Çanakkale web yazılım çözümleri</strong>, işletmenizin ihtiyaçlarına uygun CMS platformunu seçerek, yönetimi kolay, güvenli ve ölçeklenebilir web siteleri sunar.
+Doğru CMS (İçerik Yönetim Sistemi) platformunu seçmek, web sitenizin yönetimi ve işletmenizin dijital başarısı için kritik bir adımdır. <strong>Canakkale Web Development çözümleri</strong>, işletmenizin ihtiyaçlarına uygun CMS platformunu seçerek, yönetimi kolay, güvenli ve ölçeklenebilir web siteleri sunar.
 </p>
 
 <h4>1. CMS Seçiminde Dikkat Edilmesi Gerekenler</h4>
@@ -111,7 +111,7 @@ Doğru CMS (İçerik Yönetim Sistemi) platformunu seçmek, web sitenizin yönet
 <li><strong>Magento / WooCommerce:</strong> E-ticaret odaklı CMS çözümleri.</li>
 </ul>
 
-<h4>3. Çanakkale Web Yazılım ile CMS Uygulamaları</h4>
+<h4>3. Canakkale Web Development ile CMS Uygulamaları</h4>
 
 <p>
 Çanakkale’deki işletmeler, işletme ihtiyaçlarına uygun CMS platformunu seçerek web sitelerini optimize edebilir. Özelleştirilmiş temalar, eklentiler ve performans iyileştirmeleri ile web sitesi yönetimi kolaylaşır ve işletmeler dijital ortamda rekabet avantajı kazanır.
@@ -126,7 +126,7 @@ Doğru CMS seçimi, SEO performansını doğrudan etkiler. SEO uyumlu yapılar, 
 <h4>Sonuç</h4>
 
 <p>
-İşletmeniz için doğru CMS platformunu seçmek, yönetimi kolay, güvenli ve SEO uyumlu web siteleri oluşturmanın temelidir. Çanakkale web yazılım çözümleri ile ihtiyaçlarınıza uygun CMS platformunu belirleyerek, dijital varlığınızı güçlendirebilirsiniz.
+İşletmeniz için doğru CMS platformunu seçmek, yönetimi kolay, güvenli ve SEO uyumlu web siteleri oluşturmanın temelidir. Canakkale Web Development çözümleri ile ihtiyaçlarınıza uygun CMS platformunu belirleyerek, dijital varlığınızı güçlendirebilirsiniz.
 </p>
 
 </div>

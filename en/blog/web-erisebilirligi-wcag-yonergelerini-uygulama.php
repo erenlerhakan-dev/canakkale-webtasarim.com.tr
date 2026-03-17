@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Web Erişebilirliği: WCAG Yönergelerini Uygulama | Çanakkale Web Yazılım</title>
+<title>Web Erişebilirliği: WCAG Yönergelerini Uygulama | Canakkale Web Development</title>
 
-<meta name="description" content="Web erişilebilirliği ve WCAG yönergeleri rehberi. Çanakkale web yazılım çözümleri ile herkes için kullanılabilir web siteleri oluşturun.">
+<meta name="description" content="Web erişilebilirliği ve WCAG yönergeleri rehberi. Canakkale Web Development çözümleri ile herkes için kullanılabilir web siteleri oluşturun.">
 
 <meta property="og:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
-<meta property="og:description" content="Çanakkale web yazılım çözümleri ile WCAG yönergelerine uygun, erişilebilir web siteleri oluşturun ve kullanıcı deneyimini artırın.">
+<meta property="og:description" content="Canakkale Web Development çözümleri ile WCAG yönergelerine uygun, erişilebilir web siteleri oluşturun ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Web Erişebilirliği: WCAG Yönergelerini Uygulama">
-<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.">
+<meta name="twitter:description" content="Canakkale Web Development Servicesi ile WCAG standartlarına uygun, erişilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/web-erisebilirligi-wcag-yonergelerini-uygulama.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@ Web Erişebilirliği: WCAG Yönergelerini Uygulama
 <div class="post-excerpt mt-15">
 
 <p>
-Web siteleri, tüm kullanıcılar için erişilebilir olmalıdır. <strong>WCAG (Web Content Accessibility Guidelines)</strong> yönergeleri, görme, işitme veya motor yetenekleri sınırlı kullanıcıların da web sitelerini rahatça kullanmasını sağlar. <strong>Çanakkale web yazılım çözümleri</strong>, bu standartlara uygun siteler geliştirerek erişilebilirlik ve kullanıcı deneyimini artırır.
+Web siteleri, tüm kullanıcılar için erişilebilir olmalıdır. <strong>WCAG (Web Content Accessibility Guidelines)</strong> yönergeleri, görme, işitme veya motor yetenekleri sınırlı kullanıcıların da web sitelerini rahatça kullanmasını sağlar. <strong>Canakkale Web Development çözümleri</strong>, bu standartlara uygun siteler geliştirerek erişilebilirlik ve kullanıcı deneyimini artırır.
 </p>
 
 <h4>1. WCAG Yönergeleri Nedir?</h4>
@@ -108,7 +108,7 @@ WCAG, web içeriğinin erişilebilirliğini artırmak için oluşturulmuş ulusl
 <li><strong>Multimedya:</strong> Videolar için altyazı veya transkript sağlamak.</li>
 </ul>
 
-<h4>3. Çanakkale Web Yazılım ile Erişilebilir Web Siteleri</h4>
+<h4>3. Canakkale Web Development ile Erişilebilir Web Siteleri</h4>
 
 <p>
 Çanakkale’deki işletmeler, web erişilebilirliği standartlarına uygun sitelerle hem kullanıcı memnuniyetini artırabilir hem de arama motoru optimizasyonunu güçlendirebilir. Erişilebilir tasarım, tüm kullanıcılar için eşit deneyim sağlar.
@@ -123,7 +123,7 @@ WCAG standartlarına uygun web siteleri, arama motorları tarafından daha iyi t
 <h4>Sonuç</h4>
 
 <p>
-Web erişilebilirliği, modern web sitelerinin olmazsa olmazıdır. Çanakkale web yazılım çözümleri ile WCAG yönergelerini uygulayarak kullanıcı deneyimini iyileştirebilir, erişilebilir, güvenli ve SEO uyumlu web sitelerine sahip olabilirsiniz.
+Web erişilebilirliği, modern web sitelerinin olmazsa olmazıdır. Canakkale Web Development çözümleri ile WCAG yönergelerini uygulayarak kullanıcı deneyimini iyileştirebilir, erişilebilir, güvenli ve SEO uyumlu web sitelerine sahip olabilirsiniz.
 </p>
 
 </div>

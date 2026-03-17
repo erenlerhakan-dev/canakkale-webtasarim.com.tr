@@ -3,9 +3,9 @@
 
 <head>
 
-<title>ERP Sistemi Uygulaması: Kapsamlı Rehber | Çanakkale Web Yazılım</title>
+<title>ERP Sistemi Uygulaması: Kapsamlı Rehber | Canakkale Web Development</title>
 
-<meta name="description" content="ERP sistemi uygulamaları hakkında kapsamlı rehber. Çanakkale web yazılım çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.">
+<meta name="description" content="ERP sistemi uygulamaları hakkında kapsamlı rehber. Canakkale Web Development çözümleri ile kurumsal yazılımlarınızı optimize edin ve süreçlerinizi hızlandırın.">
 
 <meta property="og:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
 <meta property="og:description" content="ERP sistemi uygulaması ve avantajları hakkında detaylı rehber. İşletmeler için doğru ERP stratejilerini keşfedin.">
@@ -13,11 +13,11 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ERP Sistemi Uygulaması: Kapsamlı Rehber">
-<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile ERP sistemi uygulamalarınızı kurumsal verimlilik için optimize edin.">
+<meta name="twitter:description" content="Canakkale Web Development Servicesi ile ERP sistemi uygulamalarınızı kurumsal verimlilik için optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/erp-sistemi-uygulamasi-kapsamli-rehber.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@ ERP Sistemi Uygulaması: Kapsamlı Rehber
 <div class="post-excerpt mt-15">
 
 <p>
-Kurumsal işletmeler için süreçlerin yönetimi giderek karmaşıklaşıyor. Bu nedenle <strong>ERP (Enterprise Resource Planning) sistemleri</strong>, finans, üretim, stok, insan kaynakları ve satış gibi tüm süreçleri tek bir platformda toplar. <strong>Çanakkale web yazılım çözümleri</strong> sunan firmalar, ERP sistemi uygulamaları ile işletmelerin verimliliğini artırır ve operasyonel maliyetleri azaltır.
+Kurumsal işletmeler için süreçlerin yönetimi giderek karmaşıklaşıyor. Bu nedenle <strong>ERP (Enterprise Resource Planning) sistemleri</strong>, finans, üretim, stok, insan kaynakları ve satış gibi tüm süreçleri tek bir platformda toplar. <strong>Canakkale Web Development çözümleri</strong> sunan firmalar, ERP sistemi uygulamaları ile işletmelerin verimliliğini artırır ve operasyonel maliyetleri azaltır.
 </p>
 
 <h4>1. ERP Sistemi Nedir?</h4>
@@ -122,7 +122,7 @@ ERP sistemi uygulamak için izlenen adımlar genellikle şunlardır:
 <li>Canlı Kullanım ve İzleme: Sistemin devreye alınması ve performans izleme.</li>
 </ul>
 
-<h4>4. ERP ve Çanakkale Web Yazılım Servicesi</h4>
+<h4>4. ERP ve Canakkale Web Development Servicesi</h4>
 
 <p>
 Çanakkale’de faaliyet gösteren web yazılım firmaları, işletmelerin ERP sistemi uygulamalarını özelleştirir. Özellikle orta ve büyük ölçekli işletmeler için özel modüller, raporlama araçları ve veri analitiği çözümleri sunarlar.

@@ -3,21 +3,21 @@
 
 <head>
 
-<title>B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar | Çanakkale Web Yazılım</title>
+<title>B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar | Canakkale Web Development</title>
 
-<meta name="description" content="B2B platform geliştirme rehberi. Çanakkale web yazılım çözümleri ile işletmeniz için güçlü, ölçeklenebilir ve güvenli B2B platformlar geliştirin.">
+<meta name="description" content="B2B platform geliştirme rehberi. Canakkale Web Development çözümleri ile işletmeniz için güçlü, ölçeklenebilir ve güvenli B2B platformlar geliştirin.">
 
 <meta property="og:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
-<meta property="og:description" content="Çanakkale web yazılım çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.">
+<meta property="og:description" content="Canakkale Web Development çözümleri ile B2B platform geliştirme stratejilerini keşfedin ve işletmeniz için en iyi uygulamaları kullanın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar">
-<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.">
+<meta name="twitter:description" content="Canakkale Web Development Servicesi ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -77,7 +77,7 @@
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center">
-<a href="javascript:void(0);">B2B, Web Geliştirme, Çanakkale Web Yazılım</a>
+<a href="javascript:void(0);">B2B, Web Geliştirme, Canakkale Web Development</a>
 </div>
 
 <h3 class="post-title text-center">
@@ -89,7 +89,7 @@ B2B Platform Geliştirme: Özellikler ve En İyi Uygulamalar
 <div class="post-excerpt mt-15">
 
 <p>
-B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurmasını sağlayan güçlü araçlardır. <strong>Çanakkale web yazılım çözümleri</strong>, işletmenize özel, ölçeklenebilir ve güvenli B2B platformlar geliştirerek iş süreçlerinizi optimize eder.
+B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurmasını sağlayan güçlü araçlardır. <strong>Canakkale Web Development çözümleri</strong>, işletmenize özel, ölçeklenebilir ve güvenli B2B platformlar geliştirerek iş süreçlerinizi optimize eder.
 </p>
 
 <h4>1. B2B Platform Özellikleri</h4>
@@ -112,7 +112,7 @@ B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurması
 <li>Sürekli güncelleme ve bakım süreçlerini entegre etmek</li>
 </ul>
 
-<h4>3. Çanakkale Web Yazılım ile B2B Başarısı</h4>
+<h4>3. Canakkale Web Development ile B2B Başarısı</h4>
 
 <p>
 Çanakkale’deki işletmeler, özelleştirilmiş B2B platformlar ile tedarik zincirlerini dijitalleştirebilir, müşteri ve partner ilişkilerini güçlendirebilir. Uzman ekipler, iş ihtiyaçlarına göre platformu geliştirir ve ölçeklenebilir çözümler sunar.
@@ -121,13 +121,13 @@ B2B platformlar, işletmelerin birbirleriyle dijital ortamda etkileşim kurması
 <h4>4. SEO ve Kullanıcı Deneyimi</h4>
 
 <p>
-B2B platformlarda SEO uyumlu içerik ve hızlı yükleme süreleri, platformun görünürlüğünü ve kullanıcı memnuniyetini artırır. Çanakkale web yazılım çözümleri ile hem kullanıcı dostu hem de arama motorları için optimize edilmiş platformlar oluşturabilirsiniz.
+B2B platformlarda SEO uyumlu içerik ve hızlı yükleme süreleri, platformun görünürlüğünü ve kullanıcı memnuniyetini artırır. Canakkale Web Development çözümleri ile hem kullanıcı dostu hem de arama motorları için optimize edilmiş platformlar oluşturabilirsiniz.
 </p>
 
 <h4>Sonuç</h4>
 
 <p>
-B2B platform geliştirme, modern işletmelerin dijital pazarda başarılı olabilmesi için kritik bir adımdır. Çanakkale web yazılım çözümleri ile işletmeniz için güvenli, ölçeklenebilir ve kullanıcı odaklı B2B platformlar geliştirerek iş süreçlerinizi güçlendirebilirsiniz.
+B2B platform geliştirme, modern işletmelerin dijital pazarda başarılı olabilmesi için kritik bir adımdır. Canakkale Web Development çözümleri ile işletmeniz için güvenli, ölçeklenebilir ve kullanıcı odaklı B2B platformlar geliştirerek iş süreçlerinizi güçlendirebilirsiniz.
 </p>
 
 </div>

@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım</title>
+<title>Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Canakkale Web Development</title>
 
-<meta name="description" content="2026 yılında UI/UX tasarım trendlerini keşfedin. Çanakkale web yazılım çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.">
+<meta name="description" content="2026 yılında UI/UX tasarım trendlerini keşfedin. Canakkale Web Development çözümleri ile kullanıcı deneyimini artıracak modern tasarım stratejilerini öğrenin.">
 
 <meta property="og:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
-<meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Çanakkale web yazılım Servicesi ile kullanıcı odaklı web siteleri geliştirin.">
+<meta property="og:description" content="UI/UX tasarım trendleri ile modern web deneyimleri oluşturun. Canakkale Web Development Servicesi ile kullanıcı odaklı web siteleri geliştirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri">
-<meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
+<meta name="twitter:description" content="Canakkale Web Development Servicesi ile modern UI/UX tasarım trendlerini kullanarak kullanıcı deneyimini optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -26,16 +26,16 @@
 {
 "@context": "https:/schema.org",
 "@type": "Article",
-"headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Çanakkale Web Yazılım",
+"headline": "Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri | Canakkale Web Development",
 "description": "2026 yılında web geliştirme trendleri: yapay zeka destekli web siteleri, mobil öncelikli tasarım, PWA ve performans odaklı modern web teknolojileri.",
 "image": "https://canakkale-webtasarim.com.tr/images/blog/kullanici-deneyimini-sekillendiren-ui-ux-tasarim-trendleri.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@ Kullanıcı Deneyimini Şekillendiren UI/UX Tasarım Trendleri
 <div class="post-excerpt mt-15">
 
 <p>
-2026 yılında web tasarım dünyası, kullanıcı deneyimini merkeze alan modern trendlerle şekilleniyor. <strong>UI/UX tasarımı</strong>, yalnızca görsellik değil, aynı zamanda etkileşim, hız ve kullanılabilirlik odaklı bir strateji haline geldi. <strong>Çanakkale web yazılım çözümleri</strong>, işletmelerin bu trendleri uygulayarak kullanıcı dostu ve etkileşim odaklı web siteleri geliştirmesini sağlar.
+2026 yılında web tasarım dünyası, kullanıcı deneyimini merkeze alan modern trendlerle şekilleniyor. <strong>UI/UX tasarımı</strong>, yalnızca görsellik değil, aynı zamanda etkileşim, hız ve kullanılabilirlik odaklı bir strateji haline geldi. <strong>Canakkale Web Development çözümleri</strong>, işletmelerin bu trendleri uygulayarak kullanıcı dostu ve etkileşim odaklı web siteleri geliştirmesini sağlar.
 </p>
 
 <h4>1. Minimalist ve Temiz Tasarımlar</h4>
@@ -119,7 +119,7 @@ Kullanıcıların tercihine göre karanlık veya açık mod seçenekleri sunmak,
 <h4>5. Veri Odaklı Tasarım</h4>
 
 <p>
-Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Çanakkale web yazılım Servicesi ile veriye dayalı UI/UX stratejileri uygulanabilir.
+Analitik verilerle desteklenen tasarım kararları, kullanıcı davranışlarını optimize eder. Canakkale Web Development Servicesi ile veriye dayalı UI/UX stratejileri uygulanabilir.
 </p>
 
 <h4>6. Erişilebilirlik ve Kullanılabilirlik</h4>
@@ -131,7 +131,7 @@ Web siteleri, herkes için erişilebilir olmalıdır. Kontrast oranları, klavye
 <h4>Sonuç</h4>
 
 <p>
-UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan etkiler. Çanakkale web yazılım çözümleri ile minimal, etkileşimli, mobil öncelikli ve erişilebilir tasarımlar geliştirerek kullanıcı deneyimini artırabilirsiniz. Bu sayede hem müşteri memnuniyeti yükselir hem de dijital rekabette öne geçilir.
+UI/UX tasarım trendlerini takip etmek, web sitelerinin başarısını doğrudan etkiler. Canakkale Web Development çözümleri ile minimal, etkileşimli, mobil öncelikli ve erişilebilir tasarımlar geliştirerek kullanıcı deneyimini artırabilirsiniz. Bu sayede hem müşteri memnuniyeti yükselir hem de dijital rekabette öne geçilir.
 </p>
 
 </div>

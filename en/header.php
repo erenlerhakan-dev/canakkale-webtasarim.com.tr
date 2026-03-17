@@ -6,8 +6,8 @@
 <div class="header position-relative">
 
 <div class="header__logo top-logo">
-<a href="/index.php">
-<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;">Çanakkale Web Yazılım</h1>
+<a href="/en/index.php">
+<h1 style="font-size: 18px;font-weight: 800;color: #555555;text-align: center;">Canakkale Web Development</h1>
 </a>
 </div>
 

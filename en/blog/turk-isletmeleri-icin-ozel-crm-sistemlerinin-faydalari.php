@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Çanakkale Web Yazılım</title>
+<title>Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları | Canakkale Web Development</title>
 
 <meta name="description" content="Türk işletmeleri için özel CRM yazılımının avantajlarını keşfedin. Müşteri yönetimi, satış takibi ve iş süreçlerini kolaylaştıran CRM çözümleri ile işletmenizi büyütün.">
 
@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"

@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Çanakkale Web Yazılım</title>
+<title>Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri | Canakkale Web Development</title>
 
 <meta name="description" content="Modern web siteleri için mobil öncelikli tasarım prensiplerini öğrenin. Çanakkale web tasarım çözümleri ile kullanıcı deneyimini artırın ve SEO performansınızı yükseltin.">
 
@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Çanakkale Web Yazılım">
+<meta property="og:site_name" content="Canakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Modern Web Siteleri İçin Mobil Öncelikli Tasarım Prensipleri">
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/modern-web-siteleri-icin-mobil-oncelikli-tasarim-prensipleri.webp",
 "author": {
 "@type": "Person",
-"name": "Çanakkale Web Yazılım"
+"name": "Canakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Çanakkale Web Yazılım",
+"name": "Canakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
