@@ -2,7 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
+
 <title>Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
+
 <meta name="description" content="Çanakkale Web Yazılım - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
 
 <?php include_once('../head_meta.php'); ?>
