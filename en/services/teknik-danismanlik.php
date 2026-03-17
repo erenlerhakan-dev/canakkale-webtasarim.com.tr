@@ -6,7 +6,7 @@
 <meta name="description" content="Yazılım, server, hosting ve bilişim alanlarında profesyonel teknik danışmanlık Servicesi. İşletmeniz için güvenli ve ölçeklenebilir IT çözümleri.">
 <meta name="keywords" content="teknik danışmanlık, bilişim danışmanlığı, yazılım danışmanlığı, server yönetimi, hosting danışmanlığı, IT danışmanlık Servicesi">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -69,7 +69,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -212,7 +212,7 @@ Bilişim Danışmanlığının Önemi <span><i class="fas fa-chevron-circle-down
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

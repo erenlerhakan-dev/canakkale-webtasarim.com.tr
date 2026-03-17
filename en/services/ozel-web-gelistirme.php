@@ -6,7 +6,7 @@
 <meta name="description" content="Özel web geliştirme Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
 <meta name="keywords" content="özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -74,7 +74,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -217,7 +217,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

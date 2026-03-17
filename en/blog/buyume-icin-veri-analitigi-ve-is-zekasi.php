@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -159,7 +159,7 @@ Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rek
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

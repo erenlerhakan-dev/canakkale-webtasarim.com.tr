@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile B2B platform geliştirme özelliklerini öğrenin ve işletmeniz için güçlü çözümler oluşturun.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/b2b-platform-gelistirme-ozellikler-ve-en-iyi-uygulamalar.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -154,7 +154,7 @@ B2B platform geliştirme, modern işletmelerin dijital pazarda başarılı olabi
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

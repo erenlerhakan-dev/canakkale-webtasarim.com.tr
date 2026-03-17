@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile online rezervasyon süreçlerini hızlandıracak özel rezervasyon motorları geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/hizmet-isletmeleri-icin-ozel-rezervasyon-motorlari-gelistirme.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -156,7 +156,7 @@ Hizmet işletmeleri için özel rezervasyon motorları, müşteri memnuniyetini 
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

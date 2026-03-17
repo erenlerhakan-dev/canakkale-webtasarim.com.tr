@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile işiniz için en uygun bulut hosting çözümünü seçin ve performansı artırın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/bulut-hosting-cozumlerine-eksiksiz-rehber.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -167,7 +167,7 @@ Bulut hosting, modern web siteleri ve uygulamaları için vazgeçilmez bir altya
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

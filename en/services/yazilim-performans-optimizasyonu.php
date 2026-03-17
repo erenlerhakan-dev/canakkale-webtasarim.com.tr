@@ -6,7 +6,7 @@
 <meta name="description" content="Yazılım performans optimizasyonu ile uygulamalarınızı hızlandırın. Kod optimizasyonu, veritabanı iyileştirme ve sistem performans artırma çözümleri.">
 <meta name="keywords" content="yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -69,7 +69,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -212,7 +212,7 @@ Performans Optimizasyonunun Önemi <span><i class="fas fa-chevron-circle-down"><
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

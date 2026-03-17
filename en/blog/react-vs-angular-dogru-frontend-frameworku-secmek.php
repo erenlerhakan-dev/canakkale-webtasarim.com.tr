@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="React ve Angular karşılaştırması: performans, kullanım kolaylığı ve proje ihtiyaçlarına göre seçim rehberi.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -208,7 +208,7 @@ Daha esnek ve hızlı bir geliştirme süreci için React tercih edilebilirken, 
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

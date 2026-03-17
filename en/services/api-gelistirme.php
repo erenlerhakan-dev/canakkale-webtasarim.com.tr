@@ -6,7 +6,7 @@
 <meta name="description" content="API geliştirme Servicesi ile uygulamalarınızı entegre edin. Güvenli, hızlı ve ölçeklenebilir API çözümleri ile yazılım sistemlerinizi modern teknolojilerle güçlendirin.">
 <meta name="keywords" content="API geliştirme, REST API geliştirme, web API geliştirme, yazılım entegrasyonu, API servisleri, backend API geliştirme">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -69,7 +69,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -212,7 +212,7 @@ API Entegrasyonunun Avantajları <span><i class="fas fa-chevron-circle-down"></i
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

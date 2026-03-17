@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım çözümleri ile Django kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/python-django-olceklenebilir-web-uygulamalari-olusturma.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -158,7 +158,7 @@ Python Django, ölçeklenebilir web uygulamaları geliştirmek için ideal bir p
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

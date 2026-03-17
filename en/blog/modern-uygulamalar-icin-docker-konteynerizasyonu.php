@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -162,7 +162,7 @@ Docker konteynerizasyonu, modern web uygulamalarının geliştirilmesi ve dağı
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

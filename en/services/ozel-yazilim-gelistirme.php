@@ -6,7 +6,7 @@
 <meta name="description" content="Özel yazılım geliştirme Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında detaylı bilgi alın.">
 <meta name="keywords" content="özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -74,7 +74,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -217,7 +217,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

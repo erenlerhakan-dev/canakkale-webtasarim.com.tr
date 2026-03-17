@@ -22,7 +22,7 @@
 
 <link rel="canonical" href="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -56,7 +56,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -188,7 +188,7 @@ Eğer siz de işletmeniz için profesyonel bir web sitesi oluşturmak istiyorsan
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -159,7 +159,7 @@ DevOps ve CI/CD pipeline’ları, yazılım dağıtımında verimlilik ve güven
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

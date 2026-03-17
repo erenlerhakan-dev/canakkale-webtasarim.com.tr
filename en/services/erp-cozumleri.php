@@ -6,7 +6,7 @@
 <meta name="description" content="ERP çözümleri ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
 <meta name="keywords" content="ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -74,7 +74,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -217,7 +217,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

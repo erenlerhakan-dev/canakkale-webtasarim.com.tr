@@ -6,7 +6,7 @@
 <meta name="description" content="CRM sistemleri ile müşteri ilişkilerinizi yönetin, satış süreçlerinizi optimize edin ve işletmenizin verimliliğini artırın. Modern CRM yazılım çözümleri hakkında bilgi alın.">
 <meta name="keywords" content="CRM sistemleri, müşteri ilişkileri yönetimi, CRM yazılımı, satış yönetimi sistemi, müşteri yönetim yazılımı">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -69,7 +69,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -212,7 +212,7 @@ CRM Sistemleri Neden Önemlidir? <span><i class="fas fa-chevron-circle-down"></i
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

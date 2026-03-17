@@ -6,7 +6,7 @@
 <meta name="description" content="B2B ve B2C çözümleri ile işletmenizi dijital dünyada büyütün. Kurumsal yazılım, e-ticaret ve entegrasyon sistemleri ile iş süreçlerinizi optimize edin.">
 <meta name="keywords" content="B2B çözümleri, B2C çözümleri, dijital ticaret platformu, e-ticaret yazılımı, B2B e-ticaret sistemi, B2C satış platformu">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -69,7 +69,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -212,7 +212,7 @@ Dijital Ticarette Entegrasyon <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

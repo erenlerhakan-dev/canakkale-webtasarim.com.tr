@@ -6,7 +6,7 @@
 <meta name="description" content="E-ticaret çözümleri ile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
 <meta name="keywords" content="e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -74,7 +74,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -217,7 +217,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

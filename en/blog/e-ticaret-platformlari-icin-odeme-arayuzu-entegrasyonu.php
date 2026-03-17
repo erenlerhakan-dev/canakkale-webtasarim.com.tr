@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Çanakkale web yazılım Servicesi ile e-ticaret sitenizde güvenli ve hızlı ödeme arayüzü entegrasyonu sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/e-ticaret-platformlari-icin-odeme-arayuzu-entegrasyonu.webp">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -54,7 +54,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 <?php include_once('../header.php'); ?>
 
 <div id="main-wrapper">
@@ -160,7 +160,7 @@ E-ticaret siteleri için ödeme arayüzü entegrasyonu, güvenli, hızlı ve kul
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 

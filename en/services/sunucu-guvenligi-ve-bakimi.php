@@ -6,7 +6,7 @@
 <meta name="description" content="Sunucu güvenliği ve bakım Servicesi ile sunucularınızı koruyun. Server yönetimi, performans optimizasyonu ve 7/24 teknik destek ile güvenli altyapılar oluşturun.">
 <meta name="keywords" content="sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri">
 
-<?php include_once('../head_meta.php'); ?>
+<?php include_once('../../head_meta.php'); ?>
 
 <script type="application/ld+json">
 {
@@ -74,7 +74,7 @@
 
 <body>
 
-<?php include_once('../preloader.php'); ?>
+<?php include_once('../../preloader.php'); ?>
 
 <?php include_once('../header.php'); ?>
 
@@ -217,7 +217,7 @@ Bakım Süreci Nasıl İşler? <span><i class="fas fa-chevron-circle-down"></i>
 
 <?php include_once('../mobile_menu.php'); ?>
 
-<?php include_once('../footer_scripts.php'); ?>
+<?php include_once('../../footer_scripts.php'); ?>
 
 </body>
 
