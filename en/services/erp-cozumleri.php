@@ -2,9 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>ERP Çözümleri | Kurumsal İş Süreçleri Yönetimi</title>
-<meta name="description" content="ERP çözümleri ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
-<meta name="keywords" content="ERP çözümleri, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
+<title>ERP Solutions | Kurumsal İş Süreçleri Yönetimi</title>
+<meta name="description" content="ERP Solutions ile işletmenizin tüm iş süreçlerini tek bir sistemde yönetin. Finans, insan kaynakları, üretim ve lojistik süreçlerini optimize edin.">
+<meta name="keywords" content="ERP Solutions, kurumsal yazılım, iş süreçleri yönetimi, üretim yönetimi, finans yönetimi, ERP sistemi">
 
 <?php include_once('../../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "ERP Çözümleri ile İş Süreçlerinizi Yönetin",
- "description": "Kurumsal ERP çözümleri ile finans, üretim, insan kaynakları ve lojistik süreçlerinizi tek bir sistemde yönetin.",
+ "headline": "ERP Solutions ile İş Süreçlerinizi Yönetin",
+ "description": "Kurumsal ERP Solutions ile finans, üretim, insan kaynakları ve lojistik süreçlerinizi tek bir sistemde yönetin.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -44,7 +44,7 @@
   },
   {
     "@type": "Question",
-    "name": "ERP çözümleri hangi süreçleri kapsar?",
+    "name": "ERP Solutions hangi süreçleri kapsar?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Finans, insan kaynakları, üretim, lojistik, satış ve pazarlama süreçlerini kapsar ve süreçlerin dijitalleşmesini sağlar."
@@ -52,7 +52,7 @@
   },
   {
     "@type": "Question",
-    "name": "ERP çözümlerinin avantajları nelerdir?",
+    "name": "ERP Solutionsnin avantajları nelerdir?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "İş süreçlerinin hızlanması, veri bütünlüğü, maliyet optimizasyonu, daha iyi karar alma süreçleri ve merkezi yönetim sağlar."
@@ -86,7 +86,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">ERP Çözümleri</h1>
+<h1 class="mb-15 text-white">ERP Solutions</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -105,9 +105,9 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP çözümleri</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
+<h5 class="heading ">Kurumsal iş süreçlerinizi yönetmek için <span class="text-color-primary"> ERP Solutions</span> sunuyoruz. Finans, üretim, lojistik ve insan kaynakları süreçlerini tek bir sistemde entegre edin.</h5>
 
-<div class="sub-heading">ERP çözümleri ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek Servicesi sağlıyoruz.</div>
+<div class="sub-heading">ERP Solutions ile işletmenizin verimliliğini artırın, süreçleri optimize edin ve daha hızlı kararlar alın. Uzman ekibimizle danışmanlık ve destek Servicesi sağlıyoruz.</div>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>ERP çözümleri ile iş süreçleriniz daha hızlı, şeffaf ve verimli hale gelir. Veri bütünlüğü sağlanır, maliyetler optimize edilir ve karar alma süreçleri iyileştirilir.</p>
+<p>ERP Solutions ile iş süreçleriniz daha hızlı, şeffaf ve verimli hale gelir. Veri bütünlüğü sağlanır, maliyetler optimize edilir ve karar alma süreçleri iyileştirilir.</p>
 </div>
 </div>
 </div>
@@ -169,7 +169,7 @@ Hangi Süreçleri Kapsar?<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>ERP çözümleri; finans yönetimi, üretim yönetimi, lojistik, insan kaynakları, satış ve pazarlama süreçlerini kapsar ve tüm süreçlerin merkezi olarak yönetilmesini sağlar.</p>
+<p>ERP Solutions; finans yönetimi, üretim yönetimi, lojistik, insan kaynakları, satış ve pazarlama süreçlerini kapsar ve tüm süreçlerin merkezi olarak yönetilmesini sağlar.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/erp-cozumleri.webp" alt="ERP Çözümleri" class="img-fluid">
+<img src="/images/services/erp-cozumleri.webp" alt="ERP Solutions" class="img-fluid">
 </div>
 
 </div>

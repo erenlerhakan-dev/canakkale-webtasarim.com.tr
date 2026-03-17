@@ -5,19 +5,19 @@
 
 <title>Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
 
-<meta name="description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 
 <?php include_once('../../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr">
 <meta property="og:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta property="og:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta property="og:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 <meta property="og:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="twitter:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 <meta name="twitter:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Canakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webtasarim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -97,7 +97,7 @@
 
 <div class="post-feature blog-thumbnail">
 <a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">
-<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları">
+<img class="img-fluid" src="/images/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.webp" alt="Türk İşletmeleri için Özel CRM Systemsnin Faydaları">
 </a>
 </div>
 
@@ -108,7 +108,7 @@
 <div class="post-info lg-blog-post-info">
 
 <h4 class="post-title">
-<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">Türk İşletmeleri için Özel CRM Sistemlerinin Faydaları</a>
+<a href="/blog/turk-isletmeleri-icin-ozel-crm-sistemlerinin-faydalari.php">Türk İşletmeleri için Özel CRM Systemsnin Faydaları</a>
 </h4>
 
 <div class="post-meta mt-20">
@@ -514,7 +514,7 @@
 </div>
 
 <div class="post-excerpt mt-15">
-<p>PWA'ların web ve mobil uygulamaların en iyisini nasıl birleştirdiğini keşfedin.</p>
+<p>PWA'ların web ve Mobile Applicationsın en iyisini nasıl birleştirdiğini keşfedin.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">
@@ -646,7 +646,7 @@
 </div>
 
 <div class="post-excerpt mt-15">
-<p>Etkili rezervasyon sistemleri oluşturmak için temel özellikler ve değerlendirmeler.</p>
+<p>Etkili Reservation Systems oluşturmak için temel özellikler ve değerlendirmeler.</p>
 </div>
 
 <div class="read-post-share-wrap mt-30">

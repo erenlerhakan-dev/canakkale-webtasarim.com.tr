@@ -117,18 +117,18 @@
 <li class="has-children has-children--multilevel-submenu">
 <a href="https://canakkale-webtasarim.com.tr/en/services.php">Services</a>
 <ul class="submenu">
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php"><span>Özel Web Geliştirme</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php"><span>CRM Sistemleri</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/erp-cozumleri.php"><span>ERP Çözümleri</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/e-ticaret-cozumleri.php"><span>E-Ticaret Çözümleri</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/mobil-uygulamalar.php"><span>Mobil Uygulamalar</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/rezervasyon-sistemleri.php"><span>Rezervasyon Sistemleri</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-yazilim-gelistirme.php"><span>Özel Yazılım Geliştirme</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/b2b-ve-b2c-cozumleri.php"><span>B2B & B2C Çözümleri</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/api-gelistirme.php"><span>API Geliştirme</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php"><span>Sunucu Güvenliği ve Bakımı</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/yazilim-performans-optimizasyonu.php"><span>Yazılım Performans Optimizasyonu</span></a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/teknik-danismanlik.php"><span>Teknik Danışmanlık</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php"><span>Custom Web Development</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php"><span>CRM Systems</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/erp-cozumleri.php"><span>ERP Solutions</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/e-ticaret-cozumleri.php"><span>E-commerce Solutions</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/mobil-uygulamalar.php"><span>Mobile Applications</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/rezervasyon-sistemleri.php"><span>Reservation Systems</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-yazilim-gelistirme.php"><span>Custom Software Development</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/b2b-ve-b2c-cozumleri.php"><span>B2B & B2C Solutions</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/api-gelistirme.php"><span>API Development</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php"><span>Server Security and Maintenance</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/yazilim-performans-optimizasyonu.php"><span>Software Performance Optimization</span></a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/teknik-danismanlik.php"><span>Technical Consulting</span></a></li>
 </ul>
 </li>
 

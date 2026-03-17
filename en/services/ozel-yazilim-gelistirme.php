@@ -2,9 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Özel Yazılım Geliştirme | İşletmelere Özel Yazılım Çözümleri</title>
-<meta name="description" content="Özel yazılım geliştirme Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında detaylı bilgi alın.">
-<meta name="keywords" content="özel yazılım geliştirme, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
+<title>Custom Software Development | İşletmelere Özel Yazılım Çözümleri</title>
+<meta name="description" content="Custom Software Development Servicesi ile işletmenize özel, ölçeklenebilir ve güvenli yazılım çözümleri oluşturun. Web, mobil ve kurumsal yazılım geliştirme hakkında detaylı bilgi alın.">
+<meta name="keywords" content="Custom Software Development, kurumsal yazılım çözümleri, işletmeye özel yazılım, yazılım geliştirme hizmeti, web tabanlı yazılım, yazılım danışmanlığı">
 
 <?php include_once('../../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Özel Yazılım Geliştirme",
- "description": "Özel yazılım geliştirme ile işletmelere özel web, mobil ve kurumsal yazılım çözümleri oluşturabilirsiniz.",
+ "headline": "Custom Software Development",
+ "description": "Custom Software Development ile işletmelere özel web, mobil ve kurumsal yazılım çözümleri oluşturabilirsiniz.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -36,15 +36,15 @@
  "mainEntity": [
   {
     "@type": "Question",
-    "name": "Özel yazılım geliştirme nedir?",
+    "name": "Custom Software Development nedir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Özel yazılım geliştirme, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder."
+      "text": "Custom Software Development, bir işletmenin ihtiyaçlarına özel olarak tasarlanan ve tamamen özelleştirilebilen yazılım çözümlerini ifade eder."
     }
   },
   {
     "@type": "Question",
-    "name": "Özel yazılım geliştirme hangi avantajları sağlar?",
+    "name": "Custom Software Development hangi avantajları sağlar?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "İş süreçlerine tam uyum, yüksek performans, güvenlik, ölçeklenebilirlik ve uzun vadede maliyet avantajı sağlar."
@@ -60,7 +60,7 @@
   },
   {
     "@type": "Question",
-    "name": "Özel yazılım geliştirme süreci nasıl işler?",
+    "name": "Custom Software Development süreci nasıl işler?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "İhtiyaç analizi ve proje planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir."
@@ -86,7 +86,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Özel Yazılım Geliştirme</h1>
+<h1 class="mb-15 text-white">Custom Software Development</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -128,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Özel Yazılım Geliştirme Nedir? <span>
+Custom Software Development Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -136,7 +136,7 @@
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel yazılım geliştirme, işletmenizin iş süreçlerine ve ihtiyaçlarına uygun olarak tasarlanmış, tamamen özelleştirilebilir yazılım çözümleridir. Standart paket yazılımlara göre daha performanslı ve güvenlidir.</p>
+<p>Custom Software Development, işletmenizin iş süreçlerine ve ihtiyaçlarına uygun olarak tasarlanmış, tamamen özelleştirilebilir yazılım çözümleridir. Standart paket yazılımlara göre daha performanslı ve güvenlidir.</p>
 </div>
 </div>
 </div>
@@ -169,7 +169,7 @@ Hangi Sektörlerde Kullanılır?<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri özel yazılım geliştirme çözümlerinden yararlanabilir. İş süreçlerini dijitalleştirmek ve verimliliği artırmak isteyen tüm işletmeler için uygundur.</p>
+<p>Kurumsal firmalar, turizm, e-ticaret, sağlık, eğitim ve hizmet sektörleri Custom Software Development çözümlerinden yararlanabilir. İş süreçlerini dijitalleştirmek ve verimliliği artırmak isteyen tüm işletmeler için uygundur.</p>
 </div>
 </div>
 </div>
@@ -185,7 +185,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel yazılım geliştirme süreci; ihtiyaç analizi ve planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize en uygun çözüm sağlanır.</p>
+<p>Custom Software Development süreci; ihtiyaç analizi ve planlama, sistem tasarımı, yazılım geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarını içerir. Böylece işletmenize en uygun çözüm sağlanır.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/ozel-yazilim-gelistirme.webp" alt="Özel Yazılım Geliştirme" class="img-fluid">
+<img src="/images/services/ozel-yazilim-gelistirme.webp" alt="Custom Software Development" class="img-fluid">
 </div>
 
 </div>

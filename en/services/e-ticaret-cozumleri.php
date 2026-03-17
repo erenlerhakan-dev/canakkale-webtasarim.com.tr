@@ -2,9 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>E-Ticaret Çözümleri | Online Satış ve Dijital Mağaza Yönetimi</title>
-<meta name="description" content="E-ticaret çözümleri ile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
-<meta name="keywords" content="e-ticaret çözümleri, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
+<title>E-commerce Solutions| Online Satış ve Dijital Mağaza Yönetimi</title>
+<meta name="description" content="E-commerce Solutionsile online mağazanızı kurun, satış süreçlerinizi yönetin ve dijital mağazanızı optimize edin. SEO uyumlu ve performanslı e-ticaret platformları.">
+<meta name="keywords" content="E-commerce Solutions, online mağaza, e-ticaret platformu, dijital mağaza yönetimi, e-ticaret sitesi, satış optimizasyonu">
 
 <?php include_once('../../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "E-Ticaret Çözümleri ile Online Satışınızı Büyütün",
- "description": "Online satışlarınızı artırmak ve dijital mağazanızı optimize etmek için e-ticaret çözümleri sunuyoruz.",
+ "headline": "E-commerce Solutionsile Online Satışınızı Büyütün",
+ "description": "Online satışlarınızı artırmak ve dijital mağazanızı optimize etmek için E-commerce Solutionssunuyoruz.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -36,10 +36,10 @@
  "mainEntity": [
   {
     "@type": "Question",
-    "name": "E-ticaret çözümleri nedir?",
+    "name": "E-commerce Solutionsnedir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir."
+      "text": "E-commerce Solutions, işletmenizin online satış yapabilmesi için gerekli web platformları, ödeme sistemleri ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir."
     }
   },
   {
@@ -52,7 +52,7 @@
   },
   {
     "@type": "Question",
-    "name": "E-ticaret çözümlerinin avantajları nelerdir?",
+    "name": "E-commerce Solutionsnin avantajları nelerdir?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Online satışlarınızı artırır, süreçleri otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü yükseltir."
@@ -86,7 +86,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">E-Ticaret Çözümleri</h1>
+<h1 class="mb-15 text-white">E-commerce Solutions</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -105,7 +105,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmenizin dijital mağazasını oluşturmak için <span class="text-color-primary"> e-ticaret çözümleri</span> sunuyoruz. Online satışlarınızı kolayca yönetin ve optimize edin.</h5>
+<h5 class="heading ">İşletmenizin dijital mağazasını oluşturmak için <span class="text-color-primary"> E-commerce Solutions</span> sunuyoruz. Online satışlarınızı kolayca yönetin ve optimize edin.</h5>
 
 <div class="sub-heading">E-ticaret platformları ile ürün yönetimi, ödeme entegrasyonu, kullanıcı deneyimi optimizasyonu ve performanslı satış süreçleri sağlıyoruz. Profesyonel danışmanlık ve destek ile yanınızdayız.</div>
 </div>
@@ -128,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-E-Ticaret Çözümleri Nedir? <span>
+E-commerce SolutionsNedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -136,7 +136,7 @@ E-Ticaret Çözümleri Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret çözümleri, işletmenizin online satış yapabilmesi için gerekli platformları, ödeme sistemlerini ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir.</p>
+<p>E-commerce Solutions, işletmenizin online satış yapabilmesi için gerekli platformları, ödeme sistemlerini ve satış yönetimi araçlarını kapsayan yazılım ve Servicesdir.</p>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret çözümleri online satışlarınızı artırır, iş süreçlerinizi otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü artırır.</p>
+<p>E-commerce Solutionsonline satışlarınızı artırır, iş süreçlerinizi otomatikleştirir, müşteri deneyimini iyileştirir ve işletmenizin dijital görünürlüğünü artırır.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Kurulum Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/e-ticaret-cozumleri.webp" alt="E-Ticaret Çözümleri" class="img-fluid">
+<img src="/images/services/e-ticaret-cozumleri.webp" alt="E-commerce Solutions" class="img-fluid">
 </div>
 
 </div>

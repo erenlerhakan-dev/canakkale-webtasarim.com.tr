@@ -2,8 +2,8 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Rezervasyon Sistemleri | Online Rezervasyon Yazılımı ve Booking Çözümleri</title>
-<meta name="description" content="Rezervasyon sistemleri ile otel, tur, restoran ve hizmet sektörleri için online booking çözümleri geliştirin. Modern ve kullanıcı dostu rezervasyon yazılımı.">
+<title>Reservation Systems | Online Rezervasyon Yazılımı ve Booking Çözümleri</title>
+<meta name="description" content="Reservation Systems ile otel, tur, restoran ve hizmet sektörleri için online booking çözümleri geliştirin. Modern ve kullanıcı dostu rezervasyon yazılımı.">
 <meta name="keywords" content="rezervasyon sistemi, online rezervasyon yazılımı, booking sistemi, randevu sistemi, tur rezervasyon sistemi, otel rezervasyon yazılımı">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Rezervasyon Sistemleri ve Online Booking Yazılımları",
- "description": "Rezervasyon sistemleri sayesinde işletmeler müşterilerinin online rezervasyon yapmasını sağlayabilir ve booking süreçlerini kolayca yönetebilir.",
+ "headline": "Reservation Systems ve Online Booking Yazılımları",
+ "description": "Reservation Systems sayesinde işletmeler müşterilerinin online rezervasyon yapmasını sağlayabilir ve booking süreçlerini kolayca yönetebilir.",
  "author": {
  "@type": "Organization",
  "name": "Software Development Solutions"
@@ -45,7 +45,7 @@
  "name": "Online rezervasyon sistemi hangi sektörlerde kullanılır?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Online rezervasyon sistemleri otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır."
+ "text": "Online Reservation Systems otel, turizm, restoran, araç kiralama, sağlık ve etkinlik organizasyonları gibi birçok sektörde kullanılmaktadır."
  }
  },{
  "@type": "Question",
@@ -81,7 +81,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Rezervasyon Sistemleri</h1>
+<h1 class="mb-15 text-white">Reservation Systems</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -100,7 +100,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> online rezervasyon sistemleri</span> geliştiriyoruz. Turizm, otelcilik, restoran ve hizmet sektörleri için modern booking yazılım çözümleri sunuyoruz.</h5>
+<h5 class="heading ">İşletmeler için gelişmiş <span class="text-color-primary"> online Reservation Systems</span> geliştiriyoruz. Turizm, otelcilik, restoran ve hizmet sektörleri için modern booking yazılım çözümleri sunuyoruz.</h5>
 
 <div class="sub-heading">Rezervasyon yazılımları sayesinde müşterileriniz internet üzerinden hızlı ve kolay şekilde rezervasyon yapabilir. Otomatik rezervasyon yönetimi ile işletmenizin operasyon süreçlerini daha verimli hale getirebilirsiniz.</div>
 </div>
@@ -157,14 +157,14 @@ Online Rezervasyon Yazılımı<span>
 <div class="card-header" id="heading__12">
 <h5 class="mb-0">
 <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapse__12" aria-expanded="false" aria-controls="collapse__12">
-Rezervasyon Sistemlerinin Avantajları<span><i class="fas fa-chevron-circle-down"></i>
+Reservation Systemsnin Avantajları<span><i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
 </h5>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Rezervasyon sistemleri işletmelerin booking süreçlerini otomatikleştirir ve müşteri deneyimini geliştirir. Online rezervasyon sayesinde müşteriler 7/24 Servicese erişebilir ve işletmeler rezervasyonlarını daha kolay yönetebilir.</p>
+<p>Reservation Systems işletmelerin booking süreçlerini otomatikleştirir ve müşteri deneyimini geliştirir. Online rezervasyon sayesinde müşteriler 7/24 Servicese erişebilir ve işletmeler rezervasyonlarını daha kolay yönetebilir.</p>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ Rezervasyon Yazılımı Hangi Sektörlerde Kullanılır? <span><i class="fas fa-
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/rezervasyon-sistemleri.webp" alt="Rezervasyon Sistemleri" class="img-fluid">
+<img src="/images/services/rezervasyon-sistemleri.webp" alt="Reservation Systems" class="img-fluid">
 </div>
 
 </div>

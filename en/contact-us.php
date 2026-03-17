@@ -3,19 +3,19 @@
 
 <head>
 <title>Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri</title>
-<meta name="description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 
 <?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr">
 <meta property="og:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta property="og:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta property="og:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 <meta property="og:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri">
-<meta name="twitter:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Rezervasyon Sistemleri ve Laravel, React, Django ve daha fazlasıyla özel yazılım geliştirme.">
+<meta name="twitter:description" content="Canakkale Web Development - Profesyonel Web Geliştirme ve Yazılım Çözümleri. Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri. CRM, ERP, E-ticaret, Reservation Systems ve Laravel, React, Django ve daha fazlasıyla Custom Software Development.">
 <meta name="twitter:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Canakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webtasarim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
@@ -41,7 +41,7 @@
 <h3 class="heading"><span class="text-color-primary">Contact Us</span></h3>
 <div class="sub-heading">Proje gereksinimlerinizi görüşmek için bizimle iletişime geçin</div>
 <hr>
-<p>Çözüm Cloud olarak, sadece bir yazılım firması değil, dijital çözüm ortağınız olmayı hedefliyoruz. Çanakkale'nin yerel gücüyle küresel teknoloji standartlarını birleştirerek; <strong>Laravel'den React'e, bulut sistemlerden mobil uygulamalara</strong> kadar geniş bir yelpazede işinizi büyütüyoruz. İster bir başlangıç (startup) olun, ister köklü bir kuruluş; ihtiyaçlarınıza özel, ölçeklenebilir ve sürdürülebilir çözümler için bir kahve içmeye her zaman bekleriz.</p>
+<p>Çözüm Cloud olarak, sadece bir yazılım firması değil, dijital çözüm ortağınız olmayı hedefliyoruz. Çanakkale'nin yerel gücüyle küresel teknoloji standartlarını birleştirerek; <strong>Laravel'den React'e, bulut sistemlerden Mobile Applicationsa</strong> kadar geniş bir yelpazede işinizi büyütüyoruz. İster bir başlangıç (startup) olun, ister köklü bir kuruluş; ihtiyaçlarınıza özel, ölçeklenebilir ve sürdürülebilir çözümler için bir kahve içmeye her zaman bekleriz.</p>
 </div>
 </div>
 

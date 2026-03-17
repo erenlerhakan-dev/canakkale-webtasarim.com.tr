@@ -41,18 +41,18 @@
 <select name="Visiting" class="nicesel">
 <option disabled selected>Subject *</option>
 <option value="Genel">Genel</option>
-<option value="Özel Web Geliştirme">Özel Web Geliştirme</option>
-<option value="CRM Sistemleri">CRM Sistemleri</option>
-<option value="ERP Çözümleri">ERP Çözümleri</option>
-<option value="E-Ticaret Çözümleri">E-Ticaret Çözümleri</option>
-<option value="Mobil Uygulamalar">Mobil Uygulamalar</option>
-<option value="Rezervasyon Sistemleri">Rezervasyon Sistemleri</option>
-<option value="B2B & B2C Çözümleri">B2B & B2C Çözümleri</option>
-<option value="Özel Yazılım Geliştirme">Özel Yazılım Geliştirme</option>
-<option value="API Geliştirme">API Geliştirme</option>
+<option value="Custom Web Development">Custom Web Development</option>
+<option value="CRM Systems">CRM Systems</option>
+<option value="ERP Solutions">ERP Solutions</option>
+<option value="E-commerce Solutions">E-commerce Solutions</option>
+<option value="Mobile Applications">Mobile Applications</option>
+<option value="Reservation Systems">Reservation Systems</option>
+<option value="B2B & B2C Solutions">B2B & B2C Solutions</option>
+<option value="Custom Software Development">Custom Software Development</option>
+<option value="API Development">API Development</option>
 <option value="Güvenlik ve Bakım">Güvenlik ve Bakım</option>
 <option value="Performans Optimizasyonu">Performans Optimizasyonu</option>
-<option value="Teknik Danışmanlık">Teknik Danışmanlık</option>
+<option value="Technical Consulting">Technical Consulting</option>
 </select>
 </span>
 </div>

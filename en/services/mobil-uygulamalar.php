@@ -47,7 +47,7 @@
     "name": "Hangi platformlar için geliştirme yapılır?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile mobil uygulamalar geliştirilir."
+      "text": "iOS, Android ve gerektiğinde çapraz platform (cross-platform) teknolojileri ile Mobile Applications geliştirilir."
     }
   },
   {
@@ -107,7 +107,7 @@
 <div class="conact-us-wrap-one managed-it">
 <h5 class="heading ">iOS ve Android platformlarına özel <span class="text-color-primary"> mobil uygulama geliştirme</span> Servicesi sunuyoruz. Uygulamalarınız kullanıcı dostu, performanslı ve güvenli bir şekilde tasarlanır.</h5>
 
-<div class="sub-heading">İşletmenize özel mobil uygulamalar ile kullanıcı deneyimini artırın. Projeniz için detaylı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
+<div class="sub-heading">İşletmenize özel Mobile Applications ile kullanıcı deneyimini artırın. Projeniz için detaylı analiz, tasarım ve geliştirme süreçlerinde teknik destek sağlıyoruz.</div>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Mobil uygulamalar işletmenizin dijital görünürlüğünü artırır, kullanıcı deneyimini iyileştirir ve iş süreçlerini daha etkin yönetmenizi sağlar. Ayrıca veri toplama ve analiz süreçlerini kolaylaştırır.</p>
+<p>Mobile Applications işletmenizin dijital görünürlüğünü artırır, kullanıcı deneyimini iyileştirir ve iş süreçlerini daha etkin yönetmenizi sağlar. Ayrıca veri toplama ve analiz süreçlerini kolaylaştırır.</p>
 </div>
 </div>
 </div>

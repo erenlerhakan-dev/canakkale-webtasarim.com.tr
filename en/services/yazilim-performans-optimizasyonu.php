@@ -2,9 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Yazılım Performans Optimizasyonu | Hızlı ve Ölçeklenebilir Yazılım Çözümleri</title>
-<meta name="description" content="Yazılım performans optimizasyonu ile uygulamalarınızı hızlandırın. Kod optimizasyonu, veritabanı iyileştirme ve sistem performans artırma çözümleri.">
-<meta name="keywords" content="yazılım performans optimizasyonu, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma">
+<title>Software Performance Optimization | Hızlı ve Ölçeklenebilir Yazılım Çözümleri</title>
+<meta name="description" content="Software Performance Optimization ile uygulamalarınızı hızlandırın. Kod optimizasyonu, veritabanı iyileştirme ve sistem performans artırma çözümleri.">
+<meta name="keywords" content="Software Performance Optimization, uygulama performansı, kod optimizasyonu, veritabanı optimizasyonu, yazılım hızlandırma">
 
 <?php include_once('../../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Yazılım Performans Optimizasyonu",
- "description": "Yazılım performans optimizasyonu sayesinde uygulamaların daha hızlı, güvenli ve ölçeklenebilir hale getirilmesi hakkında bilgiler.",
+ "headline": "Software Performance Optimization",
+ "description": "Software Performance Optimization sayesinde uygulamaların daha hızlı, güvenli ve ölçeklenebilir hale getirilmesi hakkında bilgiler.",
  "author": {
  "@type": "Organization",
  "name": "Software Development Solutions"
@@ -35,10 +35,10 @@
  "@type": "FAQPage",
  "mainEntity": [{
  "@type": "Question",
- "name": "Yazılım performans optimizasyonu nedir?",
+ "name": "Software Performance Optimization nedir?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Yazılım performans optimizasyonu, uygulamaların daha hızlı ve verimli çalışmasını sağlamak için kod, veritabanı ve sistem altyapısında yapılan iyileştirme çalışmalarını ifade eder."
+ "text": "Software Performance Optimization, uygulamaların daha hızlı ve verimli çalışmasını sağlamak için kod, veritabanı ve sistem altyapısında yapılan iyileştirme çalışmalarını ifade eder."
  }
  },{
  "@type": "Question",
@@ -81,7 +81,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Yazılım Performans Optimizasyonu</h1>
+<h1 class="mb-15 text-white">Software Performance Optimization</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -100,7 +100,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> yazılım performans optimizasyonu</span> Servicesi sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
+<h5 class="heading ">Modern uygulamalar için <span class="text-color-primary"> Software Performance Optimization</span> Servicesi sunuyoruz. Kod yapısı, veritabanı sorguları ve sistem altyapısı üzerinde yapılan iyileştirmeler sayesinde uygulamalarınızı daha hızlı ve verimli hale getiriyoruz.</h5>
 
 <div class="sub-heading">Performans optimizasyonu sayesinde web uygulamaları ve yazılım sistemleri daha stabil çalışır, kullanıcı deneyimi artar ve sistem kaynakları daha verimli kullanılır. Projeniz için detaylı performans analizi ve optimizasyon çözümleri sunuyoruz.</div>
 </div>
@@ -123,7 +123,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Yazılım Performans Optimizasyonu Nedir? <span>
+Software Performance Optimization Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -131,7 +131,7 @@ Yazılım Performans Optimizasyonu Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Yazılım performans optimizasyonu, uygulamaların daha hızlı çalışmasını sağlamak için yapılan teknik iyileştirmeleri kapsar. Kod optimizasyonu, sistem mimarisi iyileştirmeleri ve veritabanı performans artırma çalışmaları bu sürecin önemli parçalarıdır.</p>
+<p>Software Performance Optimization, uygulamaların daha hızlı çalışmasını sağlamak için yapılan teknik iyileştirmeleri kapsar. Kod optimizasyonu, sistem mimarisi iyileştirmeleri ve veritabanı performans artırma çalışmaları bu sürecin önemli parçalarıdır.</p>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ Performans Optimizasyonunun Önemi <span><i class="fas fa-chevron-circle-down"><
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/yazilim-performans-optimizasyonu.webp" alt="Yazılım Performans Optimizasyonu" class="img-fluid">
+<img src="/images/services/yazilim-performans-optimizasyonu.webp" alt="Software Performance Optimization" class="img-fluid">
 </div>
 
 </div>

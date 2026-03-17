@@ -28,23 +28,23 @@
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php" class="hover-style-link">Özel Web Geliştirme</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php" class="hover-style-link">CRM Sistemleri</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/erp-cozumleri.php" class="hover-style-link">ERP Çözümleri</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/e-ticaret-cozumleri.php" class="hover-style-link">E-Ticaret Çözümleri</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/mobil-uygulamalar.php" class="hover-style-link">Mobil Uygulamalar</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/rezervasyon-sistemleri.php" class="hover-style-link">Rezervasyon Sistemleri</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-web-gelistirme.php" class="hover-style-link">Custom Web Development</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/crm-sistemleri.php" class="hover-style-link">CRM Systems</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/erp-cozumleri.php" class="hover-style-link">ERP Solutions</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/e-ticaret-cozumleri.php" class="hover-style-link">E-commerce Solutions</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/mobil-uygulamalar.php" class="hover-style-link">Mobile Applications</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/rezervasyon-sistemleri.php" class="hover-style-link">Reservation Systems</a></li>
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
 <h6 class="footer-widget__title mb-20">...</h6>
 <ul class="footer-widget__list">
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-yazilim-gelistirme.php" class="hover-style-link">Özel Yazılım Geliştirme</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/b2b-ve-b2c-cozumleri.php" class="hover-style-link">B2B & B2C Çözümleri</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/api-gelistirme.php" class="hover-style-link">API Geliştirme</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php" class="hover-style-link">Sunucu Güvenliği ve Bakımı</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/yazilim-performans-optimizasyonu.php" class="hover-style-link">Yazılım Performans Optimizasyonu</a></li>
-<li><a href="https://canakkale-webtasarim.com.tr/en/services/teknik-danismanlik.php" class="hover-style-link">Teknik Danışmanlık</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/ozel-yazilim-gelistirme.php" class="hover-style-link">Custom Software Development</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/b2b-ve-b2c-cozumleri.php" class="hover-style-link">B2B & B2C Solutions</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/api-gelistirme.php" class="hover-style-link">API Development</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/sunucu-guvenligi-ve-bakimi.php" class="hover-style-link">Server Security and Maintenance</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/yazilim-performans-optimizasyonu.php" class="hover-style-link">Software Performance Optimization</a></li>
+<li><a href="https://canakkale-webtasarim.com.tr/en/services/teknik-danismanlik.php" class="hover-style-link">Technical Consulting</a></li>
 </ul>
 </div>
 

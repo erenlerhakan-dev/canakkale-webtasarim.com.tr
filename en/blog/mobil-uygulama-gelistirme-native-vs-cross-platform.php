@@ -92,7 +92,7 @@ Mobil Uygulama Geliştirme: Native vs Cross-Platform
 Mobil uygulama geliştirme, işletmelerin kullanıcılarına ulaşmasında kritik bir rol oynar. <strong>Native</strong> ve <strong>Cross-Platform</strong> yaklaşımları, farklı avantaj ve kullanım alanlarına sahiptir. <strong>Canakkale Web Development çözümleri</strong>, işletmenize en uygun mobil geliştirme yöntemini seçerek başarılı projeler sunar.
 </p>
 
-<h4>1. Native Mobil Uygulamalar</h4>
+<h4>1. Native Mobile Applications</h4>
 
 <p>
 Native uygulamalar, belirli bir platform için özel olarak geliştirilir; iOS için Swift/Objective-C, Android için Kotlin/Java kullanılır. Performans ve kullanıcı deneyimi açısından en yüksek verimi sunar.
@@ -111,7 +111,7 @@ Native uygulamalar, belirli bir platform için özel olarak geliştirilir; iOS i
 <li>Daha yüksek maliyet ve uzun geliştirme süresi</li>
 </ul>
 
-<h4>2. Cross-Platform Mobil Uygulamalar</h4>
+<h4>2. Cross-Platform Mobile Applications</h4>
 
 <p>
 Cross-Platform uygulamalar, tek bir kod tabanı ile birden fazla platformda çalışabilir. React Native, Flutter ve Xamarin en popüler örneklerdir. Daha hızlı geliştirme ve maliyet avantajı sağlar.
@@ -139,7 +139,7 @@ Cross-Platform uygulamalar, tek bir kod tabanı ile birden fazla platformda çal
 <h4>Sonuç</h4>
 
 <p>
-Mobil uygulama geliştirme stratejisi, hedef platform, kullanıcı deneyimi ve bütçe ile doğrudan ilgilidir. Canakkale Web Development çözümleri ile Native veya Cross-Platform geliştirme yöntemlerinden işletmeniz için en uygun olanı seçerek güçlü ve performanslı mobil uygulamalar oluşturabilirsiniz.
+Mobil uygulama geliştirme stratejisi, hedef platform, kullanıcı deneyimi ve bütçe ile doğrudan ilgilidir. Canakkale Web Development çözümleri ile Native veya Cross-Platform geliştirme yöntemlerinden işletmeniz için en uygun olanı seçerek güçlü ve performanslı Mobile Applications oluşturabilirsiniz.
 </p>
 
 </div>

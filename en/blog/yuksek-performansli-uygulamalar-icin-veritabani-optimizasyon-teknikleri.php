@@ -93,7 +93,7 @@ Modern web uygulamalarında performans, kullanıcı deneyimini doğrudan etkiley
 </p>
 
 <p>
-<strong>Canakkale Web Development çözümleri</strong> geliştiren firmalar için performans odaklı veritabanı tasarımı kritik bir konudur. Özellikle CRM sistemleri, e-ticaret platformları, rezervasyon sistemleri ve ERP yazılımları gibi veri yoğun uygulamalarda optimize edilmiş veritabanı yapısı, sistemin sürdürülebilirliğini ve ölçeklenebilirliğini sağlar.
+<strong>Canakkale Web Development çözümleri</strong> geliştiren firmalar için performans odaklı veritabanı tasarımı kritik bir konudur. Özellikle CRM Systems, e-ticaret platformları, Reservation Systems ve ERP yazılımları gibi veri yoğun uygulamalarda optimize edilmiş veritabanı yapısı, sistemin sürdürülebilirliğini ve ölçeklenebilirliğini sağlar.
 </p>
 
 <h4>1. Doğru Veritabanı Tasarımı</h4>

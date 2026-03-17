@@ -117,7 +117,7 @@ Rezervasyon motoru, müşterilerin online olarak hizmet seçimi yapabileceği, t
 <h4>4. Entegrasyonlar</h4>
 
 <p>
-Rezervasyon motorları, mevcut web siteleri, CRM sistemleri ve ödeme altyapılarıyla entegre edilebilir. Böylece işletmeler tüm süreçleri tek bir platform üzerinden yönetebilir.
+Rezervasyon motorları, mevcut web siteleri, CRM Systems ve ödeme altyapılarıyla entegre edilebilir. Böylece işletmeler tüm süreçleri tek bir platform üzerinden yönetebilir.
 </p>
 
 <h4>5. Performans ve Güvenlik</h4>

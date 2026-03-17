@@ -2,7 +2,7 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Sunucu Güvenliği ve Bakımı | Server Yönetimi ve Destek</title>
+<title>Server Security and Maintenance | Server Yönetimi ve Destek</title>
 <meta name="description" content="Sunucu güvenliği ve bakım Servicesi ile sunucularınızı koruyun. Server yönetimi, performans optimizasyonu ve 7/24 teknik destek ile güvenli altyapılar oluşturun.">
 <meta name="keywords" content="sunucu güvenliği, server bakımı, server yönetimi, sunucu optimizasyonu, IT bakım hizmeti, sunucu güvenlik çözümleri">
 
@@ -12,7 +12,7 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Sunucu Güvenliği ve Bakımı",
+ "headline": "Server Security and Maintenance",
  "description": "Server güvenliği ve bakım Servicesi ile sunucularınızın performansını ve güvenliğini artırın. 7/24 destek ile kesintisiz altyapı sağlayın.",
  "author": {
    "@type": "Organization",
@@ -86,7 +86,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Sunucu Güvenliği ve Bakımı</h1>
+<h1 class="mb-15 text-white">Server Security and Maintenance</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -128,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Sunucu Güvenliği ve Bakımı Nedir? <span>
+Server Security and Maintenance Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -136,7 +136,7 @@ Sunucu Güvenliği ve Bakımı Nedir? <span>
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Sunucu güvenliği ve bakımı, sunucularınızın performansını ve güvenliğini artırmak için yapılan önlemler ve düzenli bakım süreçlerini kapsar. Firewall yönetimi, veri yedekleme ve güncellemeler bu hizmetin bir parçasıdır.</p>
+<p>Server Security and Maintenance, sunucularınızın performansını ve güvenliğini artırmak için yapılan önlemler ve düzenli bakım süreçlerini kapsar. Firewall yönetimi, veri yedekleme ve güncellemeler bu hizmetin bir parçasıdır.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Bakım Süreci Nasıl İşler? <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/sunucu-guvenligi-ve-bakimi.webp" alt="Sunucu Güvenliği ve Bakımı" class="img-fluid">
+<img src="/images/services/sunucu-guvenligi-ve-bakimi.webp" alt="Server Security and Maintenance" class="img-fluid">
 </div>
 
 </div>

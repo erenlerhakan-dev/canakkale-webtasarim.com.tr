@@ -2,9 +2,9 @@
 <html class="no-js" lang="tr" dir="ltr">
 
 <head>
-<title>Özel Web Geliştirme | Kurumsal ve Kişiye Özel Web Çözümleri</title>
-<meta name="description" content="Özel web geliştirme Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
-<meta name="keywords" content="özel web geliştirme, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
+<title>Custom Web Development | Kurumsal ve Kişiye Özel Web Çözümleri</title>
+<meta name="description" content="Custom Web Development Servicesi ile işletmenize veya projenize özel web çözümleri oluşturun. Modern, hızlı ve SEO uyumlu web siteleri geliştirme Servicesi.">
+<meta name="keywords" content="Custom Web Development, web tasarım, web yazılım geliştirme, kurumsal web çözümleri, web sitesi geliştirme, web uygulaması geliştirme">
 
 <?php include_once('../../head_meta.php'); ?>
 
@@ -12,8 +12,8 @@
 {
  "@context": "https:/schema.org",
  "@type": "BlogPosting",
- "headline": "Özel Web Geliştirme Servicesi",
- "description": "İşletmelere ve projelere özel web geliştirme çözümleri ile modern, hızlı ve ölçeklenebilir web siteleri oluşturun.",
+ "headline": "Custom Web Development Servicesi",
+ "description": "İşletmelere ve projelere Custom Web Development çözümleri ile modern, hızlı ve ölçeklenebilir web siteleri oluşturun.",
  "author": {
    "@type": "Organization",
    "name": "IT Solutions"
@@ -36,15 +36,15 @@
  "mainEntity": [
   {
     "@type": "Question",
-    "name": "Özel web geliştirme nedir?",
+    "name": "Custom Web Development nedir?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Özel web geliştirme, bir işletme veya proje için tamamen özelleştirilmiş, modern ve performanslı web siteleri veya web uygulamaları geliştirme sürecidir."
+      "text": "Custom Web Development, bir işletme veya proje için tamamen özelleştirilmiş, modern ve performanslı web siteleri veya web uygulamaları geliştirme sürecidir."
     }
   },
   {
     "@type": "Question",
-    "name": "Özel web geliştirme hangi avantajları sağlar?",
+    "name": "Custom Web Development hangi avantajları sağlar?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "İşletmenize özel tasarım, yüksek performans, SEO uyumluluğu, mobil uyumluluk ve ölçeklenebilirlik sağlar."
@@ -86,7 +86,7 @@
 <div class="row">
 <div class="col-lg-8 m-auto">
 <div class="about-banner-content text-center">
-<h1 class="mb-15 text-white">Özel Web Geliştirme Servicesi</h1>
+<h1 class="mb-15 text-white">Custom Web Development Servicesi</h1>
 <h5 class="font-weight--normal text-white">Çanakkale Çözüm Cloud</h5>
 </div>
 </div>
@@ -105,7 +105,7 @@
 </div>
 <div class="col-lg-7 offset-lg-1">
 <div class="conact-us-wrap-one managed-it">
-<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> özel web geliştirme</span> Servicesi sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
+<h5 class="heading ">Modern ve performanslı <span class="text-color-primary"> Custom Web Development</span> Servicesi sunuyoruz. Kurumsal ve kişiye özel web siteleri ile dijital projelerinizi optimize ediyoruz.</h5>
 
 <div class="sub-heading">Web projeleriniz için özel tasarım ve geliştirme çözümleri ile hızlı, SEO uyumlu ve kullanıcı dostu web siteleri oluşturuyoruz. Projenize özel danışmanlık ve teknik destek sağlıyoruz.</div>
 </div>
@@ -128,7 +128,7 @@
 <div class="card-header" id="heading__10">
 <h5 class="mb-0 font-weight--bold">
 <button class="btn-link" data-bs-toggle="collapse" data-bs-target="#tab__10" aria-expanded="true" aria-controls="tab__10">
-Özel Web Geliştirme Nedir? <span>
+Custom Web Development Nedir? <span>
 <i class="fas fa-chevron-circle-down"></i>
 <i class="fas fa-chevron-circle-right"></i> </span>
 </button>
@@ -136,7 +136,7 @@
 </div>
 <div id="tab__10" class="show" aria-labelledby="heading__10" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel web geliştirme, işletmenizin ihtiyaçlarına ve projelerinize özel, tamamen özelleştirilebilir web siteleri ve uygulamalar geliştirme sürecidir. Performans, güvenlik ve SEO odaklıdır.</p>
+<p>Custom Web Development, işletmenizin ihtiyaçlarına ve projelerinize özel, tamamen özelleştirilebilir web siteleri ve uygulamalar geliştirme sürecidir. Performans, güvenlik ve SEO odaklıdır.</p>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Avantajları Nelerdir?<span>
 </div>
 <div id="collapse__11" class="collapse" aria-labelledby="heading__11" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel web geliştirme, tamamen kişiye veya kuruma özel tasarım ve işlevsellik sunar. Mobil uyumluluk, SEO optimizasyonu, yüksek hız ve güvenlik avantajları sağlar.</p>
+<p>Custom Web Development, tamamen kişiye veya kuruma özel tasarım ve işlevsellik sunar. Mobil uyumluluk, SEO optimizasyonu, yüksek hız ve güvenlik avantajları sağlar.</p>
 </div>
 </div>
 </div>
@@ -169,7 +169,7 @@ Hangi Sektörler Kullanabilir?<span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__12" class="collapse" aria-labelledby="heading__12" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler özel web geliştirme Servicesinden faydalanabilir.</p>
+<p>E-ticaret, kurumsal şirketler, turizm, sağlık, eğitim ve hizmet sektörleri başta olmak üzere tüm işletmeler Custom Web Development Servicesinden faydalanabilir.</p>
 </div>
 </div>
 </div>
@@ -185,7 +185,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 <div id="collapse__13" class="collapse" aria-labelledby="heading__13" data-bs-parent="#accordion_two">
 <div class="card-body">
-<p>Özel web geliştirme süreci; ihtiyaç analizi, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur. Böylece işletmenize en uygun web çözümü sağlanır.</p>
+<p>Custom Web Development süreci; ihtiyaç analizi, tasarım ve prototip, geliştirme, test ve kalite kontrol, yayına alma ve teknik destek adımlarından oluşur. Böylece işletmenize en uygun web çözümü sağlanır.</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Geliştirme Süreci <span><i class="fas fa-chevron-circle-down"></i>
 </div>
 
 <div class="col-lg-6">
-<img src="/images/services/ozel-web-gelistirme.webp" alt="Özel Web Geliştirme" class="img-fluid">
+<img src="/images/services/ozel-web-gelistirme.webp" alt="Custom Web Development" class="img-fluid">
 </div>
 
 </div>

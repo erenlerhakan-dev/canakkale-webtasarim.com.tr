@@ -160,11 +160,11 @@ Bu araçlar kurumsal projelerin daha hızlı geliştirilmesine katkı sağlar.
 <h2>API ve Modern Web Uygulamaları İçin Uygun</h2>
 
 <p>
-Laravel framework modern API geliştirme süreçleri için oldukça uygundur. RESTful API yapısı sayesinde mobil uygulamalar, web servisleri ve farklı platformlar ile kolayca entegrasyon sağlanabilir.
+Laravel framework modern API Development süreçleri için oldukça uygundur. RESTful API yapısı sayesinde Mobile Applications, web servisleri ve farklı platformlar ile kolayca entegrasyon sağlanabilir.
 </p>
 
 <p>
-Bu sayede Laravel, CRM sistemleri, ERP yazılımları, rezervasyon sistemleri ve özel iş yazılımları gibi kurumsal uygulamalarda yaygın olarak kullanılmaktadır.
+Bu sayede Laravel, CRM Systems, ERP yazılımları, Reservation Systems ve özel iş yazılımları gibi kurumsal uygulamalarda yaygın olarak kullanılmaktadır.
 </p>
 
 <h2>Sonuç</h2>
@@ -174,7 +174,7 @@ Laravel, güçlü mimarisi, güvenlik özellikleri ve esnek geliştirme yapısı
 </p>
 
 <p>
-Profesyonel bir yazılım geliştirme süreci ile Laravel kullanılarak işletmeler için özel CRM, ERP, rezervasyon sistemleri ve e-ticaret platformları gibi birçok kurumsal uygulama geliştirilebilir.
+Profesyonel bir yazılım geliştirme süreci ile Laravel kullanılarak işletmeler için özel CRM, ERP, Reservation Systems ve e-ticaret platformları gibi birçok kurumsal uygulama geliştirilebilir.
 </p>
 
 </div>
