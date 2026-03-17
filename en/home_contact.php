@@ -3,8 +3,8 @@
 <div class="row">
 <div class="col-lg-12">
 <div class="contact-title section-space--mb_50">
-<h3 class="mb-20">Başlamaya Hazır mısınız?</h3>
-<p class="sub-title">Proje gereksinimlerinizi tartışmak ve ücretsiz danışmanlık almak için bugün bizimle iletişime geçin.</p>
+<h3 class="mb-20">Ready to begin?</h3>
+<p class="sub-title">Contact us today to discuss your project requirements and receive a free consultation.</p>
 </div>
 </div>
 </div>

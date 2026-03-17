@@ -26,7 +26,7 @@ What technologies do you specialize in? <span> <i class="fas fa-chevron-down"></
 </div>
 <div id="faq_one" class="collapse" aria-labelledby="faq_1" data-bs-parent="#faq-toggles">
 <div class="card-body">
-<p>Which technologies have you specialized in? We specialize in modern web technologies including React, Angular, Laravel, Django, and more. Our full-stack team works with both frontend and backend technologies to deliver complete solutions.</p>
+<p>Which technologies have you specialized in? We specialize in modern web technologies including React, Angular, Laravel, Django, and more. Our full-stack team works with both front-end and back-end technologies to deliver complete solutions.</p>
 </div>
 </div>
 </div>

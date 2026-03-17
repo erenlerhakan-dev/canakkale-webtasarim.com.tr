@@ -72,7 +72,7 @@
 </div>
 
 <div class="comment-submit-btn text-center">
-<button class="ht-btn ht-btn-md" type="submit">Sen d</button>
+<button class="ht-btn ht-btn-md" type="submit">Send</button>
 <p class="form-messege"></p>
 </div>
 
