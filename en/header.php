@@ -46,7 +46,7 @@
 </div>
 <div class="info-content">
 <h6 class="info-title">09:00 - 19:00</h6>
-<div class="info-sub-title">Pazartesi - Cumartesi</div>
+<div class="info-sub-title">Monday - Saturday</div>
 </div>
 </div>
 </div>

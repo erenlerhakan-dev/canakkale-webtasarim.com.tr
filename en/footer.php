@@ -61,7 +61,7 @@
 <div class="row align-items-center">
 
 <div class="col-md-6 text-center text-md-start">
-<span class="copyright-text">&copy; <?php echo date("Y"); ?> <a href="https://www.cozumcloud.com.tr">[Çözüm Cloud]</a> Canakkale Web Development. Tüm hakları saklıdır.</span>
+<span class="copyright-text">&copy; <?php echo date("Y"); ?> <a href="https://www.cozumcloud.com.tr">[Çözüm Cloud]</a> Canakkale Web Development. All rights reserved.</span>
 </div>
 
 <div class="col-md-6 text-center text-md-end">
