@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Küçük İşletmeler için E-Ticaret Başarı Stratejileri | Canakkale Web Development</title>
+<title>Küçük İşletmeler için E-Ticaret Başarı Stratejileri | Çanakkale Web Development</title>
 
 <meta name="description" content="Küçük işletmeler için e-ticaret başarı stratejileri. Online satışları artırmak, müşteri kazanmak ve dijital pazarda büyümek için etkili e-ticaret yöntemlerini keşfedin.">
 
@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Küçük İşletmeler için E-Ticaret Başarı Stratejileri">
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/kucuk-isletmeler-icin-e-ticaret-basari-stratejileri.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"

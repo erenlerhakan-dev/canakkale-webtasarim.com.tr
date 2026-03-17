@@ -30,7 +30,7 @@
 <div class="testimonial-slider__text">"Exceptional service! They improved our booking system to perfectly meet our needs. Professional team and great communication.."</div>
 <div class="author-info">
 <h6 class="name">Mehmet Aydın</h6>
-<span class="designation">Canakkale Tourism Agency</span>
+<span class="designation">Çanakkale Tourism Agency</span>
 </div>
 </div>
 </div>

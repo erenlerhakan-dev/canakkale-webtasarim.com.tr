@@ -5,10 +5,10 @@
 
 <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
 <div class="footer-widget__logo mb-30">
-<h1 style="font-size: 18px;font-weight: 800;color: #555555;">Canakkale Web Development</h1>
+<h1 style="font-size: 18px;font-weight: 800;color: #555555;">Çanakkale Web Development</h1>
 </div>
 <ul class="footer-widget__list">
-<li>Esenler Mh. Ahmet Piriştina Cd. No:19<br>İç Kapı No:17 Çanakkale 17000</li>
+<li>Esenler Mh. Ahmet Piriştina Cd. No:19<br>Door No:17 Çanakkale 17000</li>
 <li><a href="mailto:info@cozumcloud.com.tr" class="hover-style-link">info@cozumcloud.com.tr</a></li>
 <li><a href="tel:+905347922531" class="hover-style-link text-black font-weight--bold">+90 534 792 25 31</a></li>
 </ul>
@@ -61,7 +61,7 @@
 <div class="row align-items-center">
 
 <div class="col-md-6 text-center text-md-start">
-<span class="copyright-text">&copy; <?php echo date("Y"); ?> <a href="https://www.cozumcloud.com.tr">[Çözüm Cloud]</a> Canakkale Web Development. All rights reserved.</span>
+<span class="copyright-text">&copy; <?php echo date("Y"); ?> <a href="https://www.cozumcloud.com.tr/en/">[Çözüm Cloud]</a> Çanakkale Web Development. All rights reserved.</span>
 </div>
 
 <div class="col-md-6 text-center text-md-end">

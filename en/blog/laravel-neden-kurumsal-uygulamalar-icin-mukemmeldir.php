@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Canakkale Web Development</title>
+<title>Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir | Çanakkale Web Development</title>
 
 <meta name="description" content="Laravel framework neden kurumsal web uygulamaları için tercih edilir? Güvenlik, performans, ölçeklenebilirlik ve modern yazılım mimarisi ile Laravel'in avantajlarını keşfedin.">
 
@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Laravel Neden Kurumsal Uygulamalar İçin Mükemmeldir">
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/laravel-neden-kurumsal-uygulamalar-icin-mukemmeldir.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"

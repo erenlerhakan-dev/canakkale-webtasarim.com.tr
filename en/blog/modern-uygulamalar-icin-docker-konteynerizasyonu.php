@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Modern Uygulamalar İçin Docker Konteynerizasyonu | Canakkale Web Development</title>
+<title>Modern Uygulamalar İçin Docker Konteynerizasyonu | Çanakkale Web Development</title>
 
-<meta name="description" content="Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Canakkale Web Development çözümleri ile projelerinizi optimize edin.">
+<meta name="description" content="Docker konteynerizasyonu ile modern uygulamaları hızlı, taşınabilir ve ölçeklenebilir hale getirin. Çanakkale Web Development çözümleri ile projelerinizi optimize edin.">
 
 <meta property="og:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile Docker konteynerizasyonu uygulayarak modern web uygulamalarınızı hızlı ve güvenli hale getirin.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile Docker konteynerizasyonu uygulayarak modern web uygulamalarınızı hızlı ve güvenli hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Modern Uygulamalar İçin Docker Konteynerizasyonu">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile Docker konteynerizasyonu kullanarak uygulamalarınızı taşınabilir ve ölçeklenebilir hale getirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/modern-uygulamalar-icin-docker-konteynerizasyonu.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@ Modern Uygulamalar İçin Docker Konteynerizasyonu
 <div class="post-excerpt mt-15">
 
 <p>
-Docker konteynerizasyonu, uygulamaları taşınabilir, hızlı ve ölçeklenebilir bir şekilde paketlemenizi sağlayan modern bir geliştirme yöntemidir. <strong>Canakkale Web Development çözümleri</strong>, işletmelere Docker tabanlı çözümler sunarak projelerin dağıtım ve yönetim süreçlerini optimize eder.
+Docker konteynerizasyonu, uygulamaları taşınabilir, hızlı ve ölçeklenebilir bir şekilde paketlemenizi sağlayan modern bir geliştirme yöntemidir. <strong>Çanakkale Web Development çözümleri</strong>, işletmelere Docker tabanlı çözümler sunarak projelerin dağıtım ve yönetim süreçlerini optimize eder.
 </p>
 
 <h4>1. Docker Konteynerizasyonu Nedir?</h4>
@@ -117,7 +117,7 @@ Docker, uygulamaları ve bağımlılıklarını tek bir paket içinde konteynerl
 - Test ve geliştirme ortamlarının hızlı kurulumu
 </p>
 
-<h4>4. Canakkale Web Development ile Docker Entegrasyonu</h4>
+<h4>4. Çanakkale Web Development ile Docker Entegrasyonu</h4>
 
 <p>
 Çanakkale’deki işletmeler, Docker kullanarak uygulamalarını daha güvenli, taşınabilir ve ölçeklenebilir hale getirebilir. Uzman ekipler, Docker tabanlı projeleri tasarlar, kurar ve optimize eder.
@@ -135,7 +135,7 @@ Docker, uygulamaları ve bağımlılıklarını tek bir paket içinde konteynerl
 <h4>Sonuç</h4>
 
 <p>
-Docker konteynerizasyonu, modern web uygulamalarının geliştirilmesi ve dağıtımı için kritik bir teknolojidir. Canakkale Web Development çözümleri ile Docker tabanlı çözümler kullanarak uygulamalarınızı güvenli, hızlı ve ölçeklenebilir bir şekilde yönetebilirsiniz.
+Docker konteynerizasyonu, modern web uygulamalarının geliştirilmesi ve dağıtımı için kritik bir teknolojidir. Çanakkale Web Development çözümleri ile Docker tabanlı çözümler kullanarak uygulamalarınızı güvenli, hızlı ve ölçeklenebilir bir şekilde yönetebilirsiniz.
 </p>
 
 </div>

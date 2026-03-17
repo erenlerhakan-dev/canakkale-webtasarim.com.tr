@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Büyüme İçin Veri Analitiği ve İş Zekası | Canakkale Web Development</title>
+<title>Büyüme İçin Veri Analitiği ve İş Zekası | Çanakkale Web Development</title>
 
-<meta name="description" content="Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Canakkale Web Development çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.">
+<meta name="description" content="Veri analitiği ve iş zekası ile işletmenizin büyümesini hızlandırın. Çanakkale Web Development çözümleri ile veriye dayalı kararlar alın ve rekabette öne geçin.">
 
 <meta property="og:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile veri analitiği ve iş zekası uygulamaları ile işletmenizin büyümesini hızlandırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Büyüme İçin Veri Analitiği ve İş Zekası">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile veri analitiği ve iş zekası kullanarak işletmenizi büyütün ve karar süreçlerinizi optimize edin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/buyume-icin-veri-analitigi-ve-is-zekasi.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -77,7 +77,7 @@
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center">
-<a href="javascript:void(0);">Veri Analitiği, İş Zekası, Canakkale Web Development</a>
+<a href="javascript:void(0);">Veri Analitiği, İş Zekası, Çanakkale Web Development</a>
 </div>
 
 <h3 class="post-title text-center">
@@ -89,7 +89,7 @@ Büyüme İçin Veri Analitiği ve İş Zekası
 <div class="post-excerpt mt-15">
 
 <p>
-Veri analitiği ve iş zekası, işletmelerin büyüme stratejilerini optimize etmeleri ve doğru kararlar almaları için kritik araçlardır. <strong>Canakkale Web Development çözümleri</strong>, veriye dayalı raporlar ve iş zekası uygulamaları ile işletmenizin performansını artırır.
+Veri analitiği ve iş zekası, işletmelerin büyüme stratejilerini optimize etmeleri ve doğru kararlar almaları için kritik araçlardır. <strong>Çanakkale Web Development çözümleri</strong>, veriye dayalı raporlar ve iş zekası uygulamaları ile işletmenizin performansını artırır.
 </p>
 
 <h4>1. Veri Analitiği Nedir?</h4>
@@ -104,7 +104,7 @@ Veri analitiği, işletme verilerini toplama, analiz etme ve anlamlı içgörül
 İş zekası, veri analitiğini görselleştirerek yöneticilere hızlı ve etkili karar alma imkânı sağlar. Dashboardlar, raporlar ve KPI göstergeleri ile işletmenin durumu anlık olarak takip edilir.
 </p>
 
-<h4>3. Canakkale Web Development ile Veri Analitiği</h4>
+<h4>3. Çanakkale Web Development ile Veri Analitiği</h4>
 
 <p>
 Çanakkale’deki işletmeler, web siteleri ve dijital platformlar üzerinden toplanan verileri analiz ederek müşteri davranışlarını daha iyi anlayabilir. BI çözümleri, satış ve pazarlama stratejilerini optimize eder ve büyüme fırsatlarını ortaya çıkarır.
@@ -132,7 +132,7 @@ Veri analitiği, işletme verilerini toplama, analiz etme ve anlamlı içgörül
 <h4>Sonuç</h4>
 
 <p>
-Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rekabet avantajı elde etmek için vazgeçilmez araçlardır. Canakkale Web Development çözümleri ile veri odaklı kararlar alarak, işletmenizin büyümesini sürdürülebilir ve etkili hale getirebilirsiniz.
+Veri analitiği ve iş zekası, işletmelerin büyümesini hızlandırmak ve rekabet avantajı elde etmek için vazgeçilmez araçlardır. Çanakkale Web Development çözümleri ile veri odaklı kararlar alarak, işletmenizin büyümesini sürdürülebilir ve etkili hale getirebilirsiniz.
 </p>
 
 </div>

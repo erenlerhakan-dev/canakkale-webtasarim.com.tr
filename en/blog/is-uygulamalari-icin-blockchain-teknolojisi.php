@@ -3,21 +3,21 @@
 
 <head>
 
-<title>İş Uygulamaları İçin Blockchain Teknolojisi | Canakkale Web Development</title>
+<title>İş Uygulamaları İçin Blockchain Teknolojisi | Çanakkale Web Development</title>
 
-<meta name="description" content="İş uygulamalarında blockchain teknolojisi rehberi. Canakkale Web Development çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.">
+<meta name="description" content="İş uygulamalarında blockchain teknolojisi rehberi. Çanakkale Web Development çözümleri ile güvenli, şeffaf ve izlenebilir iş süreçleri oluşturun.">
 
 <meta property="og:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile blockchain teknolojisini iş uygulamalarınıza entegre ederek güvenli ve şeffaf süreçler oluşturun.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İş Uygulamaları İçin Blockchain Teknolojisi">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile blockchain teknolojisini iş süreçlerinize entegre ederek güvenlik ve şeffaflık sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/is-uygulamalari-icin-blockchain-teknolojisi.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -77,7 +77,7 @@
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center">
-<a href="javascript:void(0);">Blockchain, İş Uygulamaları, Canakkale Web Development</a>
+<a href="javascript:void(0);">Blockchain, İş Uygulamaları, Çanakkale Web Development</a>
 </div>
 
 <h3 class="post-title text-center">
@@ -89,7 +89,7 @@
 <div class="post-excerpt mt-15">
 
 <p>
-Blockchain teknolojisi, işletmelerin dijital işlemlerini daha güvenli, şeffaf ve izlenebilir hale getiren devrim niteliğinde bir çözümdür. <strong>Canakkale Web Development çözümleri</strong>, işletmenize özel blockchain uygulamaları geliştirerek iş süreçlerinizi optimize eder ve güvenlik risklerini azaltır.
+Blockchain teknolojisi, işletmelerin dijital işlemlerini daha güvenli, şeffaf ve izlenebilir hale getiren devrim niteliğinde bir çözümdür. <strong>Çanakkale Web Development çözümleri</strong>, işletmenize özel blockchain uygulamaları geliştirerek iş süreçlerinizi optimize eder ve güvenlik risklerini azaltır.
 </p>
 
 <h4>1. Blockchain Nedir?</h4>
@@ -118,7 +118,7 @@ Blockchain, merkeziyetsiz ve değiştirilemez bir dijital kayıt sistemi sunar. 
 <li>İş ortakları ve paydaşlar arasında güven oluşturur</li>
 </ul>
 
-<h4>4. Canakkale Web Development ile Blockchain Uygulamaları</h4>
+<h4>4. Çanakkale Web Development ile Blockchain Uygulamaları</h4>
 
 <p>
 Çanakkale’deki işletmeler, blockchain teknolojisini iş süreçlerine entegre ederek operasyonel verimlilik, güvenlik ve şeffaflık kazanabilir. Uzman ekipler, ihtiyaç analizi, platform seçimi ve özel blockchain çözümleri ile projeleri hayata geçirir.
@@ -136,7 +136,7 @@ Blockchain, merkeziyetsiz ve değiştirilemez bir dijital kayıt sistemi sunar. 
 <h4>Sonuç</h4>
 
 <p>
-İş uygulamalarında blockchain teknolojisi kullanmak, güvenliği artırır, veri doğruluğunu sağlar ve iş süreçlerini daha şeffaf hale getirir. <strong>Canakkale Web Development çözümleri</strong> ile işletmenize özel blockchain uygulamaları geliştirerek dijital dönüşümünüzü güçlendirebilirsiniz.
+İş uygulamalarında blockchain teknolojisi kullanmak, güvenliği artırır, veri doğruluğunu sağlar ve iş süreçlerini daha şeffaf hale getirir. <strong>Çanakkale Web Development çözümleri</strong> ile işletmenize özel blockchain uygulamaları geliştirerek dijital dönüşümünüzü güçlendirebilirsiniz.
 </p>
 
 </div>

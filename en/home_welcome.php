@@ -49,7 +49,7 @@
 <span class="inquiry">
 <select name="Visiting" class="nicesel">
 <option disabled selected>Subject *</option>
-<option value="Genel">Genel</option>
+<option value="General">General</option>
 <option value="Custom Web Development">Custom Web Development</option>
 <option value="CRM Systems">CRM Systems</option>
 <option value="ERP Solutions">ERP Solutions</option>
@@ -59,8 +59,8 @@
 <option value="B2B & B2C Solutions">B2B & B2C Solutions</option>
 <option value="Custom Software Development">Custom Software Development</option>
 <option value="API Development">API Development</option>
-<option value="Güvenlik ve Bakım">Güvenlik ve Bakım</option>
-<option value="Performans Optimizasyonu">Performans Optimizasyonu</option>
+<option value="Server Security and Maintenance">Server Security and Maintenance</option>
+<option value="Software Performance Optimization">Software Performance Optimization</option>
 <option value="Technical Consulting">Technical Consulting</option>
 </select>
 </span>

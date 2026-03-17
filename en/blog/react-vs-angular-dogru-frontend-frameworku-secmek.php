@@ -3,7 +3,7 @@
 
 <head>
 
-<title>React vs Angular: Doğru Frontend Framework'ü Seçmek | Canakkale Web Development</title>
+<title>React vs Angular: Doğru Frontend Framework'ü Seçmek | Çanakkale Web Development</title>
 
 <meta name="description" content="React ve Angular arasındaki farkları keşfedin. Modern web uygulamaları için hangi frontend framework'ün daha uygun olduğunu öğrenin.">
 
@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="React vs Angular: Doğru Frontend Framework'ü Seçmek">
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/react-vs-angular-dogru-frontend-frameworku-secmek.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"

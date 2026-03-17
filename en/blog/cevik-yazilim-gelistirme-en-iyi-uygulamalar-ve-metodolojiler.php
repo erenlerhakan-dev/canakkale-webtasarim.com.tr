@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler | Canakkale Web Development</title>
+<title>Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler | Çanakkale Web Development</title>
 
-<meta name="description" content="Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Canakkale Web Development çözümleri ile projelerinizi hızlı ve verimli yönetin.">
+<meta name="description" content="Çevik yazılım geliştirme metodolojileri ve en iyi uygulamalar rehberi. Çanakkale Web Development çözümleri ile projelerinizi hızlı ve verimli yönetin.">
 
 <meta property="og:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile çevik yazılım geliştirme metodolojilerini uygulayarak projelerinizi hızlı ve verimli yönetin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Çevik Yazılım Geliştirme: En İyi Uygulamalar ve Metodolojiler">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile çevik yazılım geliştirme metodolojilerini projelerinize uygulayın ve verimliliği artırın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/cevik-yazilim-gelistirme-en-iyi-uygulamalar-ve-metodolojiler.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@
 <div class="post-excerpt mt-15">
 
 <p>
-Çevik yazılım geliştirme (Agile), hızlı, esnek ve müşteri odaklı projeler üretmek için modern bir metodolojidir. <strong>Canakkale Web Development çözümleri</strong>, çevik prensipleri kullanarak yazılım geliştirme süreçlerini optimize eder ve projelerin başarı oranını artırır.
+Çevik yazılım geliştirme (Agile), hızlı, esnek ve müşteri odaklı projeler üretmek için modern bir metodolojidir. <strong>Çanakkale Web Development çözümleri</strong>, çevik prensipleri kullanarak yazılım geliştirme süreçlerini optimize eder ve projelerin başarı oranını artırır.
 </p>
 
 <h4>1. Çevik Yazılım Geliştirmenin Temel Prensipleri</h4>
@@ -124,7 +124,7 @@
 <li><strong>Şeffaflık:</strong> Proje durumu tüm ekip tarafından takip edilebilir.</li>
 </ul>
 
-<h4>5. Canakkale Web Development ile Çevik Projeler</h4>
+<h4>5. Çanakkale Web Development ile Çevik Projeler</h4>
 
 <p>
 Çanakkale’deki işletmeler, çevik metodolojileri kullanarak yazılım projelerini daha verimli, hızlı ve güvenli bir şekilde hayata geçirebilir. Özelleştirilmiş çözümler, ekiplerin etkin çalışmasını ve projelerin başarıyla tamamlanmasını sağlar.
@@ -133,7 +133,7 @@
 <h4>Sonuç</h4>
 
 <p>
-Çevik yazılım geliştirme, modern projelerde başarı için kritik bir yaklaşımdır. Canakkale Web Development çözümleri ile çevik metodolojileri projelerinize entegre ederek hızlı, esnek ve kaliteli web uygulamaları geliştirebilirsiniz.
+Çevik yazılım geliştirme, modern projelerde başarı için kritik bir yaklaşımdır. Çanakkale Web Development çözümleri ile çevik metodolojileri projelerinize entegre ederek hızlı, esnek ve kaliteli web uygulamaları geliştirebilirsiniz.
 </p>
 
 </div>

@@ -3,21 +3,21 @@
 
 <head>
 
-<title>JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte | Canakkale Web Development</title>
+<title>JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte | Çanakkale Web Development</title>
 
-<meta name="description" content="React, Vue, Angular ve Svelte karşılaştırması rehberi. Canakkale Web Development çözümleri ile doğru JavaScript framework'ünü seçin ve modern web uygulamaları geliştirin.">
+<meta name="description" content="React, Vue, Angular ve Svelte karşılaştırması rehberi. Çanakkale Web Development çözümleri ile doğru JavaScript framework'ünü seçin ve modern web uygulamaları geliştirin.">
 
 <meta property="og:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve işletmeniz için en uygun çözümü seçin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile React, Vue, Angular ve Svelte framework'lerini karşılaştırın ve en uygun frontend çözümünü seçin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/javascript-framework-karsilastirmasi-react-vue-angular-svelte.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -89,7 +89,7 @@ JavaScript Framework Karşılaştırması: React, Vue, Angular, Svelte
 <div class="post-excerpt mt-15">
 
 <p>
-Modern web geliştirme dünyasında JavaScript framework’leri, hızlı, ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirmek için kritik bir rol oynar. <strong>Canakkale Web Development çözümleri</strong>, React, Vue, Angular ve Svelte gibi popüler framework’leri değerlendirerek, işletmeniz için en uygun frontend çözümü sunar.
+Modern web geliştirme dünyasında JavaScript framework’leri, hızlı, ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirmek için kritik bir rol oynar. <strong>Çanakkale Web Development çözümleri</strong>, React, Vue, Angular ve Svelte gibi popüler framework’leri değerlendirerek, işletmeniz için en uygun frontend çözümü sunar.
 </p>
 
 <h4>1. React</h4>
@@ -116,7 +116,7 @@ Angular, Google tarafından geliştirilen tam özellikli bir framework’tür. B
 Svelte, derleme zamanı framework’üdür. Reaktif yapısı sayesinde hızlı ve küçük boyutlu uygulamalar üretir. Öğrenme eğrisi kısa ve performans odaklı projeler için idealdir.
 </p>
 
-<h4>5. Canakkale Web Development ile Doğru Seçim</h4>
+<h4>5. Çanakkale Web Development ile Doğru Seçim</h4>
 
 <p>
 Çanakkale’deki işletmeler, proje gereksinimlerine göre doğru framework’ü seçerek geliştirme süresini kısaltabilir ve uygulamalarının performansını artırabilir. Uzman ekipler, frontend projelerinde en uygun teknolojiyi belirleyip uygulamayı optimize eder.
@@ -135,7 +135,7 @@ Svelte, derleme zamanı framework’üdür. Reaktif yapısı sayesinde hızlı v
 <h4>Sonuç</h4>
 
 <p>
-JavaScript framework seçimi, projenizin ölçeği, performans gereksinimleri ve ekip becerilerine bağlıdır. Canakkale Web Development çözümleri ile React, Vue, Angular veya Svelte framework’lerinden işletmeniz için en uygun olanı seçerek modern ve performanslı web uygulamaları geliştirebilirsiniz.
+JavaScript framework seçimi, projenizin ölçeği, performans gereksinimleri ve ekip becerilerine bağlıdır. Çanakkale Web Development çözümleri ile React, Vue, Angular veya Svelte framework’lerinden işletmeniz için en uygun olanı seçerek modern ve performanslı web uygulamaları geliştirebilirsiniz.
 </p>
 
 </div>

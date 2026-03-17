@@ -3,22 +3,22 @@
 
 <head>
 <title>Çanakkale Web Development - Professional Web Development and Software Solutions</title>
-<meta name="description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
+<meta name="description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
 
 <?php include_once('../head_meta.php'); ?>
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.canakkale-webtasarim.com.tr/en/">
 <meta property="og:title" content="Çanakkale Web Development - Professional Web Development and Software Solutions">
-<meta property="og:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
+<meta property="og:description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
 <meta property="og:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Çanakkale Web Development - Professional Web Development and Software Solutions">
-<meta name="twitter:description" content="Canakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
+<meta name="twitter:description" content="Çanakkale Web Development - Professional Web Development and Software Solutions. Professional web development and software solutions in Çanakkale, Türkiye. CRM, ERP, E-commerce, Reservation Systems and custom software development with Laravel, React, Django and more.">
 <meta name="twitter:image" content="https://www.canakkale-webtasarim.com.tr/images/logo.png">
 
-<script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Canakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webtasarim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
+<script type="application/ld+json" data-rh="true">{"@context":"https:/schema.org","@type":"LocalBusiness","name":"Çanakkale Web Development","url":"https://canakkale-webyazilim.com.tr","logo":"https://canakkale-webtasarim.com.tr/logo.png","description":"Çanakkale, Türkiye'de profesyonel web geliştirme ve yazılım çözümleri","address":{"@type":"PostalAddress","streetAddress":"Esenler Mh. Ahmet Piriştina Cd. No:19 Daire:17","addressLocality":"Çanakkale","postalCode":"17000","addressCountry":"TR"},"contactPoint":{"@type":"ContactPoint","telephone":"+90-534-792-2531","contactType":"customer service","email":"info@cozumcloud.com.tr"},"sameAs":["https://www.facebook.com/cozum.cloud/","https://x.com/cozumcloud","https://www.instagram.com/cozum.cloud/","https://www.linkedin.com/company/cozum-cloud"]}</script>
 
 </head>
 
@@ -42,7 +42,7 @@
 <h6 class="section-sub-title mb-20">About Çanakkale Web Development</h6>
 </div>
 <h6 class="mb-20">Who We Are</h6>
-<p>Canakkale Web Development is a professional software development company based in Çanakkale, Turkey. We specialize in creating custom web applications, CRM systems, ERP solutions, e-commerce platforms, and mobile applications for businesses of all sizes. <br><br>
+<p>Çanakkale Web Development is a professional software development company based in Çanakkale, Turkey. We specialize in creating custom web applications, CRM systems, ERP solutions, e-commerce platforms, and mobile applications for businesses of all sizes. <br><br>
 
 With over ten years of experience in the industry, we have successfully delivered hundreds of projects to Turkish and international clients. Our team of talented developers, designers, and project managers works together to bring your vision to life. <br><br>
 

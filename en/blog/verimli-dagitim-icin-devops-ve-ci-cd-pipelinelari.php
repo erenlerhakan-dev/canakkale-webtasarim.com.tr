@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Canakkale Web Development</title>
+<title>Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları | Çanakkale Web Development</title>
 
-<meta name="description" content="DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Canakkale Web Development çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.">
+<meta name="description" content="DevOps ve CI/CD pipeline kullanımı ile yazılım dağıtım süreçlerinizi optimize edin. Çanakkale Web Development çözümleri ile hızlı ve güvenli yazılım teslimi sağlayın.">
 
 <meta property="og:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile DevOps ve CI/CD pipeline kullanarak yazılım dağıtım süreçlerinizi hızlandırın ve güvenli hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile DevOps ve CI/CD pipeline uygulamaları sayesinde hızlı ve güvenli yazılım dağıtımı sağlayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/verimli-dagitim-icin-devops-ve-ci-cd-pipelinelari.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -77,7 +77,7 @@
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center">
-<a href="javascript:void(0);">DevOps, CI/CD, Canakkale Web Development</a>
+<a href="javascript:void(0);">DevOps, CI/CD, Çanakkale Web Development</a>
 </div>
 
 <h3 class="post-title text-center">
@@ -89,7 +89,7 @@ Verimli Dağıtım İçin DevOps ve CI/CD Pipeline'ları
 <div class="post-excerpt mt-15">
 
 <p>
-Yazılım projelerinde hızlı ve güvenli dağıtım, başarı için kritik öneme sahiptir. <strong>DevOps ve CI/CD pipeline'ları</strong>, yazılım geliştirme ve dağıtım süreçlerini otomatikleştirerek verimliliği artırır. <strong>Canakkale Web Development çözümleri</strong>, işletmelere DevOps stratejileri ve pipeline kurulumları ile yazılım teslim süreçlerini optimize eder.
+Yazılım projelerinde hızlı ve güvenli dağıtım, başarı için kritik öneme sahiptir. <strong>DevOps ve CI/CD pipeline'ları</strong>, yazılım geliştirme ve dağıtım süreçlerini otomatikleştirerek verimliliği artırır. <strong>Çanakkale Web Development çözümleri</strong>, işletmelere DevOps stratejileri ve pipeline kurulumları ile yazılım teslim süreçlerini optimize eder.
 </p>
 
 <h4>1. DevOps Nedir?</h4>
@@ -114,7 +114,7 @@ CI (Continuous Integration) ve CD (Continuous Delivery / Deployment) pipeline’
 <li>Tekrarlanabilir ve ölçeklenebilir süreçler</li>
 </ul>
 
-<h4>4. Canakkale Web Development ile Uygulama</h4>
+<h4>4. Çanakkale Web Development ile Uygulama</h4>
 
 <p>
 Çanakkale’deki işletmeler, DevOps ve CI/CD pipeline’larını kullanarak yazılım geliştirme süreçlerini optimize edebilir. Uzman ekipler, projeleri analiz eder, otomasyon süreçlerini kurar ve performans ile güvenliği garanti eder.
@@ -132,7 +132,7 @@ CI (Continuous Integration) ve CD (Continuous Delivery / Deployment) pipeline’
 <h4>Sonuç</h4>
 
 <p>
-DevOps ve CI/CD pipeline’ları, yazılım dağıtımında verimlilik ve güvenliği artıran kritik araçlardır. <strong>Canakkale Web Development çözümleri</strong> ile işletmenizin yazılım süreçlerini optimize ederek hızlı, güvenli ve sürdürülebilir bir dağıtım elde edebilirsiniz.
+DevOps ve CI/CD pipeline’ları, yazılım dağıtımında verimlilik ve güvenliği artıran kritik araçlardır. <strong>Çanakkale Web Development çözümleri</strong> ile işletmenizin yazılım süreçlerini optimize ederek hızlı, güvenli ve sürdürülebilir bir dağıtım elde edebilirsiniz.
 </p>
 
 </div>

@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Web Sitesi Performans Optimizasyon Teknikleri | Canakkale Web Development</title>
+<title>Web Sitesi Performans Optimizasyon Teknikleri | Çanakkale Web Development</title>
 
-<meta name="description" content="Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Canakkale Web Development çözümleri ile hızlı ve verimli web siteleri oluşturun.">
+<meta name="description" content="Web sitesi performansını artırmak için etkili optimizasyon teknikleri. Çanakkale Web Development çözümleri ile hızlı ve verimli web siteleri oluşturun.">
 
 <meta property="og:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile web sitenizi optimize edin, hızlandırın ve kullanıcı deneyimini artırın.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Web Sitesi Performans Optimizasyon Teknikleri">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile web sitenizi hızlandırın ve performans odaklı optimizasyon uygulayın.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/web-sitesi-performans-optimizasyon-teknikleri.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -77,7 +77,7 @@
 <div class="post-info lg-blog-post-info">
 
 <div class="post-categories text-center">
-<a href="javascript:void(0);">Web Performans, Optimizasyon, Canakkale Web Development</a>
+<a href="javascript:void(0);">Web Performans, Optimizasyon, Çanakkale Web Development</a>
 </div>
 
 <h3 class="post-title text-center">
@@ -89,7 +89,7 @@ Web Sitesi Performans Optimizasyon Teknikleri
 <div class="post-excerpt mt-15">
 
 <p>
-Web sitelerinin hızlı ve verimli çalışması, kullanıcı deneyimi ve SEO açısından kritik öneme sahiptir. <strong>Canakkale Web Development çözümleri</strong>, performans optimizasyon teknikleri ile web sitelerinin yükleme süresini kısaltır ve verimliliği artırır.
+Web sitelerinin hızlı ve verimli çalışması, kullanıcı deneyimi ve SEO açısından kritik öneme sahiptir. <strong>Çanakkale Web Development çözümleri</strong>, performans optimizasyon teknikleri ile web sitelerinin yükleme süresini kısaltır ve verimliliği artırır.
 </p>
 
 <h4>1. Sunucu ve Hosting Optimizasyonu</h4>
@@ -122,7 +122,7 @@ Tarayıcı önbellekleme ve içerik dağıtım ağları (CDN) ile statik içerik
 Web sitesi performansı düzenli olarak test edilmeli ve izlenmelidir. Google PageSpeed Insights, GTmetrix ve Lighthouse gibi araçlarla performans analizleri yapılabilir.
 </p>
 
-<h4>6. Canakkale Web Development ile Uygulama</h4>
+<h4>6. Çanakkale Web Development ile Uygulama</h4>
 
 <p>
 Çanakkale’deki işletmeler, web sitelerini performans açısından optimize etmek için profesyonel destek alabilir. Uzman ekipler, site analizi, optimizasyon ve izleme süreçlerini yöneterek hızlı ve kullanıcı dostu web siteleri sağlar.
@@ -131,7 +131,7 @@ Web sitesi performansı düzenli olarak test edilmeli ve izlenmelidir. Google Pa
 <h4>Sonuç</h4>
 
 <p>
-Web sitesi performans optimizasyonu, kullanıcı memnuniyetini artırmak ve arama motorlarında öne çıkmak için kritik bir adımdır. <strong>Canakkale Web Development çözümleri</strong> ile web sitenizi hızlandırabilir, performans odaklı ve verimli bir dijital deneyim sunabilirsiniz.
+Web sitesi performans optimizasyonu, kullanıcı memnuniyetini artırmak ve arama motorlarında öne çıkmak için kritik bir adımdır. <strong>Çanakkale Web Development çözümleri</strong> ile web sitenizi hızlandırabilir, performans odaklı ve verimli bir dijital deneyim sunabilirsiniz.
 </p>
 
 </div>

@@ -3,21 +3,21 @@
 
 <head>
 
-<title>Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri | Canakkale Web Development</title>
+<title>Yüksek Performanslı Uygulamalar İçin Veritabanı Optimizasyon Teknikleri | Çanakkale Web Development</title>
 
-<meta name="description" content="Yüksek performanslı web uygulamaları için veritabanı optimizasyon tekniklerini keşfedin. Canakkale Web Development çözümleri ile hızlı ve ölçeklenebilir uygulamalar geliştirin.">
+<meta name="description" content="Yüksek performanslı web uygulamaları için veritabanı optimizasyon tekniklerini keşfedin. Çanakkale Web Development çözümleri ile hızlı ve ölçeklenebilir uygulamalar geliştirin.">
 
 <meta property="og:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
-<meta property="og:description" content="Canakkale Web Development çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
+<meta property="og:description" content="Çanakkale Web Development çözümleri ile işletmeniz için en uygun CMS platformunu seçin ve web sitenizi verimli ve kullanıcı dostu hale getirin.">
 <meta property="og:image" content="https://canakkale-webtasarim.com.tr/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp">
 <meta property="og:url" content="https://canakkale-webtasarim.com.tr/blog/modern-web-gelistirme-trendleri">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:site_name" content="Canakkale Web Development">
+<meta property="og:site_name" content="Çanakkale Web Development">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="İşletmeniz İçin Doğru CMS Platformunu Seçmek">
-<meta name="twitter:description" content="Canakkale Web Development Servicesi ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
+<meta name="twitter:description" content="Çanakkale Web Development Servicesi ile işletmeniz için ideal CMS platformunu seçerek güçlü ve yönetilebilir web siteleri geliştirin.">
 <meta name="twitter:image" content="https://canakkale-webtasarim.com.tr/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp">
 
 <?php include_once('../../head_meta.php'); ?>
@@ -31,11 +31,11 @@
 "image": "https://canakkale-webtasarim.com.tr/images/blog/yuksek-performansli-uygulamalar-icin-veritabani-optimizasyon-teknikleri.webp",
 "author": {
 "@type": "Person",
-"name": "Canakkale Web Development"
+"name": "Çanakkale Web Development"
 },
 "publisher": {
 "@type": "Organization",
-"name": "Canakkale Web Development",
+"name": "Çanakkale Web Development",
 "logo": {
 "@type": "ImageObject",
 "url": "https://canakkale-webtasarim.com.tr/assets/images/logo/logo.webp"
@@ -93,7 +93,7 @@ Modern web uygulamalarında performans, kullanıcı deneyimini doğrudan etkiley
 </p>
 
 <p>
-<strong>Canakkale Web Development çözümleri</strong> geliştiren firmalar için performans odaklı veritabanı tasarımı kritik bir konudur. Özellikle CRM Systems, e-ticaret platformları, Reservation Systems ve ERP yazılımları gibi veri yoğun uygulamalarda optimize edilmiş veritabanı yapısı, sistemin sürdürülebilirliğini ve ölçeklenebilirliğini sağlar.
+<strong>Çanakkale Web Development çözümleri</strong> geliştiren firmalar için performans odaklı veritabanı tasarımı kritik bir konudur. Özellikle CRM Systems, e-ticaret platformları, Reservation Systems ve ERP yazılımları gibi veri yoğun uygulamalarda optimize edilmiş veritabanı yapısı, sistemin sürdürülebilirliğini ve ölçeklenebilirliğini sağlar.
 </p>
 
 <h4>1. Doğru Veritabanı Tasarımı</h4>
@@ -133,7 +133,7 @@ Veritabanı optimizasyonu tek seferlik bir işlem değildir. Zaman içinde büy�
 </p>
 
 <p>
-Profesyonel <strong>Canakkale Web Development Servicesi</strong> sunan firmalar, yüksek performanslı uygulamalar geliştirmek için güçlü veritabanı mimarileri kullanır. Doğru optimizasyon teknikleri sayesinde hem kullanıcı deneyimi iyileşir hem de sistem kaynakları daha verimli kullanılır.
+Profesyonel <strong>Çanakkale Web Development Servicesi</strong> sunan firmalar, yüksek performanslı uygulamalar geliştirmek için güçlü veritabanı mimarileri kullanır. Doğru optimizasyon teknikleri sayesinde hem kullanıcı deneyimi iyileşir hem de sistem kaynakları daha verimli kullanılır.
 </p>
 
 <p>
